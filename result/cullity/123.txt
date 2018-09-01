@@ -1,0 +1,298 @@
+DIFFRACTION
+
+118
+
+III
+
+THE INTENSITIES OF DIFFRACTED BEAMS
+
+where
+
+[CHAP. 4
+
+N
+
+<*
+
+a
+
+=
+
+b
+
+=
+
++ Jw n
+
+/n cos 2ir(hu n
+
++
+
+/n sin 27r(/m n
+
++ ^n +
+
++ ib)(a -
+
+=
+
+kv n
+
+),
+
+JV
+
+lw n ),
+
+1
+
+2
+
+\F\
+
+Substitution for a and
+\F\*
+
+=
+
+[/i
+
++
+
+cos 2r(hui
+
+fe
+
+-
+
+(a
+
++
+
+Ztin)
+
++ [/i sin 2ir(hui +
+Equation (4-11)
+
+is
+
+form, particularly
+
+form
+
+is
+
+much
+
+if
+
+form
+
+gives the final
+
+fan
+
++/
+
++
+
++
+
+a2
+
+&2
+
+.
+
+of the equation:
+
+cos 2r(Atii
+
+2
+
+kvi
+
+ib)
+
+Iwi)
+
++ fa* +
+
++ /, sin
+
+^2)
+
+2ir(fctt2
+
++
+
++
+kv 2
+
+2
+]
+
++
+
+Iw 2 )
+
++
+
+2
+-]
+
+-
+
+compared to this trigonometric
+complicated, since the exponential
+
+easier to manipulate,
+
+the structure
+
+at
+
+is
+
+all
+
+more compact.
+
+4-5 Some useful relations.
+
+In calculating structure factors by complex exponential functions, many particular relations occur often enough
+to be worthwhile stating here.
+They may be verified by means of Eq.
+(4-7).
+e
+
+(a)
+
+vi
+
+=
+
+In general,
+
+(c)
+
+e
+
+e
+
+(d)
+e
+
+(e)
+
+lx
+
++
+
+nTl
+
+nvi
+
+e~
+
+lx
+
+Ti ==
+5iri
+e
+
+**<
+
+c*'
+
+(fc)
+
+e*
+
+=
+
+=
+
+6
+
+n
+(
+
+l)
+
+=
+
+e~~
+
+=
+
+2 cos
+
+,
+
+"
+
++1,
+
+where n
+
+,
+
+nTl
+
+= -1,
+
+where n
+
+is
+
+is
+
+any
+
+any
+
+integer,
+
+integer,
+
+z.
+
+Facility in the use of Eq. (4-11) can
+
+4r-6 Structure-factor calculations.
+
+by working out some actual examples, and we shall consider a few such problems here and again in Chap. 10.
+(a) The simplest case is that of a unit cell containing only one atom at
+the origin, i.e., having fractional coordinates 000. Its structure factor is
+be gained only
+
+F =
+
+2Tl(0)
+
+/e
+
+=
+
+/
+
+and
+
+F2 =/2
+F2
+
+.
+
+thus independent of A, fc, and I and is the same for all reflections.
+Consider now the base-centered cell discussed at the beginning of
+this chapter and shown in Fig. 4-1 (a). It has two atoms of the same kind
+per unit cell located at
+0,and J J 0.
+is
+
+(6)
+
+/[I
+
+

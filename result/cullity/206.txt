@@ -1,0 +1,115 @@
+SCINTILLATION COUNTERS
+
+7-7]
+
+7-7 Scintillation counters.
+
+201
+
+This type of counter
+
+utilizes
+
+the ability of
+
+x-rays to cause certain substances to fluoresce visible light. The amount
+of light emitted is proportional to the x-ray intensity and can be measured
+by means of a phototube. Since the amount of light emitted is small, a
+special kind of
+
+phototube called a photomultiplier has to be employed
+
+order to obtain a measurable current output.
+The substance generally used to detect x-rays
+
+amount of
+The crystal
+
+activated with a small
+
+thallium.
+
+x-ray bombardment.
+
+is
+
+is
+
+in
+
+a sodium iodide crystal
+
+It emits blue light
+
+under
+
+cemented to the face of a photoand shielded from external light
+
+.multiplier tube, as indicated in Fig. 7-18,
+
+by means of aluminum foil. A flash of light is produced in the crystal for
+every x-ray quantum absorbed, and this light passes into the photomultiplier tube and ejects a number of electrons from the photocathode, vhich
+is a photosensitive material generally made of a caesium-antimony intermetallic
+
+compound.
+
+in Fig. 7-18.)
+
+(For simplicity, only one of these electrons is shown
+electrons are then drawn to the first of several
+
+The emitted
+
+metal dynodes, each maintained at a potential about 100 volts more positive than the preceding one, the last one being connected to the measuring
+circuit.
+
+On
+
+reaching the
+
+first
+
+dynode, each electron from the photocathode
+
+knocks two electrons, say, out of the metal surface, as indicated in the
+drawing. These are drawn to the second dynode where each knocks out
+two more electrons and so on. Actually, the gain at each dynode may
+be 4 or 5 and there are usually at least 10 dynodes. If the gain per dynode
+7
+10 =
+10
+is 5 and there are 10 dynodes, then the multiplication factor is 5
+Thus the absorption of one x-ray quantum in the crystal results in the
+.
+
+collection of a very large number of electrons at the final dynode, producing
+a pulse about as large as a Geiger pulse, i.e., of the order of volts. Furthermore, the whole process requires less than a microsecond, so that a scintil5
+lation counter can operate at rates as high as 10 counts per second without
+
+As
+
+in the proportional counter, the pulses
+
+produced
+
+in a scintillation
+
+counter have sizes proportional to the energy of the quanta absorbed.
+photocathode
+
+dynodes
+
+vacuum
+\
+
+crystal
+
+FIG. 7-18.
+
+photoniultiplicr tube
+
+Scintillation counter (schematic).
+
+Electrical connections not shown.
+
+

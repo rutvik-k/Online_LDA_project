@@ -1,0 +1,87 @@
+CRYSTAL MONOCHROMATORS
+
+6-12]
+
+(h)
+
+171
+
+'/"
+
+Cameras used with focusing monochromators (a) focusing cameras;
+Debye-Scherrer and flat-film cameras
+Only one diffracted beam is shown in
+each case. (After A. (Juinier, X-ray Crystallographic Technology, Hilger and Watts,
+Ltd., London, 1952)
+FIG. 6-16.
+
+(b)
+
+monochromatic beam acting as a virtual source of divergent radiation.
+In either case, the diffracted rays from the specimen are focused on the
+film for all hkl reflections; the only requirement is that the film be located
+on a circle passing through the specimen and the point F.
+
+A
+
+flat-film camera may also be used with a focusing
+monochromator, if the incident-beam collimator is removed.
+Figure
+6-1 6(b) shows such an arrangement, where D is the specimen, E is a
+Debye camera, and PP' is the position where a flat film may be placed.
+In neither case, however, is the above-mentioned focusing requirement
+satisfied, with the result that no more than one diffracted beam, corresponding to one particular hkl reflection, can be focused on the film at the
+
+Debye-Scherrer or
+
+same
+
+time.
+
+A
+
+bent crystal may also be used in transmission as a focusing monochromator. It must be thin enough to transmit a large fraction of the
+incident radiation arid have a set of reflecting planes at right angles to its
+is often used.
+In Fig. 6-17, the line
+represents the
+bent
+to
+a
+radius
+its
+center
+of
+curvature
+located
+at M. Three
+crystal,
+2/2,
+
+ACB
+
+surface; mica
+
+of its transverse reflecting planes are shown.
+
+If radiation converging to
+were incident on these planes and reflected at the points //, C, and (/,
+the reflected radiation would converge to a perfect focus at F, all the
+points mentioned being on a focusing circle of radius R centered at 0.
+But the reflecting planes do not actually extend out of the crystal surface
+
+A'
+
+in the
+
+way shown
+
+in the
+
+drawing and
+
+reflection
+
+must occur at the points
+
+

@@ -1,0 +1,255 @@
+DIFFRACTION
+
+JLJO
+
+since they
+
+II
+
+:
+
+THE INTENSITIES OF DIFFRACTED BEAMS
+
+have the same values
+
++
+
+of (h?
+
+2
+fc
+
+)
+
+2
+
+and
+
+I
+
+[CHAP. 4
+
+In such a case, the
+
+.
+
+must be calculated separately, since in general
+have different multiplicity and structure factors, and then
+
+intensity of each reflection
+
+the two will
+
+find the total intensity of the line.
+
+added to
+
+4-14 Measurement of x-ray intensity. In the examples just given, the
+observed intensity was estimated simply by visual comparison of one line
+with another. Although this simple procedure is satisfactory in a surwhich a more precise
+prisingly large number of cases, there are problems in
+measurement of diffracted intensity is necessary. Two methods are in
+on the
+general use today for making such measurements, one dependent
+to ionize
+photographic effect of x-rays and the other on the ability of x-rays
+have
+methods
+These
+in
+of
+fluorescence
+cause
+and
+crystals.
+light
+gases
+more
+will
+described
+be
+and
+1-8
+in
+Sec.
+fully
+mentioned
+been
+briefly
+already
+in
+
+Chaps. 6 and
+
+7, respectively.
+
+PROBLEMS
+adding Eqs. (4-5) and (4-6) and simplifying the sum, show that
+the resultant of these two sine waves, is also a sine wave, of amplitude
+4-1.
+
+By
+
+A3 =
+and of phase
+
++A +
+*
+
+2
+
+[Ai
+
+2
+
+2A,A 2
+
+1
+
+AI
+
+fa
+
+-
+
+3,
+
+<*> 2 )]
+
++ Az sin 92
++ A COS 02
+
+sin fa
+= tan" -;AI
+^
+.
+
+</> 3
+
+cos
+
+E
+
+,
+
+,
+
+COS fa
+
+2
+
+solving the vector diagram of Fig. 4-11 for the
+the
+hypotenuse.
+right-angle triangle of
+2
+4^3. Derive simplified expressions for F for diamond, including the rules governing observed reflections. This crystal is cubic and contains 8 carbon atoms per
+
+4-2. Obtain the
+
+same
+
+result
+
+by
+
+which A 3
+
+unit
+
+cell,
+
+located in the following positions:
+
+HO
+Hi
+
+000
+
+Hi
+4-4.
+
+is
+
+A
+
+Hi
+atoms
+
+certain tetragonal crystal has four
+
+located at
+
+H.
+
+i
+
+i,
+
+\
+
+f,
+
+OH
+Hi
+
+$0i
+
+of the
+
+same kind per unit
+
+cell,
+
+H-
+
+(b)
+
+Derive simplified expressions for F
+What is the Bravais lattice of this crystal?
+
+(c)
+
+What
+
+2
+
+(a)
+
+.
+
+are the values of
+
+F2
+
+for the 100, 002, 111,
+
+4-6. Derive simplified expressions for
+
+F
+
+2
+
+and Oil
+
+for the wurtzite
+
+This crystal
+
+ing the rules governing observed
+tains 2 ZnS per unit cell, located in the following positions:
+reflections.
+
+Zn:000,
+
+Hi
+
+S:OOf,Hi
+
+reflections?
+
+form of ZnS, includhexagonal and con-
+
+is
+
+

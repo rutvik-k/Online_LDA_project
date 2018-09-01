@@ -1,0 +1,197 @@
+POWDER PHOTOGRAPHS
+
+176
+
+[CHAP. 6
+
+PROBLEMS
+6-1. Plot a curve similar to that of Fig. 6-4 showing the absorption of Fe Ka
+radiation by air. Take the composition of air as 80 percent nitrogen and 20 percent
+by weight. If a 1-hr exposure in air is required to produce a certain
+
+oxygen,
+
+diffraction line intensity in a 19-cm-diameter
+
+camera with Fe
+
+Ka
+
+radiation,
+
+what
+
+camera evacuated,
+exposure is required to obtain the same line intensity with the
+other conditions being equal?
+6-2. Derive an equation for the resolving power of a Debye-Scherrer camera
+for
+
+two wavelengths
+
+by Fig. 6-2.
+6-3. For a
+
+of nearly the
+
+Debye pattern made
+
+same
+
+value, in terms of AS, where
+
+in a 5.73-crn-diameter
+
+What
+
+is
+
+the smallest value of 6 at which the
+
+Cr
+
+is
+
+camera with Cu
+
+of the
+ation, calculate the separation of the components
+=
+and
+85.
+and in centimeters for
+10, 35, 60,
+
+6-4.
+
+S
+
+Ka
+
+Ka
+
+defined
+
+Ka
+
+radi-
+
+doublet in degrees
+
+doublet will be resolved
+
+Debye camera? Assume that the line width is 0.03 cm and
+that the separation must be twice the width for resolution.
+6-5. A powder pattern of zinc is made in a Debye-Scherrer camera 5.73 cm in
+
+in a 5.73-cm-diameter
+
+diameter with
+
+Cu Ka
+
+radiation.
+
+to separate the 11.0 and 10.3 diffrac(a) Calculate the resolving power necessary
+tion lines. Assume that the line width is 0.03 cm.
+(b)
+
+Calculate the resolving power of the camera used, for these lines.
+
+(c)
+
+What minimum camera
+
+diameter
+
+is
+
+required to produce resolution of these
+
+lines?
+
+(See Fig. 3-13(c), which shows these lines unresolved from one another.
+
+They
+
+from the low-angle end.)
+6-6. A transmission pinhole photograph is made of copper with Cu Ka radiaThe film measures 4 by 5 in. What is the maximum specimen-to-film distion.
+tance which can be used and still have the first two Debye rings completely re-
+
+form the
+
+fifth line
+
+corded on the film?
+
+powder pattern of iron is made with Cu Ka radiation. Assume that
+The
+is due entirely to fluorescent radiation from the specimen.
+the
+line
+on
+weakest
+of
+the
+the
+above
+maximum intensity (measured
+background)
+6-7.
+
+A
+
+the background
+
+If
+pattern is found to be equal to the background intensity itself at that angle.
+the film is covered with aluminum foil 0.0015 in. thick, what will be the ratio of
+
+/max for this line to the background intensity?
+6-8. A microphotometer record of a diffraction line shows the following gal-
+
+vanometer
+
+deflections:
+
+Position of Light
+
+On unexposed film
+On background, just to
+On background, just to
+On center of diffraction
+
+Beam
+
+Deflection
+
+5
+
+cm
+
+.
+
+right of line
+
+3.0
+3.2
+
+line
+
+1
+
+left of line
+
+.
+
+2
+
+Assume that x-ray intensity is proportional to photographic density. Calculate
+the ratio of 7 max for the diffraction line (measured above the background) to the
+intensity of the background at the
+
+same Bragg
+
+angle.
+
+

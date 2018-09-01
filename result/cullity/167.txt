@@ -1,0 +1,133 @@
+POWDER PHOTOGRAPHS
+
+162
+
+[CHAP. 6
+
+from one set of planes of the two components, Ka\ and Ka^
+which make up Ka radiation. These component lines are commonly found
+to be resolved, or separated, in the back-reflection region. (The ft lines in
+reflection
+
+photograph are not resolved since K/3 radiation consists only of a
+To determine the conditions under which a given
+single wavelength.)
+two
+camera can separate
+components of radiation which have almost the
+
+this
+
+same wavelength, we must use the spectroscopic definition of resolving
+power, namely X/AX, where AX is the difference between the two waveFor Cu Ka radiation, these wavelengths and X is their mean value.
+lengths are
+
+:
+
+\(CuKa 2 =
+X(Cu#a!) =
+)
+
+1.54433A
+1.54051 A
+
+AX = 0.00382A
+Therefore
+X
+
+1.542
+
+=
+
+AX
+
+=
+
+404.
+
+0.00382
+
+The resolving power of the camera must exceed this value, for the particular reflection considered, if the component lines are to be separated on
+the film.
+
+By
+
+differentiating the
+
+X
+
+Bragg law, we obtain
+
+=
+
+2d sin
+
+d<9
+
+0,
+
+dX
+
+2d cos
+
+X
+
+tan
+
+tan
+
+tan
+
+1
+
+2d sin
+
+S
+
+S
+
+(6-8)
+
+AX
+
+A0
+
+Substitution of Eq. (0-7) gives
+
+Resolving power
+
+=
+
+X
+
+AX
+
+=
+
+4J?tan0
+(6-9)
+
+A(7/2)
+
+sign here can be disregarded; it merely means that an increase in X causes a decrease in F/2, since the latter is measured from the
+
+The negative
+
+Equation (6-9) demonstrates that the resolving power
+camera radius and with 6, becoming very large near 90.
+This latter point is clearly evident in Fig. 6-10, which shows a greater
+separation of the higher-angle 400 reflections as compared to the 321 re-
+
+center of the film.
+
+increases with the
+
+flections.
+
+use of Eq. (6-9), we can calculate the resolving power, for the 321
+The camera radius is
+reflections, of the camera used to obtain Fig. 6-10.
+
+By
+
+

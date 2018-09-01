@@ -1,0 +1,196 @@
+DIFFRACTION
+
+126
+
+II!
+
+THE INTENSITIES OF DIFFRACTED BEAMS
+
+[CHAP. 4
+
+A0 from the Bragg position. The incident beam and the diffracted beam
+under consideration now make unequal angles with the reflecting planes,
+A0 and the latter an angle 2
+the former making an angle 0i = OB
+an
+is shown in Fig. 4-14(b).
+on
+atomic
+scale
+Here
+A0.
+The
+situation
+OB
+
++
+
+we need only
+
+consider a single plane of atoms, since the rays scattered by
+other planes are in phase with the corresponding rays scattered by the
+Let a equal the atom spacing in the plane and Na the total
+first plane.
+length* of the plane. The difference in path length for rays 1' and 2'
+all
+
+scattered
+
+by adjacent atoms
+5 r2
+
+By
+
+'
+
+is
+
+given by
+
+=
+
+AD - CB
+
+=
+
+a cos
+
+=
+
+a[cos (Bs
+
+a cos
+
+62
+
+A0)
+
+B\
+
+-
+
+cos (SB
+
++
+
+A0)].
+
+expanding the cosine terms and setting sin A0 equal to A0, since the
+
+latter
+
+is
+
+small,
+
+we
+
+find:
+
+=
+
+$i> 2 '
+
+and the path
+
+difference
+
+2aA0
+
+sin 0#,
+
+between the rays scattered by atoms at either end
+
+simply N times this quantity.
+atoms are (N + 1) wavelengths
+
+When the rays scattered by
+out of phase, the diffracted
+(The argument here is exactly analogous to that
+intensity will be zero.
+in
+The
+condition for zero diffracted intensity is therefore
+Sec. 3-7.)
+used
+of the plane
+
+the two end
+
+is
+
+2JVaA0 sin B
+
+= (N
+
++
+
+1)X,
+
+or
+(AT
+
++
+
+1)X
+
+A0
+
+2Na sin 6B
+This equation gives the
+
+maximum
+
+angular range of crystal rotation over
+
+which appreciable energy will be diffracted in the direction 20#. Since
+/max depends on this range, we can conclude that / max is proportional to
+I/sin 0fl. Other things being equal, / max is therefore large at low scattering angles and small in the back-reflection region.
+
+The breadth
+
+of the diffraction curve varies in the opposite
+
+larger at large values of 20#, as
+
+maximum
+
+breadth
+
+B
+
+was found
+
+was shown
+
+in Sec. 3-7,
+
+way, being
+where the half-
+
+to be proportional to I/cos BB.
+
+The
+
+inte-
+
+by the area under the diffraction
+curve and is therefore proportional to the product / ma x-B, which is in turn
+proportional to (l/sin0#)(l/cos0B) or to I/sin 26B (Thus, as a crystal
+is rotated through the Bragg angle, the integrated intensity of a
+reflection,
+grated intensity of the reflection is given
+
+.
+
+which
+*
+
+is
+
+the quantity of most experimental interest, turns out to be greater
+
+If the crystal is larger than the incident beam, then Na is the irradiated length
+of the plane; if it is smaller, Na is the actual length of the plane.
+
+

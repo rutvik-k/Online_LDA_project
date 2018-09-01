@@ -1,0 +1,161 @@
+THE TEXTURE OF WIRE AND ROD (PHOTOGRAPHIC METHOD)
+
+9-7]
+
+of
+
+279
+
+two arcs which are the paths traced out by fill} poles during rotation
+
+about [100]. In (b), this pole figure has been superposed
+on a projection of the reflection circle in order to find the locations of the
+of a single crystal
+
+Radii drawn through these points (P, Q, P',
+then
+enable
+the
+Q')
+angle a to be measured and the appearance of the
+diffraction pattern to be predicted.
+reflecting plane normals.
+
+and
+
+An unknown
+
+fiber axis is identified
+
+by measuring the angle
+film
+
+a on the
+
+and obtaining p from Eq.
+this is done for a number
+
+When
+
+(9-6).
+of dif-
+
+ferent hkl reflections, a set of p values
+is obtained from which the indices
+[uvw] of the fiber axis can be deter-
+
+The procedure
+
+mined.
+
+will
+
+be
+
+illus-
+
+trated with reference to the diffraction
+
+pattern
+
+shown
+
+drawn aluminum wire
+The first step is
+
+of
+
+in Fig. 9-10.
+
+to index the incomplete Debye rings.
+Values of 6 for each ring are calculated
+
+from measurements of ring diameter,
+and hkl indices are assigned by the use
+of Eq. (3-10) and Appendix 0.
+In
+this
+
+way
+
+the inner ring
+
+is
+
+identified as
+
+a 111 reflection and the outer one as
+200.
+
+The angle a
+
+from a
+
+is
+
+then measured
+
+FIG. 9-10.
+Transmission pinhole
+pattern of cold-drawn aluminum wire,
+wire axis vertical.
+Filtered copper
+radiation,
+(The radial streaks near
+the center are formed by the white
+radiation in the incident beam.)
+
+vertical line through the center
+
+of the film to the center of each strong Debye arc. The average values of
+these angles are given below, together with the calculated values of p:
+
+Line
+
+hkl
+
+Inner
+Outer
+
+200
+
+The normals
+and 55,
+
+111
+
+19.3
+22.3
+
+69
+52
+
+to the (111) and (200) planes therefore
+
+70
+55
+
+make
+
+angles of 70
+
+We
+
+can determine the indices
+respectively, with the fiber axis.
+[uvw] of this axis either by the graphical construction shown in Fig. 8-8 or
+
+by inspection
+
+of a table of interplanar angles.
+
+In this case, inspection of
+
+Table 2-3 shows that [uvw] must be [111], since the angle between (111)
+and (111) is 70.5 and that between (111) and (100) is 54.7, and these
+values agree with the values of p given above within experimental error.
+The fiber axis of drawn aluminum wire is therefore [111]. There is some
+scatter of the [111] direction about the wire axis, however, inasmuch as
+the reflections on the film are short arcs rather than sharp spots. If we
+
+

@@ -1,0 +1,164 @@
+ORIENTATION OF SINGLE CRYSTALS
+
+248
+
+In the back-reflection region, the situation
+spot
+
+S
+
+is
+
+is
+
+[CHAP. 8
+
+entirely different
+
+roughly circular, as shown in Fig. 8-30.
+
+Both axes
+
+and the
+
+of the spot
+
+subtend an angle of approximately 4c at the crystal. We may therefore
+conclude that the shape of a back-reflection spot is more directly related
+to the nature of the lattice distortion than is the shape of a transmission
+spot since, in the general case, circular motion of the end of the reflecting
+plane normal causes circular motion of the backward-reflected beam but
+For this reason, the backelliptical motion of the forward-reflected beam.
+
+method is generally preferable for studies of lattice distortion.
+must not be supposed, however, that only radial streaking is possible on
+transmission patterns. The direction of streaking depends on the orientation of the axis about which the reflecting planes are bent and if, for examreflection
+It
+
+they are bent only about an axis lying in the plane ACN of Fig. 8-29,
+then the spot will be elongated in a direction at right angles to the radius
+
+ple,
+
+AS.
+^
+
+enlaiged
+
+x
+
+Laue spot
+
+\
+
+Laue spot
+
+^^
+
+-
+
+\
+\
+
+Deb\
+
+1
+
+-*-
+
+potential
+
+Debye
+(a)
+
+FIG. 8-31.
+
+One
+
+;
+
+ring
+
+Undeformed
+
+Formation
+
+e a ic -
+
+'
+
+of
+
+/
+
+crystal
+
+Debye
+
+(l>)
+
+arcs on
+
+Deformed cnstal
+
+Laue patterns
+
+of
+
+deformed
+
+crystals.
+
+feature of the back-reflection pattern of Fig. 8-28 deserves some
+arcs, concentric with the film center, which
+
+comment, namely, the short
+
+many of the elongated Laue spots. These are portions of
+such as one might expect on a pinhole photograph made of a
+With
+polycrystalline specimen with characteristic radiation (Sec. 6-9).
+pass through
+
+Debye
+
+rings,
+
+a polycrystalline specimen of random orientation a complete Debye ring
+is formed, because the normals to any particular set of planes (hkl) have
+possible orientations in space; in a
+
+all
+
+normals are restricted to a
+
+deformed
+
+single crystal, the
+
+same
+
+range of orientations with the result that
+only fragments of Debye rings appear. We may imagine a circle on the
+film along which a Debye ring would form if a polycrystalline specimen
+finite
+
+were used, as indicated in Fig. 8-31. If a Laue spot then becomes enlarged
+as a result of lattice deformation and spreads over the potential Debye
+It will be much
+ring, then a short portion of a Debye ring will form.
+darker than the Laue spot, since the characteristic radiation* which
+*
+
+In Fig. 8-28(b), the characteristic radiation involved is tungsten L radiation.
+lines of tungsten (excitation
+voltage used (30 kv) is too low to excite the
+voltage = 70 kv) but high enough to excite the L lines (excitation voltage =12
+
+The
+
+kv).
+
+K
+
+

@@ -1,0 +1,79 @@
+GENERAL FEATURES
+
+7-2]
+
+FKJ 7
+
+X-ray
+
+1.
+
+179
+
+difTrartoinetei (schematic)
+
+Figures 7-2 and 7-3 illustrate two commercial instruments. Basically,
+both adhere to the design principles described above, but they differ in
+detail and in positioning: in the (General Electric unit, the diffract ometer
+axis is vertical and the counter moves in a horizontal plane, whereas the
+axis of the Xorelco unit
+
+is
+
+horizontal and the counter
+
+moves
+
+in a vertical
+
+plane.
+
+The way
+
+which a diffract ometer is used to measure a diffraction paton
+tern depends
+the kind of circuit used to measure the rate of production
+of pulses in the counter. The pulse rate may be measured in t\\o different
+in
+
+uuys:
+(1)
+
+which
+
+The
+is
+
+succession of current pulses is converted into a steady current,
+measured on a meter called a counting-rate meter, calibrated in
+
+Such a circuit gives a continuous
+indication of x-ray intensity.
+(2) The pulses of current are counted electronically in a circuit called a
+sealer, and the average counting rate is obtained simply by dividing the
+
+such units as counts (pulses) per second.
+
+number
+
+of pulses
+
+counted by the time spent
+
+in counting.
+
+This operation
+
+essentially discontinuous because of the time spent in counting, and a
+scaling circuit cannot be used to follow continuous changes in x-ray inis
+
+tensity.
+
+Corresponding to these two kinds of measuring circuits, there are two
+in which the diffraction pattern of an unknown substance may be
+
+ways
+
+obtained with a diffract ometer:
+
+

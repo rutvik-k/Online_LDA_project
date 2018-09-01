@@ -1,0 +1,109 @@
+THE SHAPES OF LAUE SPOTS
+
+5-5]
+
+147
+
+H
+
+FIG. 5-10.
+
+C =
+
+source,
+
+Focusing of diffracted beam in the transmission Laue method.
+crystal,
+
+F =
+
+T
+
+S
+
+=
+
+focal point.
+
+real or virtual. Each ray of the incident beam which
+the plane of the drawing strikes the reflecting lattice planes of the
+crystal at a slightly different Bragg angle, this angle being a maximum i
+
+from a small source,
+lies in
+
+'
+
+A and
+
+decreasing progressively toward B.
+
+The lowermost rays
+
+are there-
+
+fore deviated through a greater angle 28 than the
+result that the diffracted
+
+beam converges
+
+upper ones, with the
+to a focus at F. This is true
+
+only of the rays in the plane of the drawing; those in a plane at right angles
+continue to diverge after diffraction, with the result that the diffracted
+
+beam
+
+is elliptical
+
+in cross section.
+
+The
+
+film intersects different diffracted
+
+beams
+
+at diJerent distances from the crystal, so elliptical spots of various
+sizes are observed, as shown in Fig. 5-11. This is not a sketch of a Laue
+
+pattern but an illustration of spot size and shape as a function of spot
+position in one quadrant of the film. Note that the spots are all elliptical
+
+with their minor axes aligned in a radial direction and that spots near the
+center and edge of the pattern are thicker than those in intermediate positions, the latter being
+
+formed by beams near their focal point. Spots
+common, and Fig. 3-6(a) is an
+
+having the shapes illustrated are fairly
+example.
+In back reflection, no focusing occurs and a divergent incident beam
+intinues to diverge in all directions
+ter diffraction. Back-reflection
+le
+
+spots are therefore more or less
+* near the center of the
+pat1
+
+they become increasingly
+ward the edge, due to the
+
+>nce
+)r
+
+of the rays on the
+axes of the ellipses
+
+lately radial.
+.al.
+
+Figure
+
+FlG ^_ 1L shape of transmission
+Laue spots as a function of position.
+.
+
+

@@ -1,0 +1,146 @@
+THE TEXTURE OF SHEET (DIFFRACTOMETER METHOD)
+
+9-9]
+
+287
+
+R.D.
+
+reflecting-
+
+plane
+
+T.D.
+
+/
+
+*-)
+
+diffrartometer
+axis
+
+(a)
+
+(b)
+
+Angular relationships in the transmission pole-figure method (a) in
+on the stereographic projection. (On the projection, the position of
+the reflecting plane normal is shown for 5 = 30 and a =
+30.)
+FIG. 9-20.
+
+space and
+
+is
+
+(b)
+
+when the
+
+zero
+
+transverse direction
+
+is
+
+horizontal.
+
+The
+
+reflecting plane
+
+normal bisects the angle between incident and diffracted beams, and remains fixed in position whatever the orientation of the specimen. To plot
+the pole of the reflecting plane on the pole figure, we note that it coincides
+A
+initially, when a and 6 are both zero, with the left transverse direction.
+rotation of the specimen by d degrees in its own plane then moves the pole
+of the reflecting plane 8 degrees around the circumference of the pole figure,
+and a rotation of
+a degrees about the diffractometer axis then moves
+it a degrees from the circumference along a radius.
+To explore the pole
+figure,
+
+it is
+
+a
+
+convenient to
+
+make
+
+intensity readings at intervals of 5
+
+or 10
+
+mapped out along a
+this
+the
+entire
+series of radii.*
+By
+procedure
+pole figure can be determined except for a region at the center extending from about a =
+50
+in
+does
+this
+the
+correction
+beto a =
+not
+only
+90;
+region
+absorption
+of
+
+for a fixed value of d: the pole figure
+
+come inaccurate but the frame
+
+of the
+
+is
+
+thus
+
+specimen holder obstructs the
+
+dif-
+
+fracted x-ray beam.
+An absorption correction
+
+is necessary in this method because variations
+both the volume of diffracting material and the
+path length of the x-rays within the specimen. Variations in 6 have no
+effect.
+We can determine the angular dependence of the absorption factor
+
+in
+
+a cause variations
+
+*
+
+The
+
+in
+
+chart shown in skeleton form in Fig. 9-20(b)
+
+is
+
+useful for this purpose.
+
+It is called a polar stereographic net, because it shows the latitude lines (circles)
+and longitude lines (radii) of a ruled globe projected on a plane normal to the polar
+
+NS-axis.
+
+In the absence of such a net, the equator or central meridian of a Wulff
+
+net can be used to measure the angle a.
+
+

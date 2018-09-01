@@ -1,0 +1,142 @@
+THE STRUCTURE OF POLYCRYSTALLINE AGGREGATES
+
+276
+
+[CHAP. 9
+
+Naturally, when the grain size is small, as it normally is, separate determination of the orientations of a representative number of grains is out of
+the question, so x-ray methods are used in which the diffraction effects
+from thousands of grains are automatically averaged. The (hkl) pole
+figure of a fine-grained material is constructed by analyzing the distribution of intensity around the circumference of the corresponding hkl Debye
+
+There are two methods
+
+ring.
+
+though affording
+
+made
+
+obsolete
+
+of doing this, the photographic
+
+The photographic method
+
+fractometer method.
+
+sufficient
+
+accuracy for
+
+many
+
+is
+
+and the
+
+dif-
+
+qualitative and, al-
+
+purposes,
+
+it is
+
+rapidly being
+
+by the more accurate diffractometer method. Both methods
+
+are described in the following sections.
+Although only a pole figure can provide a complete description of preferred orientation, some information can be obtained simply by a com-
+
+parison of calculated diffraction line intensities with those observed with a
+Debye-Scherrer camera or a diffractometer. As stated in Sec. 4-12, relative line intensities are given accurately by Eq. (4-12) only when the
+crystals of the specimen
+
+any
+
+have completely random orientations. Therefore
+between observed and calculated intensities is
+preferred orientation in the specimen, and, from
+
+radical disagreement
+
+immediate evidence
+
+of
+
+the nature of the disagreement, certain limited conclusions can usually be
+drawn concerning the nature of the texture. For example, if a sheet
+specimen is examined in the diffractometer in the usual way (the specimen
+
+making equal angles with the incident and
+
+diffracted beams), then the
+only grains which can contribute to the hkl reflection are those whose
+If the texture is such that
+(hkl) planes are parallel to the sheet surface.
+
+there are very few such grains, the intensity of the hkl reflection will be
+abnormally low. Or a given reflection may be of abnormally high intensity, which would indicate that the corresponding planes were preferenor nearly parallel to the sheet surface.
+As an
+the
+200
+diffractometer
+reflection
+from
+a
+illustration,
+specimen having the
+cube texture is abnormally high, and from this fact alone it is possible to
+tially oriented parallel
+
+conclude that there
+the sheet surface.
+there
+
+is
+
+a preferred orientation of (100) planes parallel to
+However, no conclusion is possible as to whether or not
+is
+
+a preferred direction in the (100) plane parallel to some reference
+on the sheet surface. Such information can be obtained only by
+
+direction
+
+making a pole
+
+figure.
+
+9-7 The texture of wire and rod (photographic method). As mentioned
+cold-drawn wire normally has a texture in which a
+
+in the previous section,
+
+certain crystallographic direction [uvw] in most of the grains
+or nearly parallel, to the wire axis. Since a similar texture
+
+natural and
+
+wire
+
+is
+
+artificial fibers, it is called
+
+called the fiber axis.
+
+is
+is
+
+parallel,
+
+found in
+
+a fiber texture and the axis of the
+
+Materials having a fiber texture have rota-
+
+

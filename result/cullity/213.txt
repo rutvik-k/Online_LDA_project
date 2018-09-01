@@ -1,0 +1,122 @@
+DIFFRACTOMETER MEASUREMENTS
+
+208
+
+[CHAP. 7
+
+through the resistor until, at equilibrium, the rate of addition of charge is
+The rate of charge leakage is simply
+just balanced by the rate of leakage.
+the current through the microammeter M, which therefore indicates the
+rate of pulse production in the counter and, in turn, the x-ray intensity.
+The circuit usually contains, in addition to the indicating meter, a chart
+recorder which produces a continuous record of the intensity.
+
+Even when the x-ray
+
+intensity is constant (constant average counting
+the
+counter pulses is random in time, which means
+rate), the spacing of
+that the counting rate actually varies with time over short periods. The
+ratemeter responds to these statistical fluctuations in the counting rate,
+
+response speed is greater the smaller the time constant. This follows from the discussion of the capacitor-resistor circuit: any change in
+the pulse rate causes a change in the current through the circuit, but the
+
+and
+
+its
+
+change always lags behind the former; the amount of lag is less for a
+small time constant than for a large one. Random fluctuations in the
+counting rate are therefore more evident with a small time constant, belatter
+
+cause the current in the circuit then follows the changes in counting rate
+more closely. This feature is illustrated in Fig. 7-22, which shows the
+automatically recorded output of a ratemeter when the counter is receiving
+
+a constant-intensity x-ray beam. The large fluctuations at the left have
+been reduced in magnitude by successive increases in the time constant,
+effected by changing the value of C2
+Evidently, a single reading of the
+a ratemeter
+position of the indicating meter needle or the recorder pen of
+.
+
+be seriously in error, and more so at low time constants than at high.
+we saw that the error in a counting-rate measurement decreased as the number of counts increased. Now it may be shown that a
+
+may
+
+In Sec. 7-8
+
+counted for a time 2R 2 C2 in the sense that the
+any single reading is equivalent to a count made with a sealer
+for a time 2R 2 C 2
+Therefore, the relative probable error in any single
+ratemeter reading is given by the counterpart of Eq. (7-G), namely by
+ratemeter acts as
+
+if it
+
+,
+
+accuracy of
+
+.
+
+C7
+
+E=
+where n
+
+is
+
+;
+
+\/2nR 2 C2
+
+the average counting rate.
+
+probable error
+
+is less
+
+percent,
+
+(7-8)
+
+This equation also shows that the
+than for low, when the time
+
+for high counting rates
+
+constant remains the same. This is illustrated graphically in Fig. 7-23,
+which shows how the recorded fluctuations in the counting rate decrease
+as the rate itself
+
+The most
+
+is
+
+increased.
+
+is its ability to follow changes in
+which
+the sealer is totally unable to
+function
+a
+the average counting rate,
+perform, since a change in the average counting rate occurring during the
+
+useful feature of a ratemeter
+
+being made with a sealer will go entirely undetected. It is
+this feature of a ratemeter which is so useful in diffractometry. A diffrac-
+
+time a count
+
+is
+
+

@@ -1,0 +1,105 @@
+RELATIVE ORIENTATION OF PRECIPITATE AND MATRIX
+
+8-8]
+
+FIG. X-40.
+habit.
+
+If
+
+Top
+
+Widmanstatten structure (schematic).
+
+grain
+
+is
+
+intersected parallel to
+
+{
+
+257
+
+Cubic matrix has (100)
+
+100).
+
+a certain solid solution has an \hkl\ habit plane, then precipitation
+on all planes of the form \hkl\. Thus one grain
+
+can of course take place
+
+may contain sets of precipitate plates having quite different orientations.
+When such a grain is sectioned, the thin precipitate plates appear as
+needles on the plane of polish resulting in a structure such as that shown
+This is called a Widmanstatten
+in Fig. 8-40 in a highly idealized form.
+It is very often the product of nucleation and growth reactions,
+structure.
+Somewhat similar
+such as precipitation and eutectoid decomposition.
+structures are also observed as the result of the martensitic reaction and
+
+other diffusionless transformations. (There are some secondary differences,
+however: martensite often takes the form of needles as well as plates and
+
+the indices of
+
+its
+
+as in the case of
+
+habit plane are often irrational, e.g., (259), and
+Fe-C martensite, change with composition.)
+
+The crystallographic problems
+much the same as those described
+
+may
+
+even,
+
+presented by such structures are very
+except that the plates of the
+
+in Sec. 8-7,
+
+second phase almost always differ in crystal structure from the matrix,
+unlike the two parts of a twin or the material on either side of a slip plane.
+
+The habit plane
+
+is
+
+identified
+
+by the methods previously described
+
+The
+
+for the
+
+orientation relationship
+
+is
+twinning planes.
+is
+be
+found
+which
+can
+a
+large
+single precipitate plate
+easily determined
+enough to permit determination of its orientation by one of the Laue
+methods. Ordinarily, however, the precipitate is so fine that this method
+cannot be applied and some variant of the rotating-crystal method must
+
+identification of slip or
+if
+
+be used.
+
+

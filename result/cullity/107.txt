@@ -1,0 +1,148 @@
+DIFFRACTION
+
+102
+
+i:
+
+THE DIRECTIONS OF DIFFRACTED BEAMS
+
+[CHAP. 3
+
+These imperfections are generally slight compared to the over-all regularity
+of the lattice, with the result that diffracted beams are confined to very
+narrow angular ranges centered on the angles predicted by the Bragg law
+for ideal conditions.
+
+This relation between destructive interference and structural periodicity
+
+can be further illustrated by a comparison of x-ray scattering by solids,
+curve of scattered intensity vs. 26 for a
+liquids, and gases (Fig. 3-18). The
+certain angles where
+crystalline solid is almost zero everywhere except at
+Both amorphous
+beams.
+high sharp maxima occur: these are the diffracted
+almost
+complete
+solids and liquids have structures characterized by an
+lack of periodicity and a tendency to "order" only in the sense that the
+
+atoms are fairly tightly packed together and show a statistical preference
+for a particular interatomic distance; the result is an x-ray scattering curve
+showing nothing more than one or two broad maxima. Finally, there are
+the monatomic gases, which have no structural periodicity whatever; in
+such gases, the atoms are arranged perfectly at random and their relative
+The corresponding scattering
+positions change constantly with time.
+a
+no
+curve shows
+regular decrease of intensity with inmaxima, merely
+crease in scattering angle.
+
+PROBLEMS
+3-1. Calculate the "x-ray density" [the density given
+
+by Eq.
+
+(3-9)] of
+
+copper
+
+to four significant figures.
+
+A
+
+transmission Laue pattern is made of a cubic crystal having a lattice
+parameter of 4.00A. The x-ray beam is horizontal. _ The [OlO] axis of the crystal
+3-2.
+
+points along the beam towards the x-ray tube, the [100] axis points vertically upThe
+ward, and the [001] axis is horizontal and parallel to the photographic film.
+film
+
+is
+
+5.00
+
+cm from
+
+(a)
+
+What
+
+(6)
+
+Where
+
+3-3.
+
+is
+
+the crystal.
+
+the wavelength of the radiation diffracted from the (3TO) planes?
+310 reflection strike the film?
+
+will the
+
+A back-reflection Laue
+
+pattern
+
+is
+
+made
+
+of a cubic crystal in the orientation
+
+By means of a stereographic projection similar to Fig. 3-8, show that
+the beams diffracted by the planes (120), (T23), and (121), all of which belong to
+the zone [210], lie on the surface of a cone whose axis is the zone axis. What is
+the angle
+between the zone axis and the transmitted beam?
+3-4. Determine the values of 20 and (hkl) for the first three lines (those of low-
+
+of Prob. 3-2.
+
+<f>
+
+est 26 values)
+
+on the powder patterns
+
+the incident radiation being
+
+=
+
+(a)
+
+Simple cubic (a
+
+(6)
+
+Simple tetragonal (a
+
+(c)
+
+(d)
+
+of substances with the following structures,
+
+Cu Ka:
+
+3.00A)
+
+=
+
+2.00A, c
+
+=
+
+3.00A)
+
+Simple tetragonal (a == 3.00A, c = 2.00A)
+Simple rhombohedral (a = 3.00A, a = 80)
+
+

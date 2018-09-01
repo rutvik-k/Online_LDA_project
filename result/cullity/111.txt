@@ -1,0 +1,227 @@
+DIFFRACTION
+
+106
+
+II
+
+:
+
+THE INTENSITIES OF DIFFRACTED BEAMS
+
+[CHAP. 4
+
+where /o = intensity of the incident beam, c = velocity of light, and
+a = angle between the scattering direction and the direction of acceleraSuppose the incident beam is traveling in the direcand
+encounters an electron at 0. We wish to know the
+(Fig. 4-3)
+P
+in the xz plane where OP is inclined at a scattering
+at
+scattered intensity
+beam. An unpolarized incident beam, such as
+incident
+angle of 26 to the
+an
+from
+that issuing
+x-ray tube, has its electric vector E in a random
+This beam may be resolved into two planedirection in the yz plane.
+polarized components, having electric vectors E y and E 2 where
+tion of the electron.
+
+Ox
+
+tion
+
+On
+
+the average, E y will be equal to
+Therefore
+
+E,
+
+since the direction of
+
+E
+
+is
+
+perfectly
+
+random.
+
+2
+E, =
+
+The
+
+E z2 =
+
+two components
+
+intensity of these
+
+E2
+
+.
+
+of the incident
+
+beam
+
+is
+
+proportional
+
+to the square of their electric vectors, since E measures the amplitude of
+the wave and the intensity of a wave is proportional to the square of its
+
+Therefore
+
+amplitude.
+
+=
+
+IQ V
+
+The y component
+
+P is found
+
+of the incident
+
+2^0-
+
+beam
+
+accelerates the electron in the
+
+a scattered beam whose intensity
+
+It therefore gives rise to
+
+direction Oy.
+
+at
+
+=
+
+IQ Z
+
+from Eq. (4-1) to be
+2 4
+
+2
+
+r ra c
+
+since
+
+a
+
+ponent
+
+since
+
+a
+
+= ^yOP =
+is
+
+=
+
+Similarly, the intensity of the scattered z
+
+w/2.
+
+com-
+
+given by
+
+r/2
+
+summing the
+
+20.
+
+The
+
+total scattered intensity at
+
+=
+=
+
++
+
+Ip v
+e
+
+Ip z
+
+4
+
+-r-r-r (7o
+r'm'c'
+e
+
+=
+r
+
+2
+
+4
+
+m
+
+is
+
+two scattered components:
+
+intensities of these
+
+IP
+
+P
+
+~
+
++
+
+//o
+
+2 4
+
+c
+
+(
+
+hz
+/o
+
+-^
+
+\2
+
+^V
+
+2
+
+cos 20)
+
+2o
+cos 2^
+
+2
+
++ cos2
+
+2
+
+\
+)
+
+/
+
+obtained by
+
+

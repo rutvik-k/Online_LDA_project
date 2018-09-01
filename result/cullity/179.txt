@@ -1,0 +1,174 @@
+it
+
+will
+
+[CHAP. 6
+
+POWDER PHOTOGRAPHS
+
+174
+
+transmit and
+
+is
+
+by the
+
+defined
+
+D =
+where /
+
+=
+
+intensity of a
+
+beam
+
+relation
+
+/0
+
+,
+
+Iog 10
+
+y
+
+of light incident
+
+For most x-ray
+
+on the film and /
+
+films, the density
+
+=
+
+inten-
+
+is
+
+directly
+sity of the transmitted beam.
+of about 1.0 (which correproportional to the exposure up to a density
+sponds to 10 percent transmission of the incident light). Here, "exposure"
+is defined by the relation
+
+Exposure
+Since the time
+
+is
+
+=
+
+(intensity of x-ray
+
+constant for
+
+all
+
+that the photographic density
+
+beam) (time).
+
+the diffraction lines on one film, this means
+is directly proportional to the x-ray in-
+
+tensity.
+
+Density is measured by means of a microphotometer. There are several forms of such instruments, the simplest consisting of a light source
+and an arrangement of lenses and slits which allows a narrow beam of
+
+through the x-ray film and strike a photocell or thermopile
+connected to a recording galvanometer. Since the current through the
+
+light to pass
+
+proportional to the intensity of the. light striking the
+the transmitted
+photocell, the galvanometer deflection 8 is proportional to
+
+galvanometer
+
+is
+
+light intensity /.
+
+The
+
+light
+
+high and
+
+0.1
+
+beam
+
+is
+
+mm
+
+rectangular in cross section, normally about 3
+With movement of the film, this beam is made to
+
+mm wide.
+
+traverse the film laterally, crossing one diffraction line after another [Fig.
+The resulting galvanometer record [Fig. 6-1 9(b)] shows gal6-19(a)].
+
+vanometer deflection as ordinate and distance along the film as abscissa,
+the latter being increased by a factor of about 5 in order to spread the
+lines out. The line A at the top of the record marks zero deflection of the
+galvanometer; the line B at the bottom marks the maximum galvanometer
+deflection S when the light beam passes through an unexposed portion of
+the film, a portion which has been shielded from all scattered x-rays. S Q is
+In
+therefore constant and proportional to the incident light intensity 7
+this way the readings are corrected for the normal background fog of
+unexposed film. The density of any exposed part of the film is then ob.
+
+tained from the relation
+
+Dr, =
+
+i
+
+Iog 10
+
+/0
+
+-1
+
+Finally, a curve
+
+is
+
+=
+
+i
+
+logio
+
+SQ
+
+o
+
+constructed of x-ray intensity as a function of 26 [Fig.
+
+6-19(c)]. Such a plot is seen to consist of a number of
+superimposed on a curve of slowly varying background
+
+diffraction
+
+intensity,
+
+fluorescent radiation, diffraction of the continuous spectrum,
+
+peaks
+
+due to
+
+Compton
+
+

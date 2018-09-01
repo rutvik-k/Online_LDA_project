@@ -1,0 +1,78 @@
+MEASUREMENT OF LINE INTENSITY
+
+6-14]
+
+DISTANCE ALONCJ FILM
+
+175
+
+20
+
+(Yj>)
+1C)
+
+Measurement
+
+FIG. 6-19.
+(a) film; (b)
+
+of line intensity with a
+
+galvanometei recoul,
+
+(c)
+
+microphotomctci (schematic)
+
+x-iay intensity curve
+
+A continuous background line
+below each peak, after which measurements of the integrated
+intensity and the breadth K at half maximum intensity can be made.
+Note that the integrated intensity is given by the shaded area, measured
+above the background. A microphotorneter record of an actual pattern is
+scattering, etc., as previously discussed.
+is
+
+drawn
+
+shown
+
+in
+
+in
+
+Fig
+
+(>-20.
+
+In very precise work, or when the line density exceeds a value of 1.0, it
+is no longer safe to assume that the density is proportional to the x-ray
+exposure Instead, each film should be calibrated by exposing a strip near
+its edge to a constant-intensity x-ray beam for increasing amounts of time
+so that a series of stepwise increasing exposures is obtained. The exact
+
+relation
+
+between density and x-ray exposure can then be determined ex-
+
+perimentally.
+
+1*10.
+
+6-20.
+
+Powder pattern
+
+of quartz (above)
+
+and corresponding mirrophotom-
+
+eter trace (below). (J. W. Ballard, H. I. Oshry, and II. II
+Mines R. I. 520. Courtesy of U. S. Bureau of Mines.)
+
+Schrcrik, T. S.
+
+Bur
+
+

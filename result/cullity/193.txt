@@ -1,0 +1,169 @@
+DIFFRACTOMETER MEASUREMENTS
+
+188
+
+[CHAP. 7
+
+a typical diffractometer and shows the passage of a few selected
+
+slits in
+
+rays from source to counter.
+Because of the focusing of the diffracted rays and the relatively large
+radius of the diffractometer circle, about 15 cm in commercial instruments,
+
+a diffractometer can resolve very closely spaced diffraction lines. Indicative of this is the fact that resolution of the Cu Ka doublet can be obtained
+at 20 angles as low as about 40. Such resolution can only be achieved
+
+with a correctly adjusted instrument, and it is necessary to so align the
+component parts that the following conditions are satisfied for all diffraction angles
+
+:
+
+(1) line source,
+
+specimen surface, and receiving-slit axis are
+
+all parallel,
+
+the diffractometer axis, and
+(2) the specimen surface coincides with
+slit both lie on the diffractometer circle.
+and
+line
+source
+the
+receiving
+(3)
+
+The
+
+calculation of the relative integrated
+a
+powder specimen in a diffractometer
+by
+deprinciples
+
+7-4 Intensity calculations.
+intensities of
+
+beams
+
+diffracted
+
+follows the general
+scribed in Chap. 4, but the details of
+the calculation depend on the form
+of the specimen.
+
+The use
+
+of a flat-plate specimen,
+
+making equal angles with the incident
+and diffracted beams, not only produces focusing as described above but
+
+makes the absorption
+pendent of the angle
+i
+
+,
+
+i
+
+i
+
+0.
+
+inde-
+
+factor
+
+We can prove
+rr
+
+t
+
+i
+
+by calculating the effect of absorption in the specimen on the intensity
+
+this
+
+and
+
+section,
+
+7-*-
+
+Diffraction from a flat
+
+nt an d diffmcted beams
+f
+f
+off 1 cm in a direction
+have a thickness
+normfll t() the plane ()f the drawing
+
+^
+
+id
+
+.
+
+this effect will come up again in later
+calculation quite general. In Fig. 7-8,
+our
+will
+make
+we
+book,
+2
+7
+beam has intensity
+(ergs/cm /ec), is 1 cm square in cross
+
+of the diffracted
+
+parts of this
+the incident
+
+FIG.
+late:
+
+is
+
+beam, and, since
+
+incident on the
+
+powder plate at an angle a. We consider
+beam by a layer of the powder of length /
+
+the energy diffracted from this
+and thickness dr, located at a depth x below the surface.
+
+Since the inci-
+
+dent beam undergoes absorption by the specimen over the path length
+(AB}
+AB, the energy incident per second on the layer considered is I e~^
+
+where M is the linear absorption coefficient of the powder comLet a be the volume fraction of the specimen containing particles
+
+(ergs/sec),
+
+pact.
+
+b
+having the correct orientation for reflection of the incident beam, and
+the fraction of the incident energy which is diffracted by unit volume.
+Then the energy diffracted by the layer considered, which has a volume
+
+u *' dx. But this diffracted energy is also deIdx, is given by aW/ e~"
+(BC
+creased by absorption, by a factor of e~~
+\ since the diffracted rays
+}
+
+

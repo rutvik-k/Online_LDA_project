@@ -1,0 +1,104 @@
+DIFFRACTOMETER MEASUREMENTS
+
+Ig2
+
+The counter is set near 26 =
+counting-rate meter. The output of this circuit is
+(1)
+
+Continuous.
+
+[CHAP. 7
+
+and connected to a
+
+fed into a fast-acting
+automatic recorder of the kind used to record temperature changes as
+measured by a thermocouple. The counter is then driven at a constant
+
+the whole angular
+angular velocity through increasing values of 20 until
+on the recorder
+range is "scanned." At the same time, the paper chart
+moves at a constant speed, so that distances along the length of the chart
+are proportional to 26. The result is a chart, such as Fig. 7-4, which gives
+a record of counts per second (proportional to diffracted intensity) vs. diffraction angle 26.
+(2) Intermittent.
+
+connected to a sealer and set at a fixed
+value of 26 for a time sufficient to make an accurate count of the pulses
+obtained from the counter. The counter is then moved to a new angular
+whole range of 26 is covered in
+position and the operation repeated. The
+this fashion, and the curve of intensity vs. 26 is finally plotted by hand.
+
+When
+
+The counter
+
+is
+
+the continuous background between diffraction lines is being measmay be moved in steps of several degrees, but determina-
+
+ured, the counter
+
+tions of line profile may require measurements of intensity at angular
+This method of obtaining a diffraction pattern
+intervals as small as 0.01
+.
+
+is
+
+much
+
+slower than that involving a rate meter and automatic recorder
+
+but it yields more precise measurements of intensity.
+There is a fundamental difference between the operation of a powder
+camera and a diffractometer. In a camera, all diffraction lines are recorded
+simultaneously, and variations in the intensity of the incident x-ray beam
+On
+during the exposure can have no effect on relative line intensities.
+the other hand, with a diffractometer, diffraction lines are recorded one
+
+and it is therefore imperative to keep the incident-beam
+when relative line intensities must be measured accuconstant
+intensity
+variations in line voltage are quite appreciable,
+usual
+Since
+the
+rately.
+the x-ray tube circuit of a diffractometer must include a voltage stabilizer
+and a tube-current stabilizer, unless a monitoring system is used (see
+after the other,
+
+Sec. 7-8).
+
+The kind
+
+of specimen used
+
+depends on the form and amount of material
+
+Flat metal sheet or plate may be examined directly; however,
+such materials almost always exhibit preferred orientation and this fact
+must be kept in mind in assessing relative intensities. This is also true of
+available.
+
+side by
+wires, which are best examined by cementing a number of lengths
+This plate is then inserted in the specimen holder
+side to a glass plate.
+so that the wire axes are at right angles to the diffractometer axis.
+are best prepared by placing the powder in a recess in
+Powder
+
+specimens
+a glass or plastic plate, compacting it under just sufficient pressure to
+cause cohesion without use of a binder, and smoothing off the surface.
+Too much pressure causes preferred orientation of the powder particles.
+the
+Alternately, the powder may be mixed with a binder and smeared on
+
+

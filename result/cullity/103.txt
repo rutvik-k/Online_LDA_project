@@ -1,0 +1,95 @@
+DIFFRACTION
+
+98
+
+beam
+
+of
+
+When
+Ray
+
+THE DIRECTIONS OF DIFFRACTED BEAMS
+
+[CHAP. 3
+
+amplitude, i.e., a beam of maximum intensity, since the
+proportional to the square of the amplitude.
+we consider incident rays that make Bragg angles only slightly
+
+maximum
+
+intensity
+different
+
+i:
+
+is
+
+from
+
+we
+
+0#,
+
+B, for example,
+
+find that destructive interference
+
+makes a
+
+is
+
+not complete.
+
+slightly larger angle 0i, such that ray L'
+
+from the mth plane below the surface is (m + 1) wavelengths out of ph6.se
+with B', the ray from the surface plane. This means that midway in the
+crystal there is a plane scattering a ray which is one-half (actually, an
+integer plus one-half) wavelength out of phase with ray B' from the surface
+plane. These rays cancel one another, and so do the other rays from simplanes throughout the crystal, the net effect being that rays
+the
+scattered by
+top half of the crystal annul those scattered by the bottom
+half. The intensity of the beam diffracted at an angle 20i is therefore zero.
+ilar pairs of
+
+It is also zero at an angle 20 2 where 2 is such that ray N' from the mth
+1) wavelengths out of phase with ray C'
+plane below the surface is (m
+from the surface plane. It follows that the diffracted intensity at angles
+
+near 2fe, but not greater than 26 1 or less than 20 2 is not zero but has a
+value intermediate between zero and the maximum intensity of the beam
+diffracted at an angle 20sThe curve of diffracted intensity vs. 28 will
+,
+
+thus have the form of Fig. 3-15(a) in contrast to Fig. 3-15(b), which illustrates the hypothetical case of diffraction occurring only at the exact Bragg
+angle.
+
+The width
+
+of the diffraction curve of Fig. 3-1 5 (a) increases as the thick-
+
+B
+
+ness of the crystal decreases. The width
+is usually measured, in radians,
+at an intensity equal to half the maximum intensity. As a rough measure
+
+202
+
+20i
+
+20
+(a)
+
+FIG. 3-15.
+
+20*
+20(b)
+
+Effect of fine particle size on diffraction curves (schematic).
+
+

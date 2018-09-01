@@ -1,0 +1,110 @@
+SCALER8
+
+7-8]
+
+205
+
+radiation from nearby radioactive material; it may be rather high, if a
+counter is used, because of the dark current of this counter.)
+
+scintillation
+
+Suppose a measurement is required of the diffraction background, always
+rather low, in the presence of a fairly large unavoidable background. In
+these circumstances, Eq. (7-6) does not apply. Let TV be the number of
+pulses counted in a given time with the x-ray tube on, and Nb the number
+counted in the same time with the tube
+
+off.
+
+Then Nb counts
+
+are due to
+
+the unavoidable background and (N
+Nb) to the diffraction background
+the
+and
+relative
+Nb) is
+being measured,
+probable error in (N
+
+E *-x* =
+
+07V'N + N b
+^7T~ P ercent
+(N - N b
+
+-~7^
+
+(7-7)
+
+-
+
+)
+
+Comparison of Eqs. (7-0) and (7-7) shows that longer counts must be
+the unavoidable background is of comparable intensity to
+the radiation being measured than when the unavoidable background is
+completely negligible by comparison, if the same accuracy is to be obtained
+in both measurements.
+
+made when
+
+As indicated
+
+in Sec. 7-2, the integrated intensity of
+
+a diffraction line
+
+may be measured with a sealer by determining the average counting rate
+at several angular positions of the counter. The line profile, the curve of
+vs. 26, is then plotted on graph paper, and the area under the
+and above the continuous background, is measured with a planimeter.
+To obtain the same relative accuracy of both the line profile and the adjacent background, all measurements should be made by counting a fixed
+number of pulses. Three other methods of measuring integrated intensities
+have been used, all of which utilize the integrating properties of the scaling
+circuit to replace the curve plotting and planimeter measurement:
+(1) The line is scanned from one side to the other at a constant angular
+rate, the sealer being started at the beginning of the scan and stopped at
+its end.
+The total number of counts registered by the sealer, minus the
+number of counts due to the background, is then proportional to the integrated intensity of the line. All lines on the pattern must be measured
+with the same receiving slit and the same scanning rate. The background
+adjacent to, and on either side of, the line may be measured by the same
+procedure, i.e., by scanning at the same rate over the same angular range,
+or by counting at a fixed position for the same time required to scan the
+
+intensity
+
+curve,
+
+line.
+
+(2) The counter is moved stepwise across the line and maintained in
+each position for the same length of time, the sealer being operated continuously except when changing counter positions. The total count accu-
+
+mulated by the
+
+sealer,
+
+minus the background
+
+tional to the integrated intensity.
+
+A
+
+correction,
+
+wide receiving
+
+is
+
+slit is
+
+again proporand the
+
+used,
+
+

@@ -1,0 +1,168 @@
+THE STRUCTURE OF POLYCRYSTALLINE AGGREGATES
+
+264
+
+[CHAP. 9
+
+but the term is not
+(Such stress is often called "internal stress"
+or externally imposed, are
+residual
+all
+since
+informative
+stresses,
+very
+The term "residual stress" emphasizes the fact that the stress
+internal.
+remains after all external forces are removed.) Stresses of this kind are
+also called microstresses since they vary from one grain to another, or
+
+from
+
+one part of a grain to another part, on a microscopic scale.
+hand, the stress may be quite uniform over large distances;
+
+On
+
+ferred to as macrostress.
+
+DIFFRACTION
+LINE
+
+The
+
+effect of strain,
+
+CRYSTAL LATTICE
+both uniform
+
+and nonuniform, on the
+
+the other
+
+it is
+
+then re-
+
+direction of
+
+x-ray reflection is illustrated in Fig.
+9-2.
+portion of an unstrained grain
+
+A
+
+appears in
+
+(a)
+
+on the
+
+left,
+
+and the set
+shown
+
+of transverse reflecting planes
+
+has everywhere its equilibrium spacThe diffraction line from these
+ing d
+planes appears on the right. If the
+grain is then given a uniform tensile
+
+NO STRAIN
+
+.
+
+(a)
+
+strain at right angles to the reflecting
+planes, their spacing becomes larger
+
+than d
+
+and the corresponding
+
+>
+
+dif-
+
+fraction line shifts to lower angles but
+does not otherwise change, as shown
+in (b).
+
+This line shift
+
+is
+
+the basis of
+
+UNIFORM STRAIN
+
+the x-ray method for the measurement
+of macrostress, as will be described
+
+Chap. 17. In (c) the grain is bent
+and the strain is nonuniform on the
+in
+
+;
+
+top (tension) side the plane spacing
+exceeds d on the bottom (compression) side it is less than d and some,
+
+NONTNIFORM STRAIN
+
+,
+
+We
+equals d
+may imagine this grain to be composed of a number of small regions in
+
+where
+
+in
+
+between
+
+it
+
+(c)
+
+.
+
+FIG. 9-2.
+
+Effect of lattice
+
+strain
+
+on Debye-line width and position.
+
+jach of which the plane spacing is substantially constant but different
+from the spacing in adjoining regions. These regions cause the various
+sharp diffraction lines indicated on the right of (c) by the dotted curves.
+The sum of these sharp lines, each slightly displaced from the other, is the
+broadened diffraction line shown by the full curve and, of course, the
+broadened line is the only one experimentally observable. We can find a
+relation between the broadening produced and the nonuniformity of the
+strain
+
+by
+
+differentiating the
+
+Bragg law.
+A20
+
+We obtain
+
+-2
+d
+
+tan0,
+
+(9-2)
+
+

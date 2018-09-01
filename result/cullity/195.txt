@@ -1,0 +1,135 @@
+DIFFRACTOMETER MEASUREMENTS
+
+190
+
+due to the exact balancing of two opposing effects.
+specimen area irradiated by an incident beam of fixed
+large, but the effective depth of x-ray penetration is small
+
+independence of
+
+When
+
+[CHAP. 7
+
+6 is
+
+6 is small, the
+
+cross section
+
+when
+
+is
+
+;
+
+large, the irradiated area is small, but the penetration depth is
+The net effect is that the effective irradiated volume is
+relatively large.
+constant and independent of 6. Absorption occurs in any case, however,
+
+and the
+
+is
+
+larger the absorption coefficient of the specimen, the lower the in-
+
+tensity of the diffracted
+fact to note
+
+is
+
+beams, other things being equal.
+
+The important
+
+that absorption decreases the intensities of all diffracted
+factor and therefore does not enter into the calculation
+
+beams by the same
+
+of relative intensities.
+
+This means that Eq. (4-1 2) for the relative integrated
+
+intensity of a diffraction line from a
+
+powder specimen, namely,
+
++
+
+2
+
+cos 20
+
+sm 2 6 cos 8
+needs only the insertion of a temperature factor to make it precise, for the
+case of a flat specimen examined in a diffractometer. As it stands, it may
+be used to calculate the approximate relative intensities of two adjacent lines on the pattern, but the calculated intensity of the higher-angle
+still
+
+line, relative
+
+to that of the lower-angle one, will always be
+
+somewhat too
+
+large because of the omission of the temperature factor.
+
+When
+
+the specimen used in the diffractometer has the form of a thin
+no focusing occurs and the incident-beam slits are chosen to produce
+a thin, essentially parallel beam.
+The x-ray geometry is then entirely
+that
+of
+a
+camera equipped with slits, and
+to
+Debye-Scherrer
+equivalent
+with
+the
+same
+limitations as mentioned in
+exactly
+Eq. (4-12) applies,
+
+rod,
+
+Sec. 4-12.
+
+7-5 Proportional counters. Proportional, Geiger, and scintillation
+counters may be used to detect, not only x- and 7-radiation, but also
+charged particles such as electrons or a-particles, and the design of the
+counter and associated circuits depends to some extent on what is to be
+detected. Here we are concerned only with counters for the detection of
+x-rays of the wavelengths commonly employed in diffraction.
+Consider the device shown in Fig. 7-9, consisting of a cylindrical metal
+shell (the cathode) filled with a gas and containing a fine metal wire (the
+
+Suppose there is a constant potential difand cathode. One end of the
+is
+covered
+with
+a
+window
+cylinder
+material, such as mica or beryllium, of
+Of
+to
+the
+x-rays.
+high transparency
+x-rays which enter the cylinder, a
+small fraction passes right through, but the larger part is absorbed by the
+gas, and this absorption is accompanied by the ejection of photoelectrons
+anode) running along
+
+its axis.
+
+ference of about 200 volts between anode
+
+

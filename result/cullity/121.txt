@@ -1,0 +1,284 @@
+DIFFRACTION
+
+II
+
+:
+
+THE INTENSITIES OF DIFFRACTED BEAMS
+
+[CHAP. 4
+
+md ON
+
+Note that multiplication of a vector by i
+of the vector.
+counterclockwise by 90; thus multiplication by i converts the
+horizontal vector 2 into the vertical vector 2i. Multiplication twice by i,
+2
+or reverses its sense;
+that is, by i =
+1, rotates a vector through 180
+jtates
+
+it
+
+thus multiplication twice by i converts the horizontal vector 2 into the
+2 pointing in the opposite direction.
+horizontal vector
+
+we
+
+If
+
+write
+
+down the
+
+power-series expansions of
+
+e
+
+ix
+,
+
+we
+
+cos x and sin x,
+y
+
+find that
+e
+
+ix
+
+=
+
++
+
+cos x
+
+i
+
+x
+
+sin
+
+(4-7)
+
+or
+
+Ae* = A
+
+cos
+
++
+
+<t>
+
+Ai
+
+Thus the wave vector may be expressed
+Eq. (4-8). The expression on the left is
+
+sin 4.
+
+(4-8)
+
+analytically
+called a
+
+either side of
+
+by
+
+complex exponential
+
+function.
+
+Since the intensity of a
+
+wave
+
+proportional to the square of its ampli2
+need an expression for A the square of the absolute value
+
+tude,
+of the
+
+is
+
+we now
+wave vector. When a wave
+
+,
+
+expressed in complex form, this quantity is obtained by multiplying the complex expression for the wave by
+its complex conjugate, which is obtained simply by replacing i by
+i.
+is
+
+Thus, the complex conjugate of Ae
+2
+
+l
+
+\Ae
+
+which
+
+is
+
+*\
+
+l
+
+* is
+
+Ae~
+
+We
+
+l
+
+*.
+
+= Ae +Ae-* = A 2
+
+have
+
+l
+
+(4-9)
+
+,
+
+Or, using the other form given
+
+the quantity desired.
+
+by Eq.
+
+(4-8),
+
+we have
+
++
+
+A (cos
+
+We
+
+return
+
+sin
+
+i
+
+now
+
+4)A(cos
+
+<
+
+i sin
+
+<)
+
+= A 2 (cos 2
+
+<t>
+
++
+
+sin
+
+to the problem of adding the scattered
+
+2
+
+A2
+
+==
+</>)
+
+.
+
+waves from each
+
+The amplitude of each wave is given by the
+appropriate value of / for the scattering atom considered and the value
+of (sin 0)/X involved in the reflection.
+The phase of each wave is given by
+of the
+
+atoms
+
+in the unit cell.
+
+Eq. (4-4) in terms of the hkl reflection considered and the uvw coordinates
+Using our previous relations, we can then express any scat-
+
+of the atom.
+
+tered
+
+wave
+
+in the
+
+complex exponential form
+(4-10)
+
+The
+
+wave scattered by alljbhe atoms of the unit cell is called the
+and is designated by the symBol F. It" is" obtained by simply
+adding together all the waves scattered by the individual atoms> If a
+unit cell contains atoms 1, 2, 3,
+N, with fractional coordinates
+Ui vi !!, u 2 v 2 tt? 2 MS *>3 MS, ... and atomic scattering factors /i, /2 /a,
+resultant
+
+structure factor
+
+.
+
+.
+
+.
+
+,
+
+.
+
+.
+
+,
+
+,
+
+then the structure factor for the hkl reflection
+
+^ y e2*i(hu2+kvi+lwti
+
+is
+i
+
+given by
+/
+
+g 2iri(Au3-H;i>s-f Iwi)
+
+i
+
+.
+
+.
+
+.
+
+.
+
+,
+
+

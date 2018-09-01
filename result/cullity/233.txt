@@ -1,0 +1,152 @@
+ORIENTATION OP SINGLE CRYSTALS
+
+228
+
+[CHAP. 8
+
+PROJECTION
+
+FIG. 8-11. Use of a stereographic ruler to plot the pole of a reflecting plane on a
+Pole 1' is the pole
+stereographic projection in the back- reflection Laue method.
+of the plane causing diffraction spot 1
+.
+
+plane were in
+point
+
+its
+
+U therefore
+
+extreme position at M, then its projection would he at U. The
+lies on the basic circle of the projection, and UQ is the radius R
+
+of the basic circle.
+
+Because the triangles
+
+PQ = R tan
+The
+
+ruler is constructed
+
+by marking
+
+TUQ
+
+TMC are similar,
+
+and
+
+-
+
+off,
+
+from the center
+
+2r
+
+and
+
+from a central point, a scale of centi-
+
+meters by which the distance ON may be measured. The distance
+ing to each distance OS is then calculated from Eqs. (S-l) and (S
+off
+
+=
+
+(8-3)
+
+-)
+
+^45
+
+ft
+
+of the ruler in the opposite direction.
+
+PQ
+
+correspond-
+
+3),
+
+and marked
+
+Corresponding gradua-
+
+same number and the result is the rulei shown in Fig. 8-11,
+illustrates the method of using it. [Calculation of the various distances
+
+tions are given the
+
+which also
+PQ can be avoided by use of the Wulff net itself. Fig. 8-10 shows that the pole
+of the reflecting plane is located at an angle 6 from the edge of the projection, and
+6
+
+is
+
+given for each distance
+
+OS by
+
+Eq. (8-1).
+
+The
+
+ruler is laid along the equator
+
+of the Wulff net, its center coinciding with the net center,
+
+corresponding to each angle 6
+the equator.]
+
+From
+jection
+
+is
+
+marked
+
+the choice of plane normal
+
+must be viewed from the
+
+made
+
+off
+
+and the distance
+
+PQ
+
+with the help of the angular scale on
+
+in Fig. 8-10, it is
+
+apparent that the proThis requires
+
+side opposite the x-ray source.
+
+that the film be read from that side also, i.e., with its cut corner in the upper rightposition. The projection is then placed over the film, illuminated from be-
+
+hand
+
+low, as
+
+shown
+
+in Fig. 8-11.
+
+With the center
+
+of the ruler coinciding with the cen-
+
+ter of the projection, the ruler is rotated until its
+
+edge passes through a particular
+
+

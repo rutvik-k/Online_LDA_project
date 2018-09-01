@@ -1,0 +1,88 @@
+LAUE PHOTOGRAPHS
+
+148
+
+[CHAP. 5
+
+PROBLEMS
+5-1. A transmission Laue pattern is made of an aluminum crystal with 40-kv
+tungsten radiation. The film is 5 cm from the crystal. How close to the center
+of the pattern can Laue spots be formed by reflecting planes of maximum spacing,
+
+and those of next largest spacing, namely (200)?
+transmission Laue pattern is made of an aluminum crystal with a specimen-to-film distance of 5 cm. The (111) planes of the crystal make an angle of
+3 with the incident beam. What minimum tube voltage is required to produce a
+
+namely
+
+(111),
+
+A
+
+6-2.
+
+111 reflection?
+6-3. (a)
+
+The
+
+kv.
+
+A
+
+back-reflection
+
+(111) planes
+
+Laue pattern
+
+make an
+
+angle of 88
+
+is
+
+made
+
+of
+
+an aluminum crystal at 50
+
+with the incident beam.
+
+What
+
+orders
+
+beam diffracted by these planes? (Assume that
+than ? A are too weak and too easily absorbed by air to regis-
+
+of reflection are present in the
+
+wavelengths larger
+ter
+
+on the
+
+(6)
+'
+
+)
+
+film.)
+
+What
+
+40 kv?
+
+orders of the 111 reflection are present
+
+if
+
+the tube voltage
+
+is
+
+reduced
+
+

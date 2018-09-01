@@ -1,0 +1,175 @@
+DIFFRACTOMETER MEASUREMENTS
+
+200
+
+[CHAP. 7
+
+becoming a continuous discharge. In an argon-chlorine counter, for exammolecules by
+ple, ionized argon atoms acquire electrons from chlorine
+collision, forming neutral argon atoms and ionized chlorine molecules.
+The latter are merely neutralized on reaching the cathode and do not re-
+
+Most counters used today
+
+lease electrons as argon ions do.
+
+are of the
+
+self-quenching variety.
+The efficiency of a Geiger or proportional counter and its associated
+circuits is given by the product of two efficiencies, that of quantum absorption and that of quantum detection. The absorption efficiency depends on the absorption coefficient and thickness of the counter window,
+both of which should be as small as possible, and on the absorption coeffi-
+
+and the length
+
+cient of the counter gas
+
+of the counter,
+
+both of which should
+
+be as large as possible. The detection efficiency of a Geiger counter, as we
+have seen, depends on the counting rate and is effectively 100 percent at
+low rates; with a proportional counter this efficiency is near 100 percent
+
+any rate
+
+at
+
+encountered in diffraction experiments. The overis therefore determined by the
+
+likely to be
+
+all efficiency of
+
+either counter at low rates
+
+absorption efficiency, which
+
+The absorption
+
+is
+
+efficiency,
+
+commonly about 60 to 80 percent.
+however, is very much dependent on
+
+the
+
+x-ray wavelength, the kind of gas used, and its pressure, since these factors
+determine the amount of radiation absorbed in a counter of given length.
+
+Figure 7-17 shows how the amount absorbed depends on wavelength for
+the two gases most often used in x-ray counters. Note that a kryptonfilled counter has high sensitivity for
+the characteristic radiations nor-
+
+all
+
+mally used
+
+in diffraction
+
+argon-filled counter
+
+is
+
+Mo A
+
+but that an
+
+sensitive only
+
+c KM)
+
+to the longer wavelengths. This latter
+characteristic
+
+may
+
+be advantageous
+For example,
+
+in
+
+some circumstances.
+
+if
+
+a diffraction pattern
+
+filtered radiation
+
+is
+
+made
+
+with
+
+from a copper
+
+tar-
+
+use of an argon-filled counter w ill
+r
+
+get,
+
+produce semimonochromatic
+tions, in that the counter
+highly sensitive to
+
+and
+
+Cu Ka
+
+condiwill
+
+be
+
+radiation
+
+relatively insensitive to the short
+
+wavelength radiation which forms the
+most intense part of the continuous
+spectrum.
+will
+
+The diffraction background
+
+therefore
+
+krypton-filled
+used.
+
+be lower than
+counter
+
+had
+
+if
+
+a
+
+been
+
+05
+
+10
+
+1.5
+
+WAVELENGTH
+
+2.0
+
+(A)
+
+FIG. 7-17. Absorption of x-rays in
+a 10-cm path length of krypton and
+argon, each at a pressure of 65 cm
+
+Hg.
+
+

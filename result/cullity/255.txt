@@ -1,0 +1,132 @@
+ORIENTATION OF SINGLE CRYSTALS
+
+250
+
+FIG. 8-33.
+
+[CHAP 8
+
+Enlarged transmission Laue
+
+spots from a thin crystal of silicon ferrite (a-iron containing 3.3 percent silicon
+in solid solution) (a) as bent to a radius
+of f in., (b) after annealing 10 min at
+:
+
+(c)
+
+reflected
+
+(c) after
+
+(C. G.
+
+Dunn and
+
+F.
+
+W.
+
+A.I.M.E. 191, 147, 1951
+
+1
+
+300C.
+
+Daniels, Trans.
+)
+
+by adjoining blocks are resolved one from another.
+
+shows an example
+
+Figure 8-33
+
+of polygonization in a crystal of silicon ferrite.
+
+(2) Recrystalhzalion.
+
+may
+
+annealing 4 hr at
+
+950C,
+
+recrystallize into a
+
+If
+
+the deformation
+
+new
+
+is
+
+severe enough, the crystal
+
+set of strain-free grains differing completely
+
+from the original crystal. The appearance of the diffraction
+then
+depends on the size of the new grains relative to the crosspattern
+sectional area of the incident x-ray beam. The appearance of such patin orientation
+
+terns
+
+is
+
+discussed and illustrated in Sec. 9-2.
+
+8-7 Relative orientation of twinned crystals. In this and the next section we shall consider, not single crystals, but pairs of crystals which are
+naturally associated one with another in certain particular ways. Twinned
+crystals are obvious examples of such pairs: the two parts of the twin have
+but there is a definite orientation relationship beFurthermore, the two parts are united on a plane, the
+composition plane, which is also fixed and invariable, not merely a random
+surface of contact such as that between two adjacent grains in a polyTwinned crystals therefore present a twofold problem,
+crystalline mass.
+different orientations,
+
+tween the two.
+
+that of determining the orientation relationship and that of determining
+
+the indices of the composition plane.
+The orientation relationship is established
+
+by finding the orientation of
+the
+two
+each part of the twin and plotting
+together on the same stereoDetermination of the composition-plane indices regraphic projection.
+quires a knowledge of
+
+plane in another, and
+
+how
+
+to plot the trace, or line of intersection, of one
+consider that problem.
+
+we must digress at this point to
+
+on the polished surface of a twinned grain, the trace of the
+composition plane makes an angle a with some reference line NS as shown
+in Fig. 8-34(a).
+Then, if we make the projection plane parallel to the
+of
+latter will be represented by the basic circle of the prothe
+polish,
+plane
+
+Suppose
+
+that,
+
+t
+
+and any directions in the plane of polish by diametrically opposite
+points on the basic circle. Thus, in Fig. 8-34 (b), the AT- and $-poles represent the reference line NS and the points A and B, located at an angle a
+
+jection
+
+

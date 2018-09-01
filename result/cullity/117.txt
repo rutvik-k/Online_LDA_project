@@ -1,0 +1,160 @@
+DIFFRACTION
+
+112
+
+II
+
+THE INTENSITIES OF DIFFRA'
+
+:
+
+p.
+
+4
+
+2'
+
+-(MO)
+
+o
+
+The
+
+FIG. 4-8.
+
+atom
+
+effect of
+
+position
+
+on the phase difference between diffracted
+
+rays.
+
+the Bragg law, Avhich
+
+is,
+
+satisfied, no. diffracted
+
+in a sense, a negative law.
+
+beam can
+
+If
+
+the Bragg law
+
+is
+
+not
+
+occur; however, the Bragg law
+
+may be
+may occur,
+
+satisfied for a certain set of atomic planes and yet no diffraction
+as in the example given at the beginning of this chapter, because of a
+particular arrangement of atoms within the unit cell [Fig. 4-2(b)].
+
+Vssuming that the Bragg law is satisfied, we wish to
+oMhhe frftftm diffracted by " fgrgjgjjis fl fijnrtinn nf
+
+find the intensity
+
+Since
+fl.tnrjijvisit.inn
+the crystal is merely a repetition of the fundamental unit cell, it is enough
+to consider the way in which the arrangement of atoms within a single
+.
+
+the diffracted intensity.\
+Qualitatively, the effect is similar to*the scattering from ar^ atom, discussed in the previous section.
+[There we found that phase differences
+occur in the waves scattered by
+plentrnns for any direction
+thejndividual
+of scattering except the.extreme forward direction.
+Similarly, the waves
+unit
+
+cell affects
+
+j
+
+scattered
+
+by the
+
+individual atoms of a unit cell are not necessarily in phase
+how the
+
+except in the forward direction,! and we must now determine
+phase difference depends on the arrangement of the atoms.
+
+|This problem is most simply approached by finding the phase difference
+between waves scattered by an atom at the origin and another atom whose
+position is variable in the x direction only. \ For convenience. consklex*an
+orjJvjgoriaJunit cell, a section of which is shown in Fig. 4-8. Taice.aiDm
+
+the origm^and let diffraction occur from the (AOO)
+planes shown as
+heavy hnftsJiTthe drawings This means that the Bragg law is satisfied for
+this reflection and that 5 2
+between ray 2'_*.
+and ray
+'iV$he path difference ...
+^
+
+^as
+t
+
+I
+
+.
+
+'
+
+_
+
+.
+
+^^
+
+5 2 'i'
+
+=
+
+MCN
+
+.
+
+..
+
+f.
+
+I
+
+(
+
+=
+
+2rf/, 00
+
+sin
+
+=
+
+X.
+
+)
+
+IM.I
+
+........
+
+|/
+
+

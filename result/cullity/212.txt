@@ -1,0 +1,101 @@
+RATEMETERS
+
+7-9]
+
+The
+
+FIG. 7-20.
+
+207
+
+capacitor-resistor circuit.
+
+the capacitor and resistor. When a is suddenly connected to c, the voltage
+across the capacitor reaches its final value V not instantaneously but only
+over a period of time, and at a rate which depends on the resistance R and
+the capacitance C, as shown in Fig. 7-20(b). The product of R and C has
+the dimensions of time (seconds, in fact, if R is in megohms and C in micro-
+
+and it may be shown that the voltage across the capacitor reaches
+63 percent of its final value in a time given by RC, known as the time
+constant of the circuit. The time required to reach 99 percent of its final
+value is 4.6RC.
+Conversely, if the fully charged capacitor, bearing a
+charge Q = CV, is suddenly shorted through the resistor by connecting
+farads),
+
+the charge does not immediately disappear but leaks away at a rate
+dependent on the time constant. The charge drops to 37 percent of its
+initial value in a time equal to RC and to 1 percent in a time equal to
+b to
+
+c,
+
+A
+
+complete ratemeter circuit consists of two parts. The first is a pulseamplifying and pulse-shaping portion which electronically converts the
+counter pulses, which vary in amplitude and shape from counter to counter,
+These
+into rectangular pulses of fixed dimensions in voltage and time.
+pulses are then fed into the second portion, which
+shown in Fig. 7-21, a circuit basically
+pulse input
+
+shown
+
+a time constant
+as a simple switch,
+
+an electronic
+
+circuit
+
+#2^2is
+
+the measuring circuit
+
+and
+
+similar to that of Fig. 7-20 (a)
+
+having
+
+is
+
+$,
+
+actually
+
+which connects a
+
+to c each time a pulse arrives and then
+connects b to c immediately after-
+
+wards.
+
+A
+
+constant charge
+
+is
+
+thus
+
+added to the capacitor for each pulse
+received and this charge leaks away
+
+p IG
+
+.
+
+7.21.
+
+ratemeter
+
+Measuring portion
+
+circuit.
+
+of
+
+

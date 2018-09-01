@@ -1,0 +1,106 @@
+THE STRUCTURE OF POLYCRYSTALLINE AGGREGATES
+
+278
+
+F
+
+A.
+
+[CHAP. 9
+
+F.A
+
+reflect ion circle
+
+(b)
+
+FIG. 9-9.
+
+Perfect [100] fiber texture: (a)
+
+(1
+
+11) pole figure; (b) location of reflect-
+
+ing plane normals.
+
+at an angle
+
+which satisfies the Bragg law, and this requires that the (111)
+somewhere on the circle PUV, since then the angle between the
+6.
+plane normal and the incident beam will always be 90
+For this
+reason, PUQV is called the reflection circle. If the grains of the wire had
+completely random orientations, then (111) poles would lie at all positions
+on the reflection circle, and the 111 reflection would consist of the complete Debye ring indicated in the drawing. But if the wire has a perfect
+pole
+
+lie
+
+then the diffraction pattern produced by a stationary
+from a single crystal rotated about
+because of the rotational symmetry of the wire. During
+
+[100] fiber texture,
+
+specimen
+
+is
+
+identical with that obtained
+
+the axis [100],
+this rotation, the (111) pole is confined to the small circle
+PAQB, all points
+of which make a constant angle p = 54.7 with the [100] direction N. Diffraction can
+
+now
+
+occur only when the (111) pole lies at the intersections
+and the circle PAQB. These intersections are located
+
+of the reflection circle
+
+P
+
+and Q, and the corresponding diffraction spots at /? and T, at an
+azimuthal angle a from a vertical line through the center of the film. Two
+other spots, not shown, are located in symmetrical positions on the lower
+half of the film.
+If the texture is not perfect, each of these
+spots will
+
+at
+
+broaden peripherally into an arc whose length
+^f scatter in the texture.
+
+By
+
+solving the spherical triangle IPN,
+between the angles p, 0, and a:
+
+is
+
+we can
+
+a function of the degree
+find the following general
+
+relation
+
+cos p
+
+=
+
+cos B cos a.
+
+(9-6)
+
+These angles are shown stereographically in Fig. 9-9, projected on a
+plane
+lormal to the incident beam. The (111) pole figure in
+(a) consists simply
+
+

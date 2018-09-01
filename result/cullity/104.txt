@@ -1,0 +1,250 @@
+DIFFRACTION UNDER NONIDEAL CONDITIONS
+
+3-7]
+
+of
+
+J5,
+
+we can take
+
+which the intensity
+
+half the difference between the
+is
+
+-
+
+f (20i
+
+subtraction
+
+we
+
+=
+
+2
+
+CM
+(/>
+
+2
+
+-
+
+sin
+
+1)X.
+
+f2 \
+
+~"T~
+
+2
+
+2)
+
+=
+
+//)
+
+\
+
+^2 \
+
+I
+
+)
+
+2
+
+\
+
+/
+
+X,
+/)
+
+i ^1
+
+sin
+
+1
+
+and
+
+2.
+
+two angles are
+
+(m
+
+n \
+
+i
+
+0i
+
+-
+
+0i
+
+find
+(sin 0i
+
+But
+
+=
+
+20 2 )
+
+path-difference equations for these
+
+2t sin
+
+By
+
+two extreme angles at
+
+zero, or
+
+B =
+The
+
+99
+
+=
+
+X.
+
+/
+
+are both very nearly equal to 0#, so that
+0i
+
++
+
+02
+
+=
+
+200
+
+(approx.)
+
+and
+sin
+
+=
+
+f
+
+^J
+
+f
+
+(approx.).
+
+j
+
+Therefore
+
+-) cos B
+
+2t[
+
+t
+
+more exact treatment
+
+of the
+
+X,
+
+=
+
+(3-12)
+JS
+
+A
+
+=
+
+cos SB
+
+problem gives
+,
+
+.
+
+_*_.
+
+(3-13)
+
+B cos BR
+
+It is used to estimate the particle
+width of their diffraction
+measured
+from
+the
+size of very small crystals
+of
+this
+effect?
+Suppose X = 1.5A,
+curves. What is the order of magnitude
+=
+the breadth
+in
+diameter
+49. Then for a crystal 1
+d = LOA, and
+2
+X 10~7 radian
+effect alone, would be about
+J5, due to the small crystal
+Such a crystal would contain
+(0.04 sec), or too small to be observable.
+
+which
+
+is
+
+known
+
+as the Scherrer formula.
+
+mm
+
+7
+some 10
+
+parallel lattice planes of the spacing assumed above. However,
+the crystal were only 500A thick, it would contain only 500 planes, and
+3
+10~~
+the diffraction curve would be relatively broad, namely about 4
+
+if
+
+X
+
+radian (0.2).
+
+Nonparallel incident rays, such as
+in
+
+any
+
+B
+
+and C
+
+in Fig. 3-14, actually exist
+
+real diffraction experiment, since the "perfectly parallel
+
+beam"
+
+

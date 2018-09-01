@@ -1,0 +1,140 @@
+THE BACK-REFLECTION LAUE METHOD
+
+8-2]
+
+227
+
+plane
+
+Relation between diffraction spot
+
+FIG. 8-10.
+
+of the plane causing the spot, for
+
+back
+
+8 and
+
+stereographic projection
+
+P
+
+reflection.
+
+would be obtained only on a 1 1
+standard, since PB
+actually a 110) pole. Once a match has been found, the indices of the unknown
+poles are given simply by the indices of the poles on the standard with which they
+
+of Fig. 8-6, a coincidence
+is
+
+1
+
+{
+
+(
+
+coincide.
+
+In the absence of a Greninger chart, the pole corresponding to any observed
+
+Laue spot may be plotted by means
+
+The
+
+construction of the ruler
+
+is
+
+of
+
+an
+
+easily constructed "stereographic ruler."
+
+based on the relations shown in Fig. 8-10.
+
+This
+
+a section through the incident beam OC and any diffracted beam CS.
+convenient to use the plane normal ON' rather than ON and to make the
+
+is
+
+drawing
+Here it is
+
+projection from T, the intersection of the reference sphere with the incident beam.
+The projection of the pole N' is therefore at P. From the measured distance OS
+of the diffraction spot
+
+from the center of the
+
+film,
+
+we can
+
+find the distance
+
+PQ
+
+of
+
+the projected pole from the center of the projection, since
+
+OS = OC tan
+
+(180
+
+-
+
+20)
+
+= D tan
+
+(180
+
+-
+
+(8-1)
+
+26)
+
+and
+
+PQ = TQ tan
+where
+
+D
+
+is
+
+The value
+
+~
+f)
+
+=
+
+2r tan
+
+(8-2)
+
+the specimen-film distance and r the radius of the reference sphere.
+is fixed by the radius R of the Wuiff net used, since the latter equals
+
+of r
+
+the radius of the basic circle of the projection.
+
+We
+
+note that,
+
+if
+
+the pole of the
+
+

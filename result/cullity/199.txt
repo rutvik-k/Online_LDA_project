@@ -1,0 +1,173 @@
+DIFFRACTOMETER MEASUREMENTS
+
+194
+
+[CHAP. 7
+
+voltage of most counters is commonly found to lie in the range of 1000 to
+1500 volts. It should be noted that some counters can be permanently
+damaged if subjected, even for brief periods, to voltages high enough to
+
+cause a continuous discharge.
+
+There are several important differences between the action of a Geiger
+counter and that of a proportional counter:
+within the volume
+(1) The absorption of an x-ray quantum anywhere
+over the whole
+that
+extends
+avalanche
+an
+counter
+of a Geiger
+triggers
+length of the counter.
+amplification factor of a Geiger counter is therefore much
+8
+9
+in the
+larger, about 10 to 10 (see Fig. 7-10), and so is the voltage pulse
+wire, now about 1 to 10 volts. This means that less amplification is needed
+(2)
+
+The gas
+
+(Pulses from either kind of counter are always
+fed
+to a sealer or ratemeter.)
+before
+being
+amplified
+At
+a
+constant
+applied voltage, all Geiger pulses are of the same size,
+(3)
+in the external circuit.
+
+independent of the energy of the x-ray quantum that caused the primary
+ionization.
+
+x . ra> (iuantimi
+
+These differences are
+schematically
+
+in Fig. 7-12.
+
+sorption of an x-ray
+
+The
+
+in a
+
+quantum
+
+column
+
+ot
+
+hm-
+
+ab-
+
+proportional counter produces a very
+localized radial
+
+absorbed
+
+illustrated
+
+ana
+
+ions
+
+pHU])()lrn()NAL
+
+(
+
+,n
+
+NT ,, K
+
+In a Geiger counter, on the
+other hand, the applied voltage is so
+high that not only are some atoms
+ionized but others are raised to exelectrons.
+
+and caused to emit ultraThese ultraviolet
+radiation.
+
+cited states
+violet
+
+photons then travel throughout the
+counter at the speed of light, knock.
+
+mg
+
+,,
+
+.
+
+electrons out of other gas
+
+and out
+
+of the
+
+cathode
+
+atoms
+
+r.KKiKK
+FIG. 7-12.
+
+<
+
+'orvrat
+
+Differences in the extent
+
+between proportional and
+Geiger counters. Each plus (or minus)
+symbol represents a large number ol
+of ionization
+
+positiye
+
+kms
+
+,
+
+(or
+
+ele( trons)
+
+.
+
+All the
+
+shell.
+
+electrons so produced trigger other avalanches, and the net result is that
+one tremendous avalanche of electrons hits the whole length of the anode
+
+wire whenever an x-ray quantum is absorbed anywhere in the tube.
+All these electrons hit the wire in less than a microsecond, but the slowly
+moving positive ions require about 200 microseconds to reach the cathode.
+
+This means that the electron avalanche in a Geiger counter leaves behind
+The presence
+it a cylindrical sheath of positive ions around the anode wire.
+of this ion sheath reduces the electric field between it and the wire below
+the threshold value necessary to produce a Geiger pulse. Until this ion
+sheath has moved far enough away from the wire, the counter is insensitive
+to entering x-ray quanta.
+
+If
+
+these quanta are arriving at a very rapid
+
+

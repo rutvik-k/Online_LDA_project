@@ -1,0 +1,121 @@
+FILM LOADING
+
+6-4]
+
+5
+
+4
+
+2
+
+1
+
+155
+
+45
+
+12
+
+knife-edge
+
+shadow
+
+26
+
+12
+
+3
+
+4
+
+5
+
+5 4
+
+(c)
+
+FIG. 6-5.
+
+Methods
+
+have the same numbers
+
+Debye cameras,
+
+of film loading in
+
+180), where the incident beam entered,
+
+is
+
+positions of lines 5,5; similarly, the point
+
+mitted beam
+
+left,
+
+the positions of
+
+is
+
+Corresponding
+
+lines
+
+in all films.
+
+halfway between
+
+X and
+
+Y
+
+gives W, and
+
+29
+
+7
+
+halfway between the measured
+Y (26 = 0), where the trans-
+
+lines 1,1.
+6 is
+
+The
+
+difference
+
+found by proportion
+
+between
+
+:
+
+_ 8
+~
+
+W
+
+Unsymmetrical loading thus provides
+
+for the film-shrinkage correction
+
+without calibration of the camera or knowledge of any camera dimension.
+The shapes of the diffraction lines in Fig. 6-5 should be noted. The lowangle lines are strongly curved because they are formed by cones of radiation which have a small apex angle 48. The same is true of the high-angle
+
+although naturally they are curved in the opposite direction. Lines
+are practically straight. This change
+is nearly equal to 180
+of line shape with change in 6 may also be seen in the powder photographs
+lines,
+
+for
+
+which 40
+
+shown
+
+in Fig. 3-13.
+
+

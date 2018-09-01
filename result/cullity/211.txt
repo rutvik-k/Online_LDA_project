@@ -1,0 +1,112 @@
+DIFFRACTOMETER MEASUREMENTS
+
+206
+
+[CHAP. 7
+
+angular interval between counter positions is so chosen that the overlap
+between adjacent settings of the slit is negligibly small and constant and
+never coincides with the maximum intensity of the line being measured.
+the line being measured.
+(3) A receiving slit is used which is wider than
+centered on the line and a count made for a given time. The
+background is measured by counting at a position adjacent to the line
+
+The
+
+slit is
+
+with the same
+
+Because
+
+all
+
+same length of time.
+these methods involve counting
+slit
+
+for the
+
+for a fixed time, the back-
+
+measured
+ground and
+with less accuracy than the high-intensity portions. The counting time
+should be chosen so that the low intensities are measured to the accuracy
+follow that the
+required by the particular problem involved; it will then
+but that
+with
+measured
+are
+intensities
+accuracy,
+unnecessarily
+high
+high
+low-intensity portions of the diffraction line are
+
+unavoidable in fixed-time methods such as these.
+The integrating ability of a sealer is also put to use in x-ray tube moniIn Sec. 7-2 it was mentioned that the incident-beam intensity had
+tors.
+is
+
+to be maintained absolutely constant in a diffractometer and that this
+constancy required tube current and voltage stabilizers. These stabilizing
+
+an extra counter and sealer are available to
+"watch," or monitor, the tube output. The monitor counter may be positioned to receive the direct beam, suitably filtered to reduce its intensity,
+from another window of the x-ray tube, or an auxiliary crystal may be set
+to diffract a portion of the beam used in the diffractometer into the monitor
+circuits are not
+
+needed
+
+if
+
+In either case, every intensity measurement with the diffrac-
+
+counter.
+
+starting the diffractometer sealer and monitor sealer
+and
+stopping both when the monitor sealer has registered
+simultaneously
+a constant number of counts N. In this way, every intensity measurement
+is made in terms of the same amount of energy incident on the specimen,
+and variations in tube output have no effect.
+
+tometer
+
+is
+
+made by
+
+7-9 Ratemeters. The counting-rate meter, as its name implies, is a
+device which indicates the average counting rate directly without requiring,
+
+as in the sealer-timer combination, separate
+
+measurements
+
+of the
+
+a circuit which, in effect,
+
+of counts and the time. It does this by
+smooths out the succession of randomly spaced pulses from the counter
+into a steady current, whose magnitude is proportional to the average
+
+number
+
+rate of pulse production in the counter.
+
+The heart of a ratemeter circuit is a series arrangement of a capacitor
+and resistor. To understand the action of a ratemeter, we must review
+some of the properties of such a circuit, notably the way in which the
+current and voltage vary with time. Consider the circuit shown in Fig.
+7-20(a), in which the switch S can be used either to connect a to c and thus
+apply a voltage to the capacitor, or to connect b to c and thus short-circuit
+
+

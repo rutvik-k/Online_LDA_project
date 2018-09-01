@@ -1,0 +1,174 @@
+[CHAP. 8
+
+ORIENTATION OF SINGLE CRYSTALS
+
+222
+
+The problem now
+and so
+
+indices,
+
+is
+
+to "index" these planes,
+
+i.e.,
+
+to find their Miller
+
+With the
+
+disclose the orientation of the crystal.
+
+Wulff net, great
+
+circles are
+
+drawn through the various
+
+aid of a
+
+sets of poles corre-
+
+sponding to the various hyperbolas of spots on the film. These great
+circles connect planes of a zone, and planes lying at their intersections are
+and {112}. The axes
+{110}, 11 1
+generally of low indices, such as 100
+is helpful to locate
+it
+so
+low
+also
+of
+are
+themselves
+zones
+of the
+indices,
+j
+
+} ,
+
+} ,
+
+{
+
+these axes on the projection. They are shown as open circles in Fig. 8-6,
+PA being the axis of zone .4, PB the axis of zone B, etc. We then measure
+
+the angles between important poles (zone intersections and zone axes)
+and try to identify the poles by comparison of these measured angles with
+those calculated for cubic crystals (Table 2-3).
+
+The method
+
+is
+
+essentially
+
+and error. We note, for example, that the angles P A
+PB,
+PA _ 5' an d pB 5' are all 90. This suggests that one or more of these
+poles might be |100| or {110}, since the angle between two {100} poles
+or between two jllOj poles is 90. Suppose we tentatively assume that
+PA, PB, and 5' are all J100} poles.* Then PE which lies on the great
+from each,
+circle between P A and P B and at an angular distance of 45
+must be a 1 10} pole. We then turn our attention to zone C and find that
+the distance between pole 6' and either pole 5' or PR is also 45. But
+reference to a standard projection, such as Fig. 2-37, shows that there is
+no important pole located midway on the great circle between {100},
+which we have identified with 5', and {110}, which we have identified
+one of
+
+trial
+?
+
+<
+
+j
+
+with PR. Our original assumption is therefore wrong. We therefore make
+a second assumption, which is consistent with the angles measured so far,
+namely that 5' is a {100! pole, as before, but that PA and PB are {110}
+We can check
+poles. PE must then be a {100} pole and & a {110} pole.
+b
+5'.
+Both
+assumption by measuring the angles in the triangle a
+conwhich
+71
+each
+from
+from
+and
+be
+to
+55
+a and b are found
+other,
+5',
+from
+a
+standard
+We
+note also,
+clusively identifies a and b as {111} poles.
+
+this
+
+must lie on a great circle between 100 and
+fact that a, for example, lies on the great
+with
+the
+which
+agrees
+{110},
+circle between 5', assumed to be {100}, and PB, assumed to be {110}projection, that a {111} pole
+
+Our second assumption
+*
+
+is
+
+therefore
+
+{
+
+shown
+
+j
+
+to be correct.
+
+detect an apparent error in nomenclature here. Pole 5' for
+assumed to be a {100} pole and spot 5 on the diffraction pattern is
+assumed, tacitly, to be due to a 100 reflection. But aluminum is face-centered
+cubic and we know that there is no 100 reflection from such a lattice, since hkl
+must be unmixed for diffraction to occur. Actually, spot 5, if our assumption is
+correct, is due to overlapping reflections from the (200), {400}, (600), etc., planes.
+But these planes are all parallel and are represented on the stereographic projecThe corresponding
+tion by one pole, which is conventionally referred to as 100}
+1
+
+The reader may
+i
+
+example,
+
+is
+
+{
+
+diffraction spot
+
+is
+
+.
+
+also called, conventionally but loosely, the 100 spot.
+
+

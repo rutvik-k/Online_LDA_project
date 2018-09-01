@@ -1,0 +1,174 @@
+POWDER PHOTOGRAPHS
+
+154
+is
+
+rotated.
+
+tice
+
+(Rotation
+
+but not an
+
+[CHAP. 6
+
+of the specimen during the exposure is
+
+intrinsic part of the
+
+powder method;
+
+produce continuous, rather than spotty, diffraction
+
+number
+
+of
+
+powder
+
+its
+
+lines
+
+common
+
+only purpose
+
+by
+
+pracis to
+
+increasing the
+
+particles in reflecting positions. |
+
+Figure 6-5 illustrates three methods of arranging
+the film strip in the Debye method. The small sketches on the right show
+the loaded film in relation to the incident beam, while the films laid out
+In (a), a hole is punched in the center of the
+flat are indicated on the left.
+film so that the film may be slipped over the beam stop; the transmitted
+
+6-4 Film loading.
+
+through the hole in the film. The pattern is symmetrical
+6 value of a particular reflection is obtained by
+distance
+the
+apart of two diffraction lines formed by the
+U,
+measuring
+same cone of radiation, and using the relation
+
+beam thus
+
+on either
+
+leaves
+
+side,
+
+and the
+
+4BR
+
+=
+
+U.
+
+Photographic film always shrinks slightly during processing and drying,
+and this shrinkage effectively changes the camera radius. The film-shrinkage error may be allowed for by slipping the ends of the film under metal
+knife-edges which cast a sharp shadow near each end of the film. In this
+way, a standard distance is impressed on the film which will shrink in the
+
+same proportion as the distance between a given
+
+pair of diffraction lines.
+
+the angular separation 40* of the knife-edges in the camera is known,
+either by direct measurement or by calibration with a substance of known
+If
+
+parameter, then the value of
+obtained by simple proportion:
+
+lattice
+
+6
+
+for a particular reflection
+
+be
+
+may
+
+U
+
+the distance apart of the knife-edge shadows on the film.
+Figure 6-5(b) illustrates a method of loading the film which is just the
+reverse of the previous one. Here the incident beam enters through the
+is obtained from the relation
+hole in the film, and
+
+where
+
+UK
+
+is
+
+(27T
+
+Knife-edges
+
+may
+
+-
+
+4S)R
+
+^
+
+V.
+
+also be used in this case as a basis for film-shrinkage cor-
+
+rections.
+
+or Straumanis, method of film loading is shown in
+Two
+holes
+are punched in the film so that it may be slipped
+6-5
+(c).
+Fig.
+over both the entrance collimator and the beam stop. Since it is possible
+
+The unsymmetrical,
+
+to determine from measurements on the film where the incident
+
+tered the film circle
+are required to
+
+and where the transmitted beam
+
+make
+
+the film-shrinkage correction.
+
+left it,
+
+beam
+
+en-
+
+no knife-edges
+
+The point
+
+X (20
+
+=
+
+

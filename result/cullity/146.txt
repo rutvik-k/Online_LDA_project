@@ -1,0 +1,85 @@
+6-2]
+
+CAMERAS
+
+141
+
+Back - re ec tion L aue camera. The
+specimen holder shown permits
+f L
+th6 Spedme
+We " as rotation about an **
+Pail to
+the incident h
+beam. The specimen shown is a
+coarse-grained
+one
+t
+
+tm
+
+1
+
+\"
+
+poBitioned so that only a single, selected
+grain will be struck
+FIG. 5-4.
+
+Back-reflection
+
+polycrystaJline
+
+by the incident beam!
+
+Laue camera (schematic).
+
+where r2 = distance of spot from center of film
+= specimen-to-film
+and
+distance (usually 3 cm). In contrast to
+transmission patterns, back-reflection patterns may have
+spots as close to the center of the film as the size
+of the colhmator
+Such spots are caused by
+permits.
+high-order overlapping reflections from planes almost perpendicular to the
+incident beam
+
+D
+
+bmce each
+
+diffracted beam is formed of a number of
+wavelengths the only
+a decrease in tube
+voltage is to remove one or more short-waveength components from some of the diffracted beams. The
+longer wavelengths will still be diffracted, and the decrease in
+voltage will not in
+general, remove any spots from the pattern.
+Transmission patterns can usually be obtained with
+much shorter exposures than back-reflection patterns. For
+with
+a tungstenexample,
+target tube operating at 30 kv and 20 ma and an aluminum
+crystal about
+1
+thick, the required exposure is about 5 min in
+transmission and
+30
+in back reflection. This difference
+is due to the fact that the
+atomic
+scattering factor / decreases as the quantity
+and this
+(sin0)/A
+effect of
+
+'
+
+mm
+mm
+
+increases,
+
+

@@ -1,0 +1,113 @@
+ORIENTATION OF SINGLE CRYSTALS
+
+256
+
+[CHAP. 8
+
+twins in copper have {111} composition planes to determine the orientation of the grain shown in Fig. 8-38 (a), where twin bands have formed on
+
+The trace normals are
+{111} planes of the parent grain.
+and on this is placed a standard (001) projection
+containing only (111) poles. If the standard is rotated about its center
+to the position shown, then it is possible by a further rotation about the
+
+two
+
+different
+
+plotted in Fig. 8-38(b),
+
+AB
+
+to bring the {111} poles of the standard, shown by open symbols,
+to positions lying on trace normals, shown by solid symbols. The solid
+symbols therefore show an orientation of the crystal which will account
+axis
+
+Unfortunately, it is not the only one the orientation found by reflecting the one shown in the plane of projection is also a
+possible solution. A choice between these two possibilities can be made
+for the observed traces.
+
+:
+
+only by sectioning the crystal so as to expose trace directions in a second
+surface.
+
+8-8 Relative orientation of precipitate and matrix. When a supersaturated solid solution precipitates a second phase, the latter frequently
+takes the form of thin plates which lie parallel to certain planes of low
+indices in the matrix.
+
+The matrix plane on which
+
+the precipitate plate
+indices always refer to the lattice of the
+
+the habit plane and
+is also a definite orientation relationship between the lattice
+of the precipitate and that of the matrix. Both of these effects result from
+
+lies is called
+
+matrix.
+
+its
+
+There
+
+a tendency of the atomic arrangement in the precipitate to conform as
+closely as possible to the atomic arrangement in the matrix at the interface
+
+between the two.
+
+FCC
+
+For example, precipitation of an
+such a
+
+HCP
+
+phase from an
+
+that the basal (0001) plane
+of the precipitate is parallel to a (111) plane of the matrix, since on both
+of these planes the atoms have a
+solid solution often occurs in
+
+way
+
+hexagonal arrangement.
+Relations of this kind are illustrated
+
+on an atomic scale in Fig. 8-39.
+
+In
+
+this hypothetical case the habit plane
+is (HO) and the lattice relationship is
+
+such that the plane (010) of the precipitate is parallel to the plane (110)
+of the matrix; the direction [100] in
+the former plane
+
+is
+
+parallel to the
+
+direction [110] in the latter, or, in the
+
+usual shorthand notation,
+
+MATRIX
+where the subscripts p and m refer to
+precipitate and matrix, respectively.
+
+UNIT CELL
+FIG. 8-39.
+tionship.
+
+PRECIPITATE
+UNIT CELL
+Matrix-precipitate rela-
+
+

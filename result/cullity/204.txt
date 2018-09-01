@@ -1,0 +1,141 @@
+GEIGER COUNTERS
+
+7-6]
+
+199
+
+the tube voltage exceeds the critical
+excitation voltage of the target mate-
+
+Suppose, for example, that a
+
+rial.
+
+=
+
+copper target (excitation voltage
+9 kv) is operated at a peak voltage
+of 50 kv. Then, if the wave form is
+
+shown
+
+like that
+
+Cu Ka
+
+in Fig. 7-16,
+
+radiation will be emitted during the
+
+time intervals
+
+^2 and t^
+
+but not
+
+during < 2 fe- But if the peak voltage
+is decreased to 25 kv, Cu Ka emission
+is limited to the shorter time intervals
+
+and
+
+If the x-ray intensity is
+/7 <8
+the same at both voltages by
+adjusting the tube current, then it folt5 t G
+
+-\ cycle
+
+-
+
+-I
+
+critical excitation
+
+voltage
+
+TIME
+
+.
+
+made
+
+lows that the same number of
+
+quanta are
+the higher.
+
+FIG. 7-16. Variation of tube voltage with time for a full-wave rectified
+x-ray tube (schematic).
+
+Cu Ka
+
+bunched into shorter times at the lower tube voltage than at
+
+Lowering the tube voltage therefore decreases the average
+time interval between quanta entering the Geiger counter during each
+which no
+half-cycle and may cause counting losses to occur at rates at
+produced at higher tube voltages. It follows that a counter calibration curve applies only to measurements made at voltages not less than
+the voltage at which the calibration was performed.
+losses are
+
+One other aspect of Geiger-counter operation deserves mention, and
+is the method used to prevent the discharge actuated by the absorption of one quantum from continuing indefinitely. If the counter is filled
+
+that
+
+with a single gas such as argon, the positive argon ions on reaching the
+cathode are able to eject electrons from the cathode material. These
+electrons are accelerated to the anode and initiate another chain of ionization,
+
+with the result that a continuous discharge
+
+is
+
+set
+
+up
+
+in the counter,
+
+after the first one.
+
+incapable of counting
+
+it
+any entering quanta
+This discharge may be prevented or "quenched" if an external circuit is
+used which abruptly lowers the voltage on the counter after each pulse
+to a value below that necessary to maintain a discharge but high enough
+
+rendering
+
+to clear
+
+all
+
+As soon as the ions are neutralized at the
+reapplied and the counter is again sensitive.
+
+ions from the gas.
+
+cathode, the high voltage is
+To avoid the necessity for a quenching circuit, counters have been designed
+which are self-quenching by virtue of the gas mixture they contain. To
+the main gas in the counter, usually argon or krypton, is added a small
+
+proportion of "quench gas," which is either a polyatomic organic vapor,
+such as alcohol, or a halogen, such as chlorine or bromine. As its name
+the quench gas plays the role of the quenching circuit used with
+implies,
+
+single-gas counters
+
+and prevents the
+
+initial
+
+avalanche of ionization from
+
+

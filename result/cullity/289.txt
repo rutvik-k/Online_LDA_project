@@ -1,0 +1,166 @@
+THE STRUCTURE OF POLYCRYSTALLINE AGGREGATES
+
+284
+
+=
+
+5
+
+The
+
+(T.D. vertical).
+
+same symbols, and the
+
+arcs in Fig. 9-14 are replotted here with the
+
+E\Fi and
+
+arcs
+
+[CHAP, 9
+
+with the transverse direction
+
+vertical.
+
+areas of high pole density and,
+
+by
+
+E2 F2
+
+lie
+
+on the 5
+
+The complete
+
+reflection circle
+
+set of arcs defines
+
+reflecting these areas in the
+
+planes mentioned above, we arrive at the complete pole
+R.D
+Fig. 9-16.
+
+symmetry
+figure shown in
+
+In practice, the variation of intensity around a Debye ring is not abrupt
+
+but gradual, as Fig. 9-11 demonThis is taken into account
+strates.
+by plotting ranges in which the inis substantially constant, and
+no more than four such ranges are
+
+tensity
+
+T.D
+
+usually required, namely, zero, weak,
+
+medium, and
+
+strong.
+
+The
+
+result
+
+is
+
+a pole figure in which various areas,
+distinguished by different kinds of
+cross-hatching, represent various degrees of pole density from zero to a
+
+maximum.
+
+Figure 9-17
+
+is
+
+a photo-
+
+FIG. 9-17.
+
+(Ill) pole figure of re-
+
+70-30 brass, determined
+by the photographic method. (R. M.
+Brick, Trans. A.I.M.E. 137, 193, 1940.)
+crystallized
+
+graphically determined pole figure in
+which this has been done. It represents the primary recrystallization texture of 70-30 brass which has been
+cold-rolled to a 99 percent reduction in thickness
+
+400C
+
+for
+
+and then annealed at
+
+30 minutes.
+
+of sheet is often described in terms of an "ideal orientation,"
+of a single crystal whose poles would lie in the highorientation
+the
+i.e.,
+For example, in Fig. 9-17 the solid
+of
+the
+density regions
+pole figure.
+
+The texture
+
+mark
+
+the positions of the Jill} poles of a single crys(113) plane parallel to the plane of the sheet and the
+This orienta[211] direction in this plane parallel to the rolling direction.
+the
+normal
+to
+rolling and
+tion, when reflected in the two symmetry planes
+
+triangular symbols
+tal
+
+which has
+
+its
+
+transverse directions, will approximately account for all the high-density
+Accordingly, this texture has been called a
+regions on the pole figure.
+(113) [2ll] texture.
+
+The
+
+actual pole figure, however,
+
+is
+
+a far better de-
+
+any statement of an ideal orientation, since
+the latter is frequently not very exact and gives no information about the
+degree of scatter of the actual texture about the ideal orientation.
+The inaccuracies of photographically determined pole figures are due
+to two factors:
+
+scription of the texture than
+
+(1) intensity
+
+estimates,
+
+and
+
+"measurements" made on the film are usually only visual
+
+

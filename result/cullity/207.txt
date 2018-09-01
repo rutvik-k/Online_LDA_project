@@ -1,0 +1,157 @@
+DIFFRACTOMETER MEASUREMENTS
+
+202
+
+But the pulse
+
+size
+
+[CHAP. 7
+
+corresponding to a certain quantum energy
+
+is
+
+much
+
+scintillationsharply defined than in a proportional counter; i.e.,
+a mean
+have
+a
+of
+energy
+counter pulses produced by x-ray quanta
+given
+distribuwide
+is
+a
+also
+there
+but
+that
+of
+fairly
+size characteristic
+energy,
+
+less
+
+tion of pulse size about this mean.
+
+between x-ray quanta
+
+As
+
+a result, it is difficult to discriminate
+on the basis of pulse size.
+
+of different energies
+
+approaches 100 percent over the
+whole range of x-ray wavelengths, short and long, because all incident
+is its
+x-ray quanta are absorbed in the crystal. Its chief disadvantage
+rather high background count; a so-called "dark current" of pulses is pro-
+
+The
+
+efficiency of a scintillation counter
+
+duced even when no x-ray quanta are incident on the counter. The main
+source of this dark current is thermionic emission of electrons from the
+photocathode.
+
+A sealer is an electronic device which counts each pulse
+Once the number of pulses over a measured
+counter.
+the
+produced by
+the
+is
+average counting rate is obtained by simple
+known,
+period of time
+division. If the rate of pulse production were always low, say a few counts
+7-8 Sealers.
+
+mechanical
+per second, the pulses could be counted satisfactorily by a fast
+It is thererates.
+counter, but such devices cannot handle high counting
+before
+factor
+fore necessary to divide, or scale down, the pulses by a known
+feeding
+
+them
+
+to the mechanical counter.
+
+As
+
+its
+
+name
+
+implies, the sealer
+
+There are two main kinds, the binary sealer,
+in which the scaling factor is some power of 2, and the decade sealer, in
+which it is a power of 10.
+We will consider sealer operation only in terms of binary sealers but
+fulfills this
+
+latter function.
+
+the principles involved are applicable to either type. A typical binary
+sealer has several scaling factors available at the turn of a switch, ranging
+14
+from 2 (= 1) to about 2 (= 16384). The scaling circuit is made up of a
+of identical "stages" connected in series, the number of stages
+n
+being equal to n where 2 is the desired scaling factor. Each stage is comof a number of vacuum tubes, capacitors, and resistors so connected
+
+number
+posed
+
+that only one pulse of current is transmitted for every two pulses received.
+Since the output of one stage is connected to the input of another, this
+division by two is repeated as many times as there are stages. The output
+
+may be connected to a mechanical counter which will
+one
+for every pulse transmitted to it by the last stage. Thus,
+count
+register
+a
+counter are passed through a circuit of n stages, only
+if
+from
+pulses
+n
+will
+the mechanical counter.
+on
+N/2
+register
+of the last stage
+
+N
+
+There are two ways of using a sealer to obtain an average counting rate
+counting for a fixed time and counting a fixed number of pulses. In the
+If the
+first method, the sealer is turned on for a time t and then shut off.
+:
+
+mechanical counter then shows
+
+NQ
+
+counts, the
+
+number
+
+of input pulses
+
+

@@ -1,0 +1,102 @@
+CHAPTER
+
+5
+
+LAUE PHOTOGRAPHS
+6-1 Introduction.
+
+The experimental methods used
+
+in obtaining diffrac-
+
+tion patterns will be described in this chapter and the two following ones.
+Here we are concerned with the Laue method only from the experimental
+its main applications will Be dealt with in Chap. 8.
+Laue photographs are the easiest kind of diffraction pattern to make and
+require only the simplest kind of apparatus. White radiation is necessary,
+and the best source is a tube with a heavy-meta! target, such as tungsten,
+
+viewpoint;
+
+since the intensity of the continuous
+
+number
+
+of the target metal.
+
+is proportional to the atomic
+patterns can also be obtained with
+
+spectrum
+
+Good
+
+radiation from other metals, such as molybdenum or copper. Ordinarily,
+the presence of strong characteristic components, such as
+Lai, Cu Ka,
+Ka, etc., in the radiation used, does not complicate the diffraction
+pattern in any way or introduce difficulties in its interpretation. Such a
+
+W
+
+Mo
+
+will only be reflected if a set of planes in the crystal happens to
+be oriented in just such a way that the Bragg law is satisfied for that component, and then the only effect will be the formation of a Laue spot of
+
+component
+
+exceptionally high intensity.
+
+The specimen used in the Laue method is a single crystal. This may
+mean an isolated single crystal or one particular crystal grain, not too
+small, in a polycrystalline aggregate. The only restriction on the size of a
+crystal in a polycrystalline mass is that it must be no smaller than the
+incident x-ray beam, if the pattern obtained is to correspond to that crystal
+alone.
+
+Laue spots are often formed by overlapping reflections of different
+For example, the 100, 200, 300,
+reflections are all superimposed
+
+orders.
+
+.
+
+.
+
+.
+
+since the corresponding planes, (100), (200), (300), ... are all parallel.
+The first-order reflection is made up of radiation of wavelength X, the
+
+second-order of X/2, the third-order of X/3, etc.,
+wavelength limit of the continuous spectrum.
+
+down
+
+to XSWL, the short-
+
+The position of any Laue spot is unaltered by a change in plane spacing,
+since the only effect of such a change is to alter the wavelength of the
+beam. It follows that two crystals of the same orientation and
+crystal structure, but of different lattice parameter, will produce identical
+
+diffracted
+
+Laue
+
+patterns.
+
+5-2 Cameras.
+
+Laue cameras are so simple to construct that homemany laboratories. Figure 5-1 shows
+a typical transmission camera, in this case a commercial unit, and Fig.
+
+made models
+
+are found in a great
+
+138
+
+

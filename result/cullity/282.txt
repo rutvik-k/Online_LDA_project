@@ -1,0 +1,120 @@
+9-7]
+
+THE TEXTURE OF WIRE AND ROD (PHOTOGRAPHIC METHOD)
+
+277
+
+F.A
+
+.Debye
+ring
+
+reflection
+circle
+
+"V.
+
+reference
+
+sphere
+
+FIG. 9-8.
+
+Geometry
+
+of reflection
+
+from material having a
+
+fiber texture.
+
+F.A.
+
+=
+
+fiber axis.
+
+tional
+
+symmetry about an
+
+axis in the sense that all orientations
+
+about
+
+this
+
+A
+
+fiber texture is therefore to be expected in
+axis are equally probable.
+which have rotational symmetry about a
+forces
+formed
+material
+by
+any
+
+example, in wire and rod, formed by drawing, swaging, or extruLess common examples of fiber texture are sometimes found in sheet
+
+line, for
+
+sion.
+
+formed by simple compression, in coatings formed by hot-dipping, electrodeposition, and evaporation, and in castings among the columnar crystals
+next to the mold wall.
+
+The
+
+fiber axis in these
+
+is
+
+perpendicular to the plane
+
+of
+parallel to the axis of the columnar crystals.
+Fiber textures vary in perfection, i.e., in the scatter of the direction
+[uvw] about the fiber axis, and both single and double fiber textures have
+
+the sheet or coating, and
+
+Thus, cold-drawn aluminum wire has a single [111] texture,
+but copper, also face-centered cubic, has a double [111]
+[100] texture;
+there are two sets of grains, the fiber axis of one
+i.e., in drawn copper wire
+
+been observed.
+
++
+
+set being [111]
+
+and that
+
+of the other set [100].
+
+The only
+
+crystallographic problem presented
+of determining the indices [uvw] of the fiber axis,
+
+approached by considering the diffraction
+
+by fiber textures is that
+and that problem is best
+
+effects associated
+
+with an ideal
+
+case, for example, that of a wire of a cubic material having a perfect [100]
+fiber texture.
+Suppose we consider only the 111 reflection. In Fig. 9-8,
+
+the wire specimen is at C with its axis along NS, normal to the incident
+beam 1C. CP is the normal to a set of (111) planes. Diffraction from
+these planes can occur only when they are inclined to the incident beam
+
+

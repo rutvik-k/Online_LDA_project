@@ -1,0 +1,160 @@
+THE STRUCTURE OF POLYCRYSTALLINE AGGREGATES
+
+260
+
+[CHAP. 9
+
+sent rather extreme values; typical values fall into a much narrower range,
+3
+2
+namely, about 10~ to 10~ cm The most accurate method of measuring
+grain size in this range is by microscopic examination; the usual procedure
+is
+
+to determine the average
+
+number
+
+of grains per unit area of the polished
+
+and report this in terms of an "index number" established by the
+American Society for Testing Materials. The equation
+
+section
+
+n =
+relates n, the
+
+cation
+
+of
+
+number
+
+100 X,
+
+of grains per square inch
+
+and
+
+TV,
+
+the
+
+ASTM
+
+when viewed
+
+"index number"
+
+at a magnifi-
+
+or
+
+"grain-size
+
+number."
+Although x-ray
+
+diffraction
+
+is
+
+decidedly inferior to microscopic examina-
+
+of grain size, one diffraction photograph
+can yield semiquantitative information about grain size, together with information about crystal perfection and orientation. A transmission or backreflection pinhole photograph made with filtered radiation is best. If the
+back-reflection method is used, the surface of the specimen (which need
+
+tion in the accurate
+
+measurement
+
+not be polished) should be etched to remove any disturbed surface layer
+which might be present, because most of the diffracted radiation originates
+in a thin surface layer (see Sees. 9-4 and 9-5).
+*
+
+The nature
+
+of the changes produced in pinhole photographs
+
+by progres-
+
+sive reductions in specimen grain size is illustrated in Fig. 9-1. The governing effect here is the number of grains which take part in diffraction.
+
+This number
+
+is
+
+in turn related to the cross-sectional area of the incident
+
+depth of penetration (in back reflection) or the specimen
+thickness (in transmission). When the grain size is quite coarse, as in
+consists of a
+Fig. 9-1 (a), only a few crystals diffract and the photograph
+set of superimposed Laue patterns, one from each crystal, due to the white
+
+beam, and
+
+its
+
+A somewhat finer grain size increases the number of
+Laue spots, and those which lie on potential Debye rings generally are
+more intense than the remainder, because they are formed by the strong
+
+radiation present.
+
+characteristic
+
+component
+
+of the incident radiation.
+
+Thus, the suggestion
+
+Debye ring begins to appear, as in (b). When the grain size is further
+reduced, the Laue spots merge into a general background and only Debye
+of a
+
+These rings are spotty, however, since not
+rings are visible, as in (c).
+in
+the irradiated volume of the specimen to
+enough crystals are present
+reflect to all parts of the ring.
+
+continuous
+
+Debye
+
+rings
+
+shown
+
+A still
+
+finer grain size produces- the
+
+smooth,
+
+in (d).
+
+Several methods have been proposed for the estimation of grain size
+purely in terms of various geometrical factors. For example, an equation
+
+be derived which relates the observed number of spots on a Debye
+to
+the grain size and other such variables as incident-beam diameter,
+ring
+multiplicity of the reflection, and specimen-film distance. However, many
+
+may
+
+approximations are involved and the resulting equation
+
+is
+
+not very accu-
+
+

@@ -1,0 +1,70 @@
+ORIENTATION OP SINGLE CRYSTALS
+
+246
+
+(a)
+
+FIG. 8-28.
+film distance 3
+
+Transmission
+
+(b)
+
+Back
+
+[CHAP. 8
+
+reflection
+
+of a deformed aluminum crystal.
+cm, tungsten radiation, 30 kv.
+
+Laue photographs
+
+Specimen-to-
+
+stereographically; each Laue streak is plotted as an arc representing the
+range of orientation of the corresponding lattice plane, and a rotation axis
+which will account for the directions of these arcs on the projection is
+
+found.
+
+The angular
+
+lengths of the arcs are a measure of the
+
+amount
+
+of
+
+bending which has occurred. In measuring the amount of bending by
+this method, it must be remembered that the wavelengths present in the
+There is no radiation of
+incident beam do not cover an infinite range.
+than
+the
+shorter
+limit, and on the longshort-wavelength
+wavelength
+
+wavelength side the intensity decreases continuously as the wavelength
+This means that, for a given degree of lattice bending, some
+increases.Laue streaks may not be as long as they might be if a full range of wavelengths were available. The amount of bending estimated from the lengths
+of these streaks would therefore be smaller than that actually present.
+Transmission and back-reflection Laue patterns made from the same
+
+deformed region usually differ markedly in appearance. The photographs
+in Fig. 8-28 were made, under identical conditions, of the same region of a
+deformed aluminum crystal having the same orientation relative to the
+incident beam for each photograph.
+Both show elongated spots, which
+are evidence of lattice bending, but the spots are elongated primarily in a
+radial direction on the transmission pattern while on the back-reflection
+pattern they tend to follow zone lines. The term asterism (from the Greek
+aster = star) was used initially to describe the starlike appearance of a
+transmission pattern such as Fig. 8-28 (a), but it is now used to describe any
+form of streaking, radial or nonradial, on either kind of Laue photograph.
+The striking difference between these two photographs is best understood by considering a very general case. Suppose a crystal is so deformed
+
+

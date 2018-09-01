@@ -1,0 +1,148 @@
+128
+
+DIFFRACTION
+
+THE INTENSITIES OF DIFFRACTED BEAMS
+
+II!
+
+R
+
+FIG. 4-16.
+
+[CHAP. 4
+
+sin 20/i
+
+Intersection of cones of diffracted rays with Debye-Scherrer film.
+
+thus leads to a third geometrical factor affecting the intensity of a
+tion.
+
+The length
+
+of
+
+diffraction line being
+
+any
+
+2vR
+
+sin 20s,
+
+where
+
+reflec-
+
+R
+
+radius of the camera, the relative intensity per unit length of line
+portional to I/sin 20B.
+
+is
+
+is
+
+the
+
+pro-
+
+In intensity calculations, the three factors just discussed are combined
+into one and called the Lorentz factor.
+Dropping the subscript on the
+
+Bragg angle, we have:
+CO80
+Lorentz factor
+
+==
+
+(
+
+)
+
+[
+
+cos 6
+
+Vsin 207 \
+
+1
+
+I
+
+} [
+
+/ Vsin 207
+
+sin
+
+2
+
+28
+
+2
+
+4 sin 6 cos
+
++
+
+combined with the polarization factor
+Sec. 4-2 to give the combined LorentzThis in turn
+
+is
+
+2
+
+cos 26) of
+
+polarization factor which, with a constant factor of -^ omitted, is given by
+
+Lorentz-polarization factor
+1
+
+=
+
++
+
+^
+o
+2
+
+cos 26
+
+5|
+CSJ
+
+2
+
+sin'
+
+6 cos 6
+
+Values of this factor are given in
+Appendix 10 and plotted in Fig. 4-17
+as a function of 6. (jhe over-all effect
+of these geometrical factors is to decrease the intensity of reflections at
+intermediate angles compared to those
+in forward or
+
+backward
+
+directions.
+
+3
+
+10
+
+45
+
+BRAGG ANGLE
+
+90
+6 (degrees)
+
+FIG. 4-17. Lorentz-polarization factor.
+
+

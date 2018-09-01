@@ -1,0 +1,117 @@
+LAUE PHOTOGRAPHS
+
+144
+
+[CHAP. 5
+
+beam. In this case, a three-circle goniometer is used
+has three mutually perpendicular axes of rotation, two horizontal and one vertical, and is so constructed that the crystal, cemented
+to the tip of the short metal rod at the top, is not displaced in space by
+relative to the x-ray
+(Fig. 5-7)
+
+any
+
+;
+
+it
+
+of the three possible rotations.
+
+In the examination of sheet specimens, it is frequently necessary to
+obtain diffraction patterns from various points on the surface, and this
+requires movement of the specimen, between exposures, in two directions
+at right angles in the plane of the specimen surface, this surface being perThe mechanical stage from a
+pendicular to the incident x-ray beam.
+
+microscope can be easily converted to this purpose.
+It is often necessary to know exactly where the incident x-ray beam
+strikes the specimen, as, for example, when one wants to obtain a pattern
+from a particular grain, or a particular part of a grain, in a polycrystalline
+
+sometimes a rather
+
+matter in a back-reflection
+between the film and the specimen.
+One method is to project a light beam through the collimator and observe
+its point of incidence on the specimen with a mirror or prism held near the
+collimator. An even simpler method is to push a stiff straight wire through
+the collimator and observe where it touches the specimen with a small
+mirror, of the kind used by dentists, fixed at an angle to the end of a rod.
+mass.
+
+This
+
+is
+
+camera because
+
+difficult
+
+of the short distance
+
+6-4 Collimators.
+
+Collimators of one kind or another are used in
+
+all
+
+and it is therefore important to understand their
+function and to know what they can and cannot do.
+To "collimate"
+"render
+and
+to
+the
+collimator
+would
+parallel,"
+perfect
+means, literally,
+of
+a
+beam
+Such
+a
+collimator
+produce
+perfectly parallel rays.
+composed
+does not exist, and the reason, essentially, lies in the source of the radiavarieties of x-ray cameras,
+
+every source emits radiation in all possible directions.
+Consider the simplest kind of collimator (Fig. 5-8), consisting of two
+circular apertures of diameter d separated by a distance u, where u is
+
+tion, since
+
+large
+
+compared to
+
+the rays in the
+
+d.
+
+a point source of radiation at S, then all
+the collimator are nonparallel, and the beam is
+
+If there is
+
+beam from
+
+conical in shape with a
+
+FIG. 5-8.
+
+maximum
+
+angle of divergence
+
+f$\
+
+Pinhole collimator and small source.
+
+given by the
+
+

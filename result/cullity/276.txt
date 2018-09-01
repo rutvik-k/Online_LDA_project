@@ -1,0 +1,187 @@
+DEPTH OP X-RAY PENETRATION
+
+9-5]
+
+which shows that the
+
+effective
+
+271
+
+depth
+
+of penetration decreases as 6 decreases
+
+and therefore
+
+varies
+
+from one
+
+a
+
+tion cameras,
+
+Gx =
+
+[1
+
+diffrac-
+
+In back-reflec-
+
+tion line to another.
+
+= 90, and
+
+-
+
+(9-5)
+
+where ft = 20 - 90.
+For example, the conditions applicable
+
+the outer diffraction ring
+
+to
+
+9-5 are M = 473 cm"" and
+136.7. By using Eq. (9-5), we
+1
+
+of Fig.
+
+26
+
+=
+
+can construct the plot of Gr as function of x which is shown in Fig. 9-6.
+
+We note that
+
+1.5
+
+1.0
+
+95 percent of the infor-
+
+mation on the
+
+diffraction pattern re-
+
+fers to a
+
+of only
+
+depth
+
+It is therefore
+
+03
+
+x (thousandths of an inch)
+
+about 0.001
+
+FIG. 9-6.
+
+The
+
+fraction
+
+Gx
+
+of the
+
+total diffracted intensity contributed
+by a surface layer of depth x, for
+
+in.
+
+not surprising that the
+9-5 (a) discloses only
+
+M = 473 cm"
+mal incidence.
+
+pattern of Fig.
+
+1
+,
+
+26
+
+=
+
+136.7, and nor-
+
+the presence of cold-worked metal,
+we found by repeated etching treatments that the depth of the coldworked layer was about 0.003 in. Of course, the information recorded on
+
+since
+
+the pattern is heavily weighted in terms of material just below the surface;
+thus 95 percent of the recorded information applies to a depth of 0.001 in.,
+but 50 percent of that information originates in the first 0.0002 in. (Note
+that an effective penetration of 0.001 in. means that a surface layer only
+one grain thick is effectively contributing to the diffraction pattern if the
+
+specimen has an ASTM grain-size number of 8.)
+Equation (9-4) can be put into the following form, which
+for calculation:
+
+-^- =
+
+1
+
+In
+
+sin 6
+
+x
+
+Similarly,
+
+we can
+
+=
+
+Kx sin B
+
+rewrite Eq. (9-5) in the form
+
+M.T
+
+(l
+
+\
+
++ -^} =
+sin /3/
+x
+
+=
+
+In
+
+(
+
+\1
+
+V) = K
+
+- Gj
+
+Kx sin
++ sin/3)
+ft
+
+x
+
+,
+
+is
+
+more suitable
+
+

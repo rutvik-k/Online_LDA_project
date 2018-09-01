@@ -1,0 +1,199 @@
+SCATTERING BY A UNIT CELL
+
+4-4]
+
+117
+
+~-2
+FIG. 4-11.
+
+FIG.
+
+Vector addition of waves.
+
+A
+
+4-12.
+
+wave vector
+
+in
+
+the
+
+complex plane.
+
+The two waves shown
+in electric field intensity
+
+as
+
+E
+
+beam.
+
+in a diffracted x-ray
+
+full lines in Fig.
+
+with time
+
+EI
+
+= A\
+
+of the
+
+length
+
+A,
+
+but
+
+differ in
+
+shows their sum
+and phase.
+
+Waves
+
+sin (2irvt
+
+sin
+
+(2wt
+
+-
+
+be written
+
+^i),
+
+(4-5)
+
+$2).
+
+(
+
+4 ~^)
+
+,
+
+</>.
+
+is
+
+also a sine wave, but of different amplitude
+
+amplitude and phase may also be added by representis represented
+Fig. 4-11, each component wave
+is equal to the amplitude of the wave and which
+
+ing them as vectors. In
+by a vector whose length
+is
+
+may
+
+same frequency v and therefore of the same waveThe dotted curve
+amplitude A and in phase
+
+E 3 which
+
+differing in
+
+4-10 represent the variations
+
+two rays on any given wave front
+
+Their equations
+
+E2 = A 2
+These waves are
+
+of
+
+t
+
+The amplithen found simply by adding the
+
+inclined to the :r-axis at an angle equal to the phase angle.
+
+tude and phase of the resultant wave
+vectors by the parallelogram law.
+
+is
+
+This geometrical construction may be avoided by use of the following
+numbers are used to represent the
+analytical treatment, in which complex
+numvectors. A complex number is the sum of a real and anjmaginary
+ber,
+
+such as (a
+
++
+
+6z),
+
+where a and
+
+6 are real andjt
+
+= V-il
+
+is
+
+imaginary.
+
+may be plotted in the "complex plane," in which real numnumbers as ordinates. Any
+are
+bers
+plotted as abscissae and imaginary
+the origin to this point then
+from
+drawn
+vector
+the
+or
+this
+in
+plane
+point
+number
+bi).
+(a
+a
+particular complex
+represents
+vector
+a
+for
+representing a wave, we
+an
+To find
+analytical expression
+
+Such numbers
+
++
+
+draw the wave vector in the complex plane as in Fig. 4-12. Here again
+the amplitude and phase of the wave is given by A, the length of the vector,
+and 0, the angle between the vector and the axis of real numbers. The
++
+the complex number (A cos
+analytical expression for the wave is now
+vertical
+and
+horizontal
+the
+components
+are
+terms
+two
+these
+iA sin </>), since
+<t>
+
+

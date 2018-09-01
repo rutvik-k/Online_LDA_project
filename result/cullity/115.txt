@@ -1,0 +1,168 @@
+110
+
+DIFFRACTION
+
+II
+
+:
+
+THE INTENSITIES OF DIFFRACTED BEAMS
+
+[CHAP. 4
+
+wavelength, since the path differences will be larger relative to the
+
+wavelength, leading to greater interference between the scattered
+
+The
+
+actual calculation of /
+involves sin 6 rather than 6, so that
+
+beams.
+
+that / decreases as
+the quantity (sin 0)/X increases!
+Calculated values of / for various
+
+the net effect
+
+is
+
+atoms and various values
+are tabulated in
+
+of (sin 0)/X
+
+Appendix
+
+8,
+
+and a
+
+curve showing the typical variation
+of/, in this case for copper,
+
+is
+
+given
+
+Note again that the
+curve begins at the atomic number
+of copper, 29, and decreases to very
+4-6.
+
+in Fig.
+
+low values for scattering in the backward direction (0 near 90) or for
+
+FIG. 4-6.
+
+The atomic
+
+scattering fac-
+
+tor of copper.
+
+wave is proportional to
+very short wavelengths. Since the intensity of a
+scattered
+of
+a
+curve
+intensity fit)m an atom
+the square of its amplitude,
+of a curve such a& Fig.
+ordinates
+the
+can be obtained simply by squaring
+observed scattered inthe
+4-6.
+(The resulting curve closely approximates
+tensity per
+
+The
+
+atom
+
+of a
+
+scattering just
+
+monatomic gas, as shown in Fig. 3-18.)
+discussed, whose amplitude is expressed in terms
+
+the atomic scattering factor,
+
+is
+
+of
+
+coherent, or unmodified, scattering, which
+
+the only kind capable of being diffracted. On the other hand, incoherent,
+or Compton modified, scattering is occurring at the same time. Since the
+is
+
+latter is
+
+due to
+
+quanta with loosely bound electrons, its inthe unmodified radiation increases as the pro-
+
+collisions of
+
+tensity relative to that of
+portion of loosely bound electrons increases.
+
+The intensity of Compton
+number Z decreases. It
+atomic
+the
+as
+increases
+thus
+radiation
+modified
+obtain
+to
+is
+difficult
+it
+that
+is for this reason
+good diffraction photographs
+elements such as carbon, oxygen,
+and hydrogen, since the strong Compton modified scattering from these
+substances darkens the background of the photograph and makes it diffiof organic materials,
+
+which contain
+
+cult to see the diffraction lines
+
+light
+
+formed by the unmodified radiation.
+
+It is
+
+also found that the intensity of the modified radiation increases as the
+and of
+quantity (sin 0)/X increases. The intensities of modified scattering
+
+unmodified scattering therefore vary in opposite ways with
+(sin0)/X.
+
+i
+
+Z
+
+and with
+
+a monochromatic beam of x-rays strikes an atom,
+two scattering processes occur4 Tightly bound electrons are jet, into pscTP"
+lation and radiate x-rays of the saiffi wavelength as that of the incident
+
+To summarize,|when
+
+

@@ -1,0 +1,213 @@
+DIFFRACTOMETER MEASUREMENTS
+
+212
+
+When
+
+the pass band
+
+is
+
+[CHAP. 7
+
+chosen to include a strong characteristic component
+is that of a strong monochromatic
+
+of the spectrum, then the net effect
+
+beam.
+
+The
+
+isolation of
+
+Cu Ka
+
+may
+
+radiation
+
+be taken as an example.
+
+Its
+
+1.542A, which means that cobalt and nickel can be used as
+filter materials since their
+absorption edges (1.608 and 1.488A, respecthe
+bracket
+Cu Ka line. Their linear absorption coeffitively) effectively
+
+wavelength
+
+is
+
+K
+
+which shows that balancing can be
+the
+nickel
+filter
+somewhat
+thinner than the cobalt one.
+obtained by making
+When their thicknesses x are adjusted to the correct ratio, then MN^NI =
+cients M are plotted in Fig. 7-25 (a),
+
+MCO^CO except
+
+in
+
+of Fig. 7-25(b).
+
+the pass band, and a plot of px vs. X has the appearance
+In / x //
+Since /LT =
+the transmission factors /V/o
+,
+
+two
+
+(ratio of transmitted to incident intensity) of the
+
+At each angle 20
+
+wide.
+
+first
+
+diffractometer,
+
+beam
+
+before
+
+it
+
+one
+
+at which the intensity
+filter
+
+is
+
+and then the other
+
+The
+
+enters the counter.
+
+filters
+
+are
+
+now
+
+equal
+
+only 0.1 2A
+be
+to
+measured with the
+
+for all wavelengths except those in the pass band,
+
+is
+
+which
+
+is
+
+placed in the diffracted
+
+intensity of the diffracted
+
+beam
+
+then measured, and the difference in the
+measurements gives the diffracted intensity of only the Cu A'a line and
+passing through each
+the relatively
+band.
+
+filter is
+
+weak wavelengths immediately adjacent
+
+It should be
+
+to
+
+it
+
+in
+
+emphasized that the beam entering the counter
+
+when a
+
+the pass
+
+is
+
+never
+
+monochromator is used.
+Radiation with a great many wavelengths enters the counter when either
+filter is in place, but every wavelength transmitted by one filter has the
+same intensity as that transmitted by the other filter, except those wavelengths lying in the pass band, and these are transmitted quite unequally
+by the two filters. Therefore, when the intensity measured with one filter
+is subtracted from that measured with the other filter, the difference is
+physically monochromatic, as
+
+it is
+
+crystal
+
+zero for every wavelength except those in the pass band.
+In practice, balancing of the filters is carried out by inserting
+of approximately the
+
+same thickness
+
+two
+
+foils
+
+into suitable holders which can be
+
+beam entering the counter. One foil is always
+perpendicular to the x-ray beam, while the other may be rotated about
+an axis at right angles to the beam; in this way the second foil may be inslipped into place in the
+
+clined to the beam at such an angle that its effective thickness x equals
+the thickness required for balancing. Perfect balancing at all wavelengths
+outside the pass band is not possible, although it may be approached quite
+closely,
+
+of the
+
+because n does not vary exactly as X 3 and because the magnitude
+
+K absorption jump
+
+just shorter
+all
+
+elements.
+
+and
+
+(ratio of absorption coefficients for
+
+just longer than the
+
+K
+
+edge)
+
+is
+
+wavelengths
+not exactly the same for
+
+

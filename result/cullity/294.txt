@@ -1,0 +1,166 @@
+THE TEXTURE OP SHEET (DIFFRACTOMETER METHOD)
+
+9-9]
+
+289
+
+-10 -20 -30 -40 -50 -60 -70 -80
+
+ROTATION ANGLE
+
+a (degrees)
+
+Variation of the correcwith a for clockwise rotation from the zero position, pi = 1.0,
+6 = 19.25.
+FIG. 9-22.
+
+tion factor
+
+Path length and irradiFIG. 9-21.
+ated volume in the transmission method.
+
+We
+
+R
+
+are interested only in the ratio of these two integrated intensities,
+
+namely,
+
+D a ~ a
+
+R =
+
+=
+
+JD (a
+
+A
+
+R vs.
+
+a
+
+=
+
+COB *
+
+e
+..
+
+0)
+
+'[cos (6
+
+-
+
+^
+
+:
+
+a) /cos (6
+
++
+
+a)
+
+-
+
+:
+
+(9-10)
+
+1]
+
+given in Fig. 9-22 for typical values involved in the 111
+reflection from aluminum with Cu Ka radiation, namely, pi = 1.0 and
+plot of
+
+is
+
+=
+
+19.25. This plot shows that the integrated intensity of the reflection
+decreases as a increases in the clockwise direction from zero, even for a
+
+6
+
+In the measurement of
+
+specimen containing randomly oriented grains.
+
+preferred orientation, it is therefore necessary to divide each measured intensity by the appropriate value of the correction factor 7? in order to
+arrive at a figure proportional to the pole density. From the way in which
+the correction factor
+was derived, it follows that we must measure the
+
+R
+
+integrated intensity of the diffracted
+
+the counter
+
+slits
+
+so that the whole width of the
+
+To do
+
+beam.
+
+must be as wide as the
+
+this with a fixed counter,
+
+diffracted
+
+beam can
+
+beam
+
+for all values of
+
+enter the counter.
+
+The
+
+a
+
+ideal
+
+beam for this method is a parallel one. However, a divergent
+beam may be used without too much error, provided the divergence is not
+too great. There is no question of focusing here: if the incident beam is
+divergent, the diffracted beam will diverge also and very wide counter
+incident
+
+be required to admit its entire width.
+of pt used in Eq. (9-10) must be obtained by direct measureit
+is not sufficiently accurate to use a tabulated value of M
+since
+ment,
+with
+the
+measured thickness t of the specimen. To determine
+together
+pi we use a strong diffracted beam from any convenient material and measslits will
+
+The value
+
+ure
+
+its
+
+intensity
+
+when the
+
+sheet specimen
+
+is
+
+inserted in the diffracted
+
+beam
+
+

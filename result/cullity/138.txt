@@ -1,0 +1,111 @@
+EXAMPLES OF INTENSITY CALCULATIONS
+
+4-13]
+
+133
+
+the diffraction lines on a powder pattern of copper, made with Cu Ka.
+radiation. The calculations are most readily carried out in tabular form,
+as in Table 4-2.
+
+TABLE 4-2
+
+Remarks:
+
+Column
+
+2: Since
+
+copper
+
+mixed indices and zero
+unmixed, are written
+2
+fc
+
++
+
+2
+
+down
+
+from Appendix
+Column 4: For a cubic
+Z
+
+),
+
+is
+
+face-centered cubic,
+in
+
+is
+
+equal to 4/Cu for lines of unall
+-f-
+
+6.
+
+crystal, values of sin
+
+sm"0 = j-gC/r
+In this case, X
+
+F
+
+mixed indices. The reflecting plane indices,
+2
+this column in order of increasing values of (h
+
+for lines of
+
+= 1.542A (Cu Ka) and
+
+a
+
+2
+
+6 are given
+
+by Eq. (3-10)
+
+:
+
+=
+
+-h /r -h r;.
+
+3.615A
+
+(lattice
+
+parameter of copper).
+
+= 0.0455 gives the
+Therefore, multiplication of the integers in column 3 by X /4a
+In this and similar calculations, slide-rule
+listed in column 4.
+values of sin 2
+2
+
+accuracy
+
+is
+
+2
+
+ample.
+
+Column 6: Needed to determine the Lorentz-polarization factor and
+Column 7: Obtained from Appendix 7. Needed to determine /Cu
+Column 8: Read from the curve of Fig. 4-6.
+Column 9: Obtained from the relation F 2 = 16/Cu 2
+Column 10: Obtained from Appendix 9.
+-
+
+-
+
+(sin 0)/X.
+
+

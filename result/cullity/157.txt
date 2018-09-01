@@ -1,0 +1,121 @@
+POWDER PHOTOGRAPHS
+
+152
+
+[CHAP. 6
+
+avoided by evacuating the camera or
+by filling it with a light gas such as
+hydrogen or helium during the exposure.
+
+Correct design of the pinhole system
+which collimates the incident beam is
+important, especially when weak diffracted beams must be recorded. The
+exit pinhole scatters x-rays in all directions,
+
+and these scattered
+
+rays,
+
+if
+
+not prevented from striking the film,
+can seriously increase the intensity
+
+A "guardedbackground.
+which
+practically
+pinhole" assembly
+of
+
+the
+
+eliminates this effect
+
+is
+
+shown
+
+is
+
+shown.
+
+The
+
+15
+
+FIG. 6-3.
+
+Cr
+
+Ka
+
+Absorption of
+
+radiation
+
+by
+
+20
+
+(cm)
+
+Cu Ka and
+
+air.
+
+where the divergent and conare ignored and only the parallel comcollimator tube is extended a considerable distance
+
+vergent rays in the incident
+
+ponent
+
+10
+
+5
+
+PATH LENGTH
+
+in Fig. 6-4,
+
+beam
+
+beyond the exit pinhole and constricted so that the end A is close enough
+main beam to confine the radiation scattered by the exit pinhole
+to a very narrow angular range and yet not close enough to touch the
+main beam and be itself a cause of further scattering. The beam stop is
+to the
+
+usually a thick piece of lead glass placed behind a fluorescent screen, the
+combination allowing the transmitted beam to be viewed with safety when
+
+adjusting the camera in front of the x-ray tube. Back scatter from the
+stop is minimized by extending the beam-stop tube backward and con-
+
+end B. Another reason for extending the collimator and
+tubes
+as close to the specimen as possible is to minimize the
+beam-stop
+extent to which the primary beam is scattered by air, as it passes through
+stricting its
+
+Both tubes are tapered to interfere as little as possible with
+low-angle and high-angle diffracted beams.
+Some cameras employ rectangular slits rather than pinholes to define
+the camera.
+
+the beam, the long edges of the
+
+slits
+
+being parallel to the axis of the speci-
+
+fluorescent
+
+screen
+
+FIG. 6-4.
+
+Design of collimator and beam stop (schematic).
+
+

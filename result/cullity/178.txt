@@ -1,0 +1,71 @@
+MEASUREMENT OP LINE INTENSITY
+
+6-14]
+
+FIG. 6-18.
+
+Film-measuring device.
+
+(Courtesy of General Electric Co.,
+
+173
+
+X-Ray
+
+Department.)
+
+6-13 Measurement of line position. The solution of any powder photograph begins with the measurement of the positions of the diffraction
+A device of the kind shown in Fig. 6-18 is commonly
+lines on the film.
+used for this purpose. It is essentially a box with an opal-glass plate on
+top, illuminated from below, on which the film to be measured is placed.
+
+On top of the glass plate is a graduated scale carrying a slider equipped
+with a vernier and cross-hair; the cross-hair is moved over the illuminated
+and their positions noted. The
+without
+measured
+usually
+magnification. A low-power hand lens
+but
+be
+of
+occasional
+magnification greater than 2 or 3 diameters
+use,
+may
+the
+line
+to
+causes
+usually
+merge into the background and become invisible,
+because of the extreme graininess of x-ray film.
+
+film
+
+from one
+
+film
+
+is
+
+diffraction line to another
+
+6-14 Measurement of line intensity. Many diffraction problems require an accurate measurement of the integrated intensity, or the breadth
+at half maximum intensity, of a diffraction line on a powder photograph.
+For this purpose it is necessary to obtain a curve of intensity vs. 26 for
+the line in question.
+
+an x-ray beam may be measured by the amount of
+causes
+on a photographic film. The photographic density D,
+blackening
+or blackening, of a film is in turn measured by the amount of visible light
+
+The
+
+intensity of
+it
+
+

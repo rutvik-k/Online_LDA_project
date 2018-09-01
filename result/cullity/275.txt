@@ -1,0 +1,149 @@
+THE STRUCTURE OF POLYCRYSTALLINE AGGREGATES
+
+270
+
+[CHAP. 9
+
+is obtained in a back-reflection camera of any kind, a Seemann-Bohlin
+camera or a diffractometer as normally used. We have just seen how a
+back-reflection pinhole photograph of a ground surface discloses the coldworked condition of a thin surface layer and gives no information whatever about the bulk of the material below that layer.
+These circumstances naturally pose the following question: what is the
+
+effective
+
+depth of x-ray penetration?
+
+what depth
+
+to
+
+pattern apply?
+of the incident
+
+Or, stated in a
+
+more
+
+useful manner,
+
+specimen does the information in such a diffraction
+This question has no precise answer because the intensity
+
+of the
+
+beam does not suddenly become
+
+zero at
+
+any one depth but
+
+rather decreases exponentially with distance below the surface. However,
+we can obtain an answer which, although not precise, is at least useful, in
+
+the following way.
+Equation (7-2) gives the integrated intensity diffracted by an infinitesimally thin layer located at a depth x below the
+surface as
+
+e-^ (1/8in + 1/8in &
+
+=
+
+d//>
+
+sin
+
+dx,
+
+(7-2)
+
+a
+
+where the various symbols are defined in Sec. 7-4. This expression, integrated over any chosen depth of material, gives the total integrated intensity diffracted by that layer, but only in terms of the unknown constants
+However, these constants will cancel out if we express the
+/o, a, and b.
+diffracted
+by the layer considered as a fraction of the total inteintensity
+(As we
+grated intensity diffracted by a specimen of infinite thickness.
+saw in Sec. 7-4, "infinite thickness" amounts to only a few thousandths
+of an inch for most metals.) Call this fraction Gx
+Then
+.
+
+X-X
+[
+
+dlD
+J
+
+JlfrSL
+
+G
+
+-
+
+=
+
+r
+1
+
+- e-
+
+x(ll * ina
+
++ llB{nf
+
+i
+.
+
+Jx
+
+This expression permits us to calculate the fraction Gx of the total
+fracted intensity which is contributed by a surface layer of depth x.
+
+we
+
+arbitrarily decide that a contribution
+
+from
+
+this surface layer of
+
+cent (or 99 or 99.9 percent) of the total is enough so that
+the contribution from the material below that layer, then x
+
+depth of penetration.
+
+If
+
+95 perignore
+
+the effective
+
+We then know that the information recorded on the
+
+more precisely, 95 percent of the information)
+depth x and not to the material below it.
+= 8, and Eq. (9-3) reduces to
+the diffractometer, a =
+
+diffraction pattern
+
+(or,
+
+refers to the layer of
+
+In the case of
+
+we can
+is
+
+dif-
+
+Gx =
+
+(1
+
+-
+
+

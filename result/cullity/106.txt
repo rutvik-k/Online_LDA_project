@@ -1,0 +1,87 @@
+DIFFRACTION UNDER NONIDEAL CONDITIONS
+
+3-7]
+
+101
+
+crystal
+
+liquid or
+
+amorphous
+
+solid
+
+(a)
+
+90
+
+180
+
+DIFFRAC TION (SCATTERING)
+
+ANGLE
+
+(1))
+
+FIG.
+
+atom,
+
+3-17.
+
+(a)
+
+Scattering
+
+(b) Diffraction
+
+by
+
+28 (degrees)
+
+FIG. 3-18.
+
+by
+
+a crystal.
+
+tering
+solids,
+
+Comparative x-ray scatamorphous
+liquids, and monatomic gases
+
+by
+
+crystalline solids,
+
+(schematic).
+
+only a special kind of scattering.
+
+A
+
+This latter point cannot be too strongly
+
+an incident beam of x-rays in all
+directions in space, but a large number of atoms arranged in a perfectly
+periodic array in three dimensions to form a crystal scatters (diffracts)
+emphasized.
+
+single
+
+atom
+
+scatters
+
+x-rays in relatively few directions, as illustrated schematically in Fig. 3-17.
+It does so precisely because the periodic arrangement of atoms causes
+destructive interference of the scattered rays in all directions except those
+
+predicted by the Bragg law, and in these directions constructive interference (reinforcement) occurs. It is not surprising, therefore, that measurable diffraction (scattering) occurs at non-Bragg angles whenever any
+crystal imperfection results in the partial absence of one or more of the
+
+necessary conditions for perfect destructive interference at these angles.
+
+

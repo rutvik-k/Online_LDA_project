@@ -1,0 +1,97 @@
+DIFFRACTION
+
+130
+
+III
+
+THE INTENSITIES OF DIFFRACTED BEAMS
+
+[CHAP. 4
+
+high-0 and low-0 reflections decreases as the linear absorption coefficient
+of the specimen decreases, but the absorption is always greater for the
+low-0 reflections. (These remarks apply only to the cylindrical specimen
+
+used in the Debye-Scherrer method. The absorption factor has an entirely
+different form for the flat-plate specimen used in a diffractometer, as will
+be shown in Sec. 7-4.)
+Exact calculation of the absorption factor for a cylindrical specimen is
+often difficult, so it is fortunate that this effect can usually be neglected in
+the calculation of diffracted intensities, when the Debye-Scherrer method
+Justification of this omission will be found in the next section.
+is used.
+
+4-11 Temperature
+collection of
+
+factor.
+
+atoms located at
+
+So far we have considered a crystal as a
+fixed points in the lattice.
+
+Actually, the
+
+atoms undergo thermal vibration about their mean positions even at the
+absolute zero of temperature, and the amplitude of this vibration increases
+In aluminum at room temperature, the
+as the temperature increases.
+from its mean position is about 0.1 7 A,
+an
+atom
+of
+average displacement
+which is by no means negligible, being about 6 percent of the distance of
+closest
+
+approach of the mean atom positions
+
+in this crystal.
+
+^Thermal agitation decreases the intensity of a diffracted beam because
+it has the effect of smearing out the lattice planes;* atoms can be regarded
+as lying no longer on mathematical planes but rather in platelike regions
+of ill-defined thickness. Thus the reinforcement of waves scattered at the
+
+Bragg angle by various parallel planes, the reinforcement which is called a
+beam, is not as perfect as it is for a crystal with fixed atoms.
+This reinforcement requires that the path difference, which is a function
+of the plane spacing d, between waves scattered by adjacent planes be an
+
+diffracted
+
+number
+
+integral
+
+of wavelengths.
+
+Now
+
+the thickness of the platelike
+
+which the vibrating atoms lie is, on the average, 2?/, where
+"planes'
+u is the average displacement of an atom from its mean position. Under
+these conditions reinforcement is no longer perfect, and it becomes more
+'
+
+in
+
+imperfect as the ratio u/d increases, i.e., as the temperature increases,
+since that increases u, or as
+increases, since high-0 reflections involve
+planes of low d value. TThus the intensity of a diffracted beam decreases
+as the temperature is raised, and, for a constant temperature, thermal
+vibration causes a greater decrease in the reflected intensity at high angles
+
+than at low angles. /
+The temperature effect and the previously discussed absorption effect
+in cylindrical specimens therefore depend on angle in opposite ways and,
+to a first approximation, cancel each other. In back reflection, for examthe intensity of a diffracted beam is decreased very little by absorption
+but very greatly by thermal agitation, while in the forward direction the
+reverse is true. The two effects do not exactly cancel one other at all
+ple,
+
+

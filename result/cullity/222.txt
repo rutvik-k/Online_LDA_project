@@ -1,0 +1,102 @@
+THE BACK-REFLECTION LAUE METHOD
+
+8-2]
+
+217
+
+film
+
+[ornri cut tor
+identification
+
+Fid S 2
+
+Locution
+
+oi
+
+buck-ieflertion
+
+hnuo
+
+spot.
+
+Note that 7
+
+=- 1)0
+
+0.
+
+bolas or straight lines, and the distance of any hyperbola from the center
+of the film is a measure of the inclination of the zone axis.
+In Fig. 8 2 the film is \ie\\ed from the crystal. Coordinate axes are
+
+up such that the incident beam proceed* along the z-axis in the direction Oz and the .r- and //-axes he in the plane of the film. The beam reflected by the plane shown strikes the film at S. The normal to this reflecting plane is (\\ and the plane itself is assumed to belong to a zone \\hose
+axis lies in the //; -plane. If we imagine this plane to rotate about the zone
+axis, it will pass through all the positions at which planes of this zone in an
+set
+
+actual crystal might lie. During this rotation, the plane normal would cut
+and the reflected beam in the hyperbola HK.
+the film in the straight line
+is therefore the locus of plane normal intersections with the film and
+
+AB
+
+AB
+
+HK
+
+the locus of diffracted
+
+beam
+
+intersections.
+
+The plane
+
+\\hich reflects a
+
+to N, for example, has a normal which intersects the film at N, since
+the incident beam, plane normal, and diffracted beam are coplanar. Since
+
+beam
+
+the orientation of the plane normal in space can be described by its angular
+and 6 from the measured
+6, the problem is to determine 7
+
+coordinates 7 and
+coordinates x and
+
+of the diffraction spot S on the film.
+//
+graphical method of doing this was devised by (Ireninger who developed a chart which, when placed on the film, gives directly the 7 and 5
+coordinates corresponding to any diffraction spot. To plot such a chart,
+
+A
+
+we note from
+jc
+
+Fig.
+
+8-2 that
+
+= OK sin
+
+/x,
+
+U
+
+= OS
+
+cos M,
+
+and
+
+OS = OC
+
+tan 2a,
+
+

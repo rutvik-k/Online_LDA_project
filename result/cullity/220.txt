@@ -1,0 +1,106 @@
+CHAPTER
+
+8
+
+ORIENTATION OF SINGLE CRYSTALS
+8-1 Introduction.
+
+Much
+
+of our
+
+understanding of the properties of poly-
+
+crystalline materials has been gained
+
+since such studies permit
+
+by studies of isolated single crystals,
+measurement of the properties of the individual
+
+building blocks in the composite mass. Because single crystals are usually
+anisotropic, research of this kind always requires accurate knowledge of
+
+the orientation of the single crystal test specimen in order that measurements may be made along known crystallographic directions or planes.
+By varying the crystal orientation, we can obtain data on the property
+
+measured
+
+(e.g.,
+
+yield strength, electrical resistivity, corrosion rate) as a
+
+function of crystal orientation.
+In this chapter the three main x-ray methods of determining crystal
+orientation will be described: the back-reflection Laue method, the trans-
+
+mission Laue method, and the diffractometer method.
+It is also convenient to treat here the question of crystal deformation and the measure-
+
+ment
+
+of this
+
+deformation by x-ray methods.
+
+the relative
+
+two parts
+
+of
+
+Finally, the subject of rela-
+
+discussed, and methods are given for determining
+orientation of two naturally associated crystals, such as the
+a twin or a precipitated crystal and its parent phase.
+
+tive crystal orientation
+
+is
+
+8-2 The back-reflection Laue method.
+
+As mentioned
+
+in Sec. 3-6,
+
+the
+
+Laue pattern of a single crystal consists of a set of diffraction spots on the
+film and the positions of these spots depend on the orientation of the crysThis is true of either Laue method, transmission or back-reflection,
+tal.
+so either can be used to determine crystal orientation. However, the backreflection method is the more widely used of the two because it requires no
+special preparation of the specimen, which may be of any thickness,
+whereas the transmission method requires relatively thin specimens of low
+
+absorption.
+
+In either case, since the orientation of the specimen is to be determined
+of the Laue spots on the film, it is necessary to orient
+The single
+the specimen relative to the film in some known manner.
+
+from the location
+
+crystal specimens encountered in metallurgical work are usually in the
+of wire, rod, sheet, or plate, but crystals of irregular shape must occa-
+
+form
+
+Wire or rod specimens are best mounted with
+sionally be dealt with.
+their axis parallel to one edge of the square or rectangular film; a fiducial
+mark on the specimen surface, for example on the side nearest the film,
+then
+
+fixes
+
+the orientation of the specimen completely.
+215
+
+It is
+
+convenient to
+
+

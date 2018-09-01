@@ -1,0 +1,82 @@
+TRANSMISSION LAUE METHOD
+
+8-3]
+
+229
+
+The distance 08 is noted and the corresponding pole plotted as
+shown, on the other side of center and at the corresponding distance PQ. This
+procedure is repeated for each important diffraction spot, after which the projection is transferred to a Wulff net and the poles indexed by either of the methods
+diffraction spot.
+
+Note that this procedure gives a projection of the crystal
+side opposite the x-ray source, whereas the Oreninger chart gives a projection of the crystal as seen from the x-ray source.
+crystal orientation can,
+previously described.
+
+from the
+
+A
+
+from one side as the other, and either projection can be made to coincide with the other by a 180 rotation of the projection
+about its EW-axis. Although simple to use and construct, the stereographic ruler
+is not as accurate as the Greninger chart in the solution of back-reflection patterns.
+of course, be described just as well
+
+The methods
+
+of determining and describing crystal orientation have
+here
+been presented
+exclusively in terms of cubic crystals, because these
+are the simplest kind to consider and the most frequently encountered.
+
+These methods are quite general, however, and can be applied to a crystal
+of any system as long as its interplariar angles are known.
+8-3 Transmission Laue method.
+
+Given a specimen
+
+of sufficiently
+
+low
+
+absorption, a transmission Laue pattern can be obtained and used, in much
+the same way as a back-reflection Laue pattern, to reveal the orientation
+of the crystal.
+
+In either Laue method, the diffraction spots on the film, due to the
+planes of a single zone in the crystal, always lie on a curve which is some
+kind of conic section. When the film is in the transmission position, this
+
+curve is a complete ellipse for sufficiently small values of
+tween the zone axis and the transmitted beam (Fig. 8-12).
+larger values of
+film.
+
+When
+
+FIG. 8-12.
+
+</>,
+
+</>,
+
+the angle be-
+
+For somewhat
+
+the ellipse is incomplete because of the finite size of the
+exceeds 45, a
+the curve becomes a parabola, when
+
+= 45,
+
+</>
+
+Intersection of a conical array of diffracted beams with a film placed
+C = crystal, F = film, Z.A. = zone axis.
+
+in the transmission position.
+
+

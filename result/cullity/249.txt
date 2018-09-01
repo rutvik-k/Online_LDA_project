@@ -1,0 +1,185 @@
+ORIENTATION OF SINGLE CRYSTALS
+
+244
+
+[CHAP. 8
+
+shearing forces parallel to these slip planes and tensile forces normal to
+The normal forces have no effect, but the shearing forces cause
+
+them.
+
+and the crystal would, as a result, assume the shape shown
+the ends were not constrained laterally. However, the grips of
+
+slip to occur,
+
+in (b)
+
+if
+
+the tensile machine keep the ends of the crystal aligned, causing bending
+of the crystal lattice near each grip, as indicated in (c), which illustrates
+the appearance of the crystal after considerable extension. Note that the
+lattice of the central portion has undergone reorientation but not distor-
+
+This reorientation clearly consists in a rotation which makes the
+
+tion.
+
+active slip plane more nearly parallel to the tension axis.
+Analysis of the Laue patterns yields further information about the
+
+deformation process. The changes in orientation which occur in the cencan be followed stereographically, either by plotting the before
+
+tral section
+
+and
+
+on a
+
+after orientations of the crystal
+
+plotting the before
+
+and
+
+fixed projection plane, or
+
+by
+
+after orientations of the specimen axis in the unit
+
+latter method is the more common one and
+which
+by Fig. 8-26,
+applies to a face-centered cubic crystal.
+The initial position of the tension axis is represented by point 1. After
+successive extensions, the position of this axis is found to be at points
+
+The
+
+stereographic triangle.
+is
+
+2,
+
+illustrated
+
+3,
+
+4,
+
+.
+
+.
+
+.
+
+;
+
+the axis moves
+
+i.e.,
+
+along a great circle passing through
+the initial position and the direction
+[T01],
+
+which
+
+During
+
+is
+
+the direction of
+
+slip.
+
+this extension the active slip
+
+plane is (111). We can conclude that
+the lattice reorientation occurs in such
+
+way that both the slip plane and
+the slip direction in that plane rotate
+toward the axis of tension. This
+a
+
+process becomes
+
+more complicated at
+and
+
+later stages of the deformation,
+
+the interested reader
+
+is
+
+referred to
+
+books on crystal plasticity for further
+details. Enough has been said here
+to indicate the
+diffraction
+
+may
+
+way
+
+in
+
+slip
+
+FIG. 8-26.
+
+which x-ray
+
+slip in
+
+be applied to this
+
+plane
+
+-NAiii
+
+Lattice rotation during
+
+elongation of
+
+FCC
+
+metal crys-
+
+tal.
+
+particular problem.
+
+One other example
+
+be given in
+In Fig. 8-27,
+the successive orientations which a cylindrical magnesium crystal assumes
+during plastic torsion are plotted on a fixed projection plane parallel to the
+of lattice reorientation during slip
+
+order to illustrate the alternate
+
+method
+
+specimen axis (the axis of torsion).
+are found to
+
+move
+
+may
+
+of plotting the data.
+
+Since the poles of reflecting planes
+on the projection, it follows that
+
+along latitude circles
+
+

@@ -1,0 +1,107 @@
+SCATTERING BY AN ATOM
+
+4-3]
+
+This
+
+is
+
+It9
+
+not true for other directions of scattering.
+
+iThe fact that the
+
+atom
+
+electrons of an
+
+are situated at different points in space introduces
+differences in phase between the waves scattered by different electrons:^
+Consider Fig. 4-5, in which, for simplicity, the electrons are shown as
+
+points arranged around the central nucleus. The waves scattered in the
+forward direction by electrons A and_J^are exactly* in phase on_a_3Kave
+
+XX', because each wave has traveled the same distance
+The other scattered waves shown in' the 'fighave
+a
+difference
+path
+equal to (CB
+AD) and are thus
+ure, however,
+somewhat out of phase along a wave front such as YY', the path differfront such as
+
+before and after scattering.
+
+ence being less than one wavelength. Partial interference occurs between
+the waves scattered by A and 5, with the result that the net amplitude of
+
+wave scattered in this direction is less than that
+by the same electrons in the forward direction.
+
+the
+
+of the
+
+wave
+
+scattered
+
+I A
+quantity /, the atomic scattering factor, is used to describe the "efficiency" of scattering of a given atom in a given direction. It is defined
+as a ratio of amplitudes
+:
+
+/
+
+amplitude of the wave scattered by an atom
+
+=
+
+amplitude of the wave scattered by one electron
+
+From what has
+scattering in the
+
+is clear that / = Z f or any atom
+As increases, however, the waves
+become more and more out of phase and
+
+been* said already, lit
+
+forward direction^
+
+by individual electrons
+/ decreases. The atomic scattering factor
+scattered
+
+of the incident
+
+f
+
+beam
+
+:
+
+at a fixed value of
+
+0,
+
+also
+
+f
+
+depends on the wavelength
+be smaller the shorter the
+
+will
+
+X'
+
+FIG, 4-5.
+
+X-ray scattering by an atom.
+
+

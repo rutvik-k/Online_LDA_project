@@ -1,0 +1,71 @@
+CRYSTAL PERFECTION
+
+9-4]
+
+263
+
+a solid aggregate.! That is correct. Attempts have been made to apply Eq. (3-13) to the broadened diffraction
+lines from very fine-grained metal specimens and so determine the size of
+the individual grains. Such determinations are never very reliable, however, because the individual grains of such a material are often nonuni-
+
+size of the individual crystals in
+
+formly strained, and this condition, as we shall see in the next section,
+can also broaden the diffraction lines; an uncertainty therefore exists as
+to the exact cause of the observed broadening. On the other hand, the
+individual crystals which make up a loose powder of fine particle size can
+
+often be assumed to be strain-free, provided the material involved is a
+brittle (nonplastic) one, and all the observed broadening can confidently
+be ascribed to the particle-size effect. (But note that loose, unannealed
+
+metal powders, produced by filing, grinding, ball milling, etc., almost
+always contain nonuniform strain.) The. chief applications of the line-
+
+broadening method have been in the measurement of the particle
+such materials as carbon blacks, catalysts, and industrial dusts.
+
+size of
+
+method of measuring the size of small particles deserves
+JAnother x-ray
+some mention, although a complete description is beyond the scope of this
+book. This is the method of small-angle scattering. It is a form of diffuse
+scattering very near the undeviated transmitted beam, i.e., at angles 20
+up to roughly 2 or 3. From the observed variation of
+ranging from
+
+the scattered intensity vs. angle 20, the size, and to some extent the shape,
+of small particles can be determined, whether they are amorphous or crystalline.
+
+Small-angle scattering has also been used to study precipitation
+
+effects in metallic solid solutions.
+
+|
+
+CRYSTAL PERFECTION
+Of the many kinds of crystal imperfection, the
+is nonuniform strain because it is so characstate
+of
+metals and alloys. When a polycrystalteristic of the cold-worked
+line piece of metal is plastically deformed, for example by rolling, slip
+occurs in each grain and the grain changes its shape, becoming flattened
+and elongated in the direction of rolling. The change in shape of any one
+9-4 Crystal perfection.
+
+one we are concerned with here
+
+is determined not only by the forces applied to the piece as a whole,
+but also by the fact that each grain retains contact on its boundary surfaces with all its neighbors. Because of this interaction between grains,
+
+grain
+
+a single grain in a polycrystalline mass is not free to deform in the same
+way as an isolated single crystal would, if subjected to the same deformation by rolling. As a result of this restraint by its neighbors, a plastically
+
+deformed grain in a solid aggregate usually has regions of its lattice left
+in an elastically bent or twisted condition or, more rarely, in a state of
+uniform tension or compression. The metal is then said to contain residual
+
+

@@ -1,0 +1,30 @@
+PROBLEMS
+3-6. Calculate the breadth
+
+B
+
+(in
+
+103
+
+degrees of 26), due to the small crystal effect
+
+diameter 1000, 750, 500, and 250A.
+powder pattern
+45 and X = 1.5A. For particles 250A in diameter, calculate the
+= 10, 45, and 80.
+breadth B for
+3-6. Check the value given in Sec. 3-7 for the increase in breadth of a diffraction line due to the natural width of the Ka emission line.
+(Hint: Differentiate
+the Bragg law and find an expression for the rate of change of 26 with X.)
+alone, of the
+
+Assume
+
+6
+
+=
+
+lines of particles of
+
+

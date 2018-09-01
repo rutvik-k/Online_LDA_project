@@ -1,0 +1,166 @@
+BACKGROUND RADIATION
+
+6-11]
+
+the intensity of
+
+but
+
+some
+
+of the short wavelengths
+
+which cause fluorescence,
+
+them completely,
+
+not, of course, eliminate
+
+it will
+
+167
+
+particularly in the
+
+wavelength region near 0.6A, where the intensity of the continuous spectrum is high and the absorption coefficient of nickel rather low.
+It is sometimes possible to filter part of the fluorescent radiation from
+the specimen by placing the proper filter over the film. For example, if
+a steel specimen is examined with copper radiation, which is not generally
+advisable, the situation may be improved by covering the film with aluminum foil, because aluminum has a greater absorption for the fluorescent
+
+Fe KOL
+
+radiation contributing to the background than for the
+
+Cu Ka
+
+radia-
+
+In fact, the following is a good general
+rule to follow: if it is impossible to use a wavelength longer than the
+absorption edge of the specimen, choose one which is considerably shorter
+tion forming the diffraction lines.
+
+and cover the
+
+film with a
+
+sufficient filtration.
+
+with
+
+CuKa
+
+Sometimes the
+
+air itself will
+
+provide
+
+excellent patterns of aluminum can be obtained
+even though this wavelength (1.54A) is much
+
+Thus
+
+radiation,
+
+K
+
+absorption edge of aluminum (6.74A), simply because
+radiation excited has such a long wavelength (8.34A) that it is
+
+shorter than the
+
+the Al
+
+filter.
+
+K
+
+Ka
+
+almost completely absorbed in a few centimeters of
+(2) Diffraction of the
+
+specimen forms a weak
+
+component
+
+air.
+
+Each
+
+continuous spectrum.
+crystal in a powder
+Laue pattern, because of the continuous radiation
+
+of the incident
+
+beam.
+
+This
+
+is
+
+of course true
+
+whether or not
+
+that particular crystal is in the correct position to reflect the characteristic
+component into the Debye ring. Many crystals in the specimen are therefore contributing only to the background of the photograph and not to
+
+the diffraction ring, and the totality of the Laue patterns from all the
+If the incicrystals is a continuous distribution of background radiation.
+
+dent radiation has been so chosen that very little fluorescent radiation is
+the largest single
+emitted, then diffraction of the continuous spectrum is
+cause of high background intensity in powder photographs.
+
+from the specimen itself.
+This kind of scat(a) Incoherent (Compton modified) scattering.
+of the specimen
+number
+the
+atomic
+tering becomes more intense as
+
+(3) Diffuse scattering
+
+decreases.
+(6)
+
+Coherent scattering.
+Temperature-diffuse scattering. This form is more intense
+with soft materials of low melting point.
+due to various kinds of imperfection in
+(ii) Diffuse scattering
+the crystals. Any kind of randomness or strain will cause such
+(i)
+
+scattering.
+(4) Diffraction
+
+(a)
+
+and
+
+scattering
+
+Collimator and
+
+from
+
+beam
+
+stop.
+
+other than the specimen material.
+
+This kind of scattering can be mini-
+
+mized by correct camera design, as discussed
+
+in Sec. 6-2.
+
+

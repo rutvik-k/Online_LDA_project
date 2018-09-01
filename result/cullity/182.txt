@@ -1,0 +1,110 @@
+CHAPTER
+
+7
+
+DIFFRACTOMETER MEASUREMENTS
+The x-ray spectrometer, briefly mentioned in Sec.
+It
+3-4, has had a long and uneven history in the field of x-ray diffraction.
+on
+their
+in
+work
+x-ray
+was first used by W. H. and W. L. Bragg
+early
+of relaspectra and crystal structure, but it then passed into a long period
+tive disuse during which photographic recording in cameras was the most
+in
+popular method of observing diffraction effects. The few spectrometers
+research
+of
+laboratories
+to
+the
+confined
+and
+made
+home
+all
+use were
+largely
+In recent years, however, commercially made instruments
+physicists.
+7-1 Introduction.
+
+(based mainly on a design developed by Friedman about 1943) have become available, and their use is growing rapidly because of certain parwhich they offer over film techniques. Initially a
+ticular
+
+advantages
+
+research tool, the x-ray spectrometer has now become an instrument for
+control and analysis in a wide variety of industrial laboratories.
+
+Depending solely on the way
+two instruments:
+
+s
+
+(1)
+
+An
+
+known
+(2)
+rials
+
+it is
+
+used, the x-ray spectrometer
+
+is
+
+really
+
+instrument for measuring x-ray spectra by means of a crystal of
+
+structure.
+
+instrument for studying crystalline (and noncrystalline) mateby measurements of the way in which they diffract x-rays of known
+
+An
+
+wavelength.
+
+The term
+
+spectrometer has been,
+
+and
+
+still is,
+
+used to describe both instru-
+
+ments, but, properly, it should be applied only to the first instrument.
+The second instrument has been aptly called a diffractometer: this is a term
+of quite recent coinage but one which serves well to emphasize the par-
+
+which the instrument is being put, namely, diffraction analand operation
+ysis rather than spectrometry. In this chapter, the design
+of diffractometers will be described with particular reference to the comticular use to
+
+mercial models available.
+
+7-2 General features.
+
+In a diffraction camera, the intensity of a
+
+dif-
+
+fracted beam is measured through the amount of blackening it produces
+on a photographic film, a microphotometer measurement of the film being
+In the
+required to convert "amount of blackening" into x-ray intensity.
+measured directly,
+diffractometer, the intensity of a diffracted beam is
+.either by means of the ionization it produces in a gas or the fluorescence
+177
+
+

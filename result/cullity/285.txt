@@ -1,0 +1,104 @@
+280
+
+THE STRUCTURE OF POLYCRYSTALLINE AGGREGATES
+
+[CHAP. 9
+
+by measuring the angular range of
+each arc and calculating the corresponding angular range of p. A
+(111) pole figure of the wire would then resemble Fig. 9-9 (a) except that
+the two curved lines would be replaced by two curved bands, each equal
+wish, this can be taken into account
+
+a
+
+in
+
+for
+
+width to the calculated range
+
+of p for the (111) poles.
+
+In materials having
+a fiber texture, the individual grains have a common crystallographic
+direction parallel to the fiber axis but they can have any rotational position about that axis. It follows that the diffraction pattern of such mate-
+
+One other aspect
+
+of fiber textures should be noted.
+
+have continuous Debye rings if the incident x-ray beam is parallel
+to the fiber axis. However, the relative intensities of these rings will not
+be the same as those calculated for a specimen containing randomly oriented
+rials will
+
+grains.
+
+Therefore, continuous
+
+Debye
+
+rings are not, in themselves, evi-
+
+dence for a lack of preferred orientation.
+
+9-8 The texture of sheet (photographic method).
+
+The
+
+texture of rolled
+
+sheet, either as rolled or after recrystallization, differs from that of
+
+drawn
+
+wire in having less symmetry. There is no longer a common crystallographic direction about which the grains can have any rotational position.
+Sheet textures can therefore be described adequately only by means of a
+pole figure, since only this gives a complete
+crystal orientation.
+
+map
+
+of the distribution of
+
+The photographic method of determining the pole figure of
+method just described for determining wire
+
+similar to the
+
+sheet
+
+is
+
+quite
+
+textures.
+
+A
+
+transmission pinhole camera is used, together with general radiation containing a characteristic component. The sheet specimen, reduced in thickness by etching to a few thousandths of an inch, is initially mounted per-
+
+pendicular to the incident beam with the rolling direction vertical. The
+resulting photograph resembles tha,t of a drawn wire: it contains Debye
+
+nonuniform intensity and the pattern is symmetrical about a
+vertical line through the center of the film. However, if the sheet is now
+rotated by, say, 10 about the rolling direction and another photograph
+made, the resulting pattern .will differ from the first, because the texture
+of sheet does not have rotational symmetry about the rolling direction.
+This new pattern will not be symmetrical about a vertical line, and the
+regions of high intensity on the Debye rings will not have the same azimuthal positions as they had in the first photograph. Figure 9-11 illustrates this effect for cold-rolled aluminum.
+To determine the complete
+rings of
+
+texture of sheet, it is therefore necessary to measure the distribution of
+orientations about the rolling direction by making several photographs
+with the sheet normal at various angles to the incident beam.
+
+ft
+
+Figure 9-12 shows the experimental arrangement and defines the angle
+between the sheet normal and the incident beam. The intensity of the
+
+

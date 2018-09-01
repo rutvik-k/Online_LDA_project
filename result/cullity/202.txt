@@ -1,0 +1,100 @@
+GEIGER COUNTERS
+
+7-6]
+
+197
+
+5000 r-
+
+single-chain her
+CJcieer counter
+
+1000
+
+2000
+
+3000
+
+4000
+
+5000
+
+QUANTA ABSOHBKI) PKK SECOND
+FIG. 7-14.
+
+The
+
+effect of
+
+counting rate on counting losses (schematic).
+
+Since the resolving time of the ordinary Geiger counter is of the order
+10~ 4 sec, counting-rate curves should be linear up to about 10,000 cps
+(counts per second) if the arrival of quanta were periodic in time. How-
+
+of
+
+ever, counting losses are observed to begin at much lower rates, namely,
+at a few hundred counts per second, as shown in Fig. 7-14. In the multichamber counter the counting rate is linear up to more than 1000 cps;
+such a counter has a number of chambers side by side, each with its own
+
+and one chamber can therefore
+
+anode
+
+wire,
+
+one
+
+in its insensitive period.
+
+register
+
+a count while another
+
+(The proportional counter, much faster
+than either of these, has a linear counting curve up to about 10,000 cps.
+Its resolving time is less than a microsecond; this is the time
+required for
+an electron avalanche to hit the wire, immediately after which the prois
+
+portional counter
+
+is
+
+ready to register another pulse, since the positive ions
+
+formed produce no interference.)
+The particular counting rate where losses begin with a particular Geigercounter-scaler combination must be determined experimentally, and this
+can be done as follows. Position the counter to receive a
+strong diffracted
+and
+in
+insert
+this
+beam
+a
+sufficient
+number
+of
+metal
+foils of uniform
+beam,
+thickness to reduce the counting rate almost to the cosmic background.
+
+(Cosmic rays, because of their high penetrating power, pass right through
+the walls of the counter and continually produce a few counts per second.)
+Measure the counting rate, remove one foil, measure the counting rate, and
+continue in this manner until
+
+all
+
+the
+
+foils
+
+have been removed.
+
+Since each
+
+

@@ -1,0 +1,108 @@
+DIFFEACTOMETER METHOD
+
+8-4]
+
+N
+
+239
+
+f
+
+which is initially at the center of the projection but
+which moves y degrees along a radius when the crystal is rotated y degrees
+about A A'.
+What we are trying to do, essentially, is to make
+coincide with a
+111 pole and so disclose the location of the latter on the projection. The
+search may be made by varying y continuously for fixed values of 4 or 5
+sented by the pole
+
+,
+
+N
+
+{
+
+f
+
+J
+
+apart; the projection is then covered point by point along a series of radii.
+It is enough to examine one quadrant in this way since there will always
+
+be at least one {111} pole in any one quadrant. Once one pole has been
+located, the search for the second is aided by the knowledge that it must
+be 70.5 from the first. Although two {111) poles are enough to fix the
+orientation of the crystal, a third should be located as a check.
+Parenthetically, it should be noted that the positioning of the crystal
+surface and the axis A A' at equal angles to the incident and diffracted
+
+beams
+
+is done only for convenience in plotting the stereographic projecThere is no question of focusing when monochromatic radiation is
+reflected from an undeformed single crystal, and the ideal incident beam
+
+tion.
+
+for the determination of crystal orientation
+
+is
+
+a parallel beam, not a di-
+
+vergent one.
+
+In the hands of an experienced operator, the diffractometer method is
+faster than either Laue method.
+Furthermore, it can yield results of
+greater accuracy if narrow slits are used to reduce the divergence of the
+incident beam, although the use of extremely narrow slits will make it
+difficult to locate the reflecting positions of the crystal. On the other
+
+more
+
+hand, the diffractometer method furnishes no permanent record of the
+orientation determination, whereas Laue patterns may be filed away for
+
+But what is more important, the diffractometer method
+does not readily disclose the state of perfection of the crystal, whereas a
+Laue pattern yields this kind of information at a glance, as we will see in
+
+future reference.
+
+and in many investigations the metallurgist is just as much interested in the relative perfection of a single crystal as he is in its orientation.
+All things considered, the Laue methods are preferable when only occa-
+
+Sec. 8-6,
+
+sional orientation determinations are required, or when there is any doubt
+as to the perfection of the crystal. When the orientations of large numbers of crystals have to be determined in a routine manner, the diffrac-
+
+In fact, this method was developed largely
+is superior.
+an application during World War II, when the orientation of
+These crystals
+large numbers of quartz crystals had to be determined.
+were used in radio transmitters to control, through their natural frequency
+of vibration, the frequency of the transmitted signal.
+For this purpose
+with
+to
+faces
+wafers
+had
+be
+cut
+accurately parallel to certain crysquartz
+and
+the
+was used to determine the
+diffractometer
+tallographic planes,
+
+tometer method
+for just such
+
+orientations of these planes in the crystal.
+
+

@@ -1,0 +1,127 @@
+CHAPTER
+
+6
+
+POWDER PHOTOGRAPHS
+6-1 Introduction.
+
+The powder method
+
+vised independently in 1916 by Debye
+1917 by Hull in the United States. It
+
+of x-ray diffraction was deand Scherrer in Germany and in
+is the most generally useful of all
+
+methods and, when properly employed, can yield a great deal
+under investigation. Basithe
+of
+method
+involves
+diffraction
+monochromatic
+this
+x-rays by a
+cally,
+In
+this
+"monochromatic"
+usually means
+powder specimen.
+connection,
+the strong K characteristic component of the general radiation from an
+x-ray tube operated above the K excitation potential of the target mate-]
+"Powder" can mean either an actual, physical powder held together
+rial.
+diffraction
+
+of structural information about the material
+
+with a suitable binder or any specimen in polycrystalline form. The
+method is thus eminently suited for metallurgical work, since single crystals are not always available to the metallurgist and such materials as
+polycrystalline wire, sheet, rod, etc.,
+
+may
+
+be examined nondestructively
+
+without any special preparation.
+There are three main powder methods in use, differentiated by the
+tive position of the specimen
+
+and
+
+rela-
+
+film:
+
+(1) Debye-Scherrer method. The film is placed on the surface of a cylinder and the specimen on the axis of the cylinder.
+(2) Focusing method. The film, specimen, and x-ray source are all placed
+
+on the surface of a cylinder.
+(3)
+
+Pinhole method.
+
+The
+
+film
+
+is flat,
+
+perpendicular to the incident x-ray
+
+beam, and located at any convenient distance from the specimen.
+In all these methods, the diffracted beams lie on the surfaces of cones
+whose axes lie along the incident beam or its extension; each cone of rays
+In the Debye-Scherrer
+is diffracted from a particular set of lattice planes.
+of
+narrow
+film
+is
+used and the recorded
+a
+and focusing methods, only
+strip
+diffraction pattern consists of short lines formed by the intersections of the
+cones of radiation with the
+intersects the film to
+
+form a
+
+film.
+
+6-2 Debye-Scherrer method.
+Fig. 6-1.
+
+In the pinhole method, the whole cone
+
+circular diffraction ring.
+
+A
+
+typical
+
+Debye camera
+
+It consists essentially of a cylindrical
+
+is
+
+chamber with a
+
+shown
+
+in
+
+light-tight
+
+cover, a collimator to admit and define the incident beam, a beam stop to
+confine and stop the transmitted beam, a means for holding the film
+tightly against the inside circumference of the camera, and a specimen
+
+holder that can be rotated.
+149
+
+

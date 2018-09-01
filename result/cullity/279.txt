@@ -1,0 +1,127 @@
+THE STRUCTURE OF POLYCRYSTALLINE AGGREGATES
+
+274
+
+[CHAP. 9
+
+Since single crystals of iron are more easily magof the applied field.
+netized in the [100] direction than in any other, the rolling and annealing
+treatments given the steel sheet are deliberately chosen to produce a high
+as possible have
+degree of preferred orientation, in which as many grains
+in this case
+the
+in
+direction
+a
+to
+directions
+sheet,
+their [100]
+single
+parallel
+
+the rolling direction.
+It should be noted that preferred orientation is solely a crystallographic
+condition and has nothing to do with grain shape as disclosed by the microscope. Therefore, the presence or absence of preferred orientation cannot
+be disclosed by microscopic examination. It is true that grain -shape is
+
+by the same forces which produce preferred orientation; thus
+become flattened by rolling, and rolling is usually accompanied by
+
+affected
+
+grains
+
+preferred orientation, but a flattened shape is not in itself direct evidence
+of preferred orientation.
+Only x-ray diffraction can give such evidence.
+is most apparent in recrystallized metals, which may have an
+microstructure
+and, at the same time, a high degree of preferred
+equiaxed
+
+This fact
+
+orientation.
+
+we have already noted that a pinhole
+a
+polycrystalline specimen with characteristic radiaphotograph made of
+We have more or less tacitly
+tion consists of concentric Debye rings.
+At various
+
+places in this book,
+
+assumed that these rings are always continuous and of constant intensity
+around their circumference, but actually such rings are not formed unless
+the individual crystals in the specimen have completely random orientations.*
+
+If the
+
+specimen exhibits preferred orientation, the Debye rings
+
+are of nonuniform intensity around their circumference
+orientation is slight), or actually discontinuous (if there
+
+(if
+
+the preferred
+
+a high degree
+of preferred orientation). In the latter case, certain portions of the Debye
+ring are missing because the orientations which would reflect to those
+parts of the ring are simply not present in the specimen. Nonuniform
+
+Debye
+
+is
+
+rings can therefore be taken as conclusive evidence for preferred
+
+orientation,
+
+and by analyzing the nonuniformity we can determine the
+
+kind and degree of preferred orientation present.
+Preferred orientation
+
+is
+
+best described
+
+by means
+
+of a pole figure.
+
+This
+
+is a stereographic projection which shows the variation in pole density
+with pole orientation for a selected set of crystal planes. This method of
+describing textures was first used by the German metallurgist Wever in
+
+and
+
+its meaning can best be illustrated by the following simple exSuppose we have a very coarse-grained sheet of a cubic metal
+containing only 10 grains, and that we determine the orientation of each
+of these 10 grains by one of the Laue methods. We decide to represent
+
+1924,
+
+ample.
+
+the orientations of
+1
+
+all of
+
+these grains together
+
+by
+
+plotting the positions of
+
+See the next section for one exception to this statement.
+
+

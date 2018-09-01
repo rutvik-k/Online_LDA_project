@@ -1,0 +1,126 @@
+DIFFRACTOMETER MEASUREMENTS
+
+184
+
+[CHAP. 7
+
+surface of a glass slide. The powder should be ground extremely fine, to a
+microns or less, if relative line intensities are to be accurately
+
+size of 10
+
+as a Debye-Scherrer
+reproducible; since the flat specimen is not rotated
+an
+of
+the
+adequate number of particles
+obtaining
+only way
+specimen is,
+is
+to reduce their average size.
+reflection
+for
+orientation
+correct
+having the
+
+Surface roughness also has a marked effect on relative line intensities. If
+the surface is rough, as in the case of a coarse powder compact, and the
+linear absorption coefficient high, the intensities of low-angle reflections
+
+be abnormally low, because of the absorption of the diffracted rays in
+each projecting portion of the surface. The only way to avoid this effect
+with
+is to use a flat-surfaced compact of very fine powders or a specimen
+will
+
+a polished surface.
+
+not enough powder is available for a flat specimen, a thin-rod specimen of the kind used in Debye-Scherrer cameras may be used it is mounted
+on the diffractometer axis and continuously rotated by a small motor
+However, the use of such a small specimen should be
+If
+
+;
+
+(see Fig. 7-3).
+
+avoided
+
+if
+
+possible, since
+
+obtainable with a
+
+flat,
+
+it
+
+leads to intensities very
+
+much
+
+lower than those
+
+specimen.
+
+may also be examined in a diffractometer by
+a
+three-circle
+on
+goniometer, such as that shown in
+mounting the crystal
+of the specimen and counrotation
+Fig. 5-7, which will allow independent
+Single-crystal specimens
+
+about the diffractometer axis.
+diffractometer may be used for measurements at high or low temperatures by surrounding the specimen with the appropriate heating or cooling
+Such an adaptation of the instrument is much easier with the difunit.
+
+ter
+
+A
+
+fractometer than with a camera because of the generally larger amount of
+free working space around the specimen in the former.
+In the succeeding sections, the various parts of the diffractometer will
+be described in greater detail. This summary of the general features of
+the instrument is enough to show its principal advantage over the powder
+
+camera: the quantitative measurement of line position and intensity is
+made in one operation with a diffractometer, whereas the same measurement with film technique requires three steps (recording the pattern on
+film,
+
+making a microphotometer record
+
+of the film,
+
+and conversion
+
+of
+
+leads to an over-all result
+
+galvanometer deflections to intensities) and
+which is generally of lower accuracy. This superiority of the diffractometer
+is reflected in the much higher cost of the instrument, a cost due not only
+to the precision machining necessary in its mechanical parts but also to
+the expensive circuits needed to stabilize the power supply and measure
+
+the intensity of diffracted beams.
+chief reason for using a flat specimen is to take
+action
+described in Sec. 6-6 and so increase the
+advantage of the focusing
+
+7-3 X-ray
+
+optics.
+
+The
+
+

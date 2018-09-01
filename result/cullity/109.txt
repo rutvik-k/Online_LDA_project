@@ -1,0 +1,118 @@
+CHAPTER
+DIFFRACTION
+
+II:
+
+4
+
+THE INTENSITIES OF DIFFRACTED BEAMS
+
+As stated earlier, ^.he positions of the atoms in the
+the intensities but not the directions of the diffracted beams.
+
+4-1 Introduction.
+unit
+
+cell affect
+
+That
+
+this
+
+must be so may be seen by considering the two structures shown
+Both are orthorhombic with two atoms of the same kind per
+but the one on the left is base-centered and the one on the right
+
+in Fig. 4-1.
+
+unit
+
+cell,
+
+body-centered. Either is derivable from the other by a simple shift of
+ope atom by the vector ^c.
+/ Consider reflections from the (001) planes which are shown in profile in
+
+For the base-centered
+
+Ftg. 4-2.
+
+shown
+
+lattice
+
+in (a),
+
+suppose that the
+
+and 6 employed. This
+means that the path difference ABC between rays 1' and 2' is one wavelength, so that rays 1' and 2' are in phase and diffraction occurs in the
+direction shown.
+Similarly, in the body-centered lattice shown in (b),
+1'
+2'
+in
+and
+are
+rays
+phase, since their path difference ABC is one wavein
+this case, there is another plane of atoms midway
+length.
+However,
+between the (001) planes, and the path difference DEF between rays 1'
+and 3' is exactly half of ABC, or one half wavelength. Thus rays 1' and
+3' are completely out of phase and annul each other.
+Similarly, ray 4'
+from the next plane down (not shown) annuls ray 2', and so on throughout
+the crystal. There is no 001 reflection from the body-centered latticeTJ
+This example shows how a simple rearrangement of atoms within the
+Bragg law
+
+is
+
+satisfied for the particular values of X
+
+can eliminate a reflection completely. More generally, the inbeam is changed, not necessarily to zero, by any
+in
+atomic
+change
+positions, and, conversely, we can only determine atomic
+
+unit
+
+cell
+
+tensity of a diffracted
+
+positions by observations of diffracted intensities. To establish an exact
+relation between atom position and intensity is the main purpose of this
+chapter. The problem is complex because of the many variables involved,
+
+and we
+
+will
+
+scattered
+
+have to proceed step by step we will consider how x-rays are
+by a single electron, then by an atom, and finally by all the
+:
+
+first
+
+,$
+
+FIG. 4-1.
+
+(a)
+
+(b)
+
+(a)
+
+Base-centered and (b) body-centered orthorhombic unit
+104
+
+cells.
+
+

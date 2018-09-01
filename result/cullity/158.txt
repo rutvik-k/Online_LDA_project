@@ -1,0 +1,92 @@
+SPECIMEN PREPARATION
+
+6-3]
+
+153
+
+The use of slits instead of pinholes decreases exposure time by increasing the irradiated volume of the specimen, but requires more accurate
+positioning of the camera relative to the source and produces diffraction
+men.
+
+lines
+
+which are sharp only along the median
+
+line of the film.
+
+6-8 Specimen preparation. Metals and alloys may be converted to
+powder by filing or, if they are sufficiently brittle, by grinding in a small
+agate mortar. In either case, the powder should be filed or ground as
+pass a 325-mesh screen, in order to produce
+smooth, continuous diffraction lines. The screened powder is usually annealed in evacuated glass or quartz capsules in order to relieve the strains
+fine as possible, preferably to
+
+due to
+
+filing or grinding.
+If a
+Special precautions are necessary in screening two-phase alloys.
+small, representative sample is selected from an ingot for x-ray analysis,
+then that entire sample must be ground or filed to pass through the screen.
+
+The common method
+
+of grinding until
+
+an amount
+
+sufficient for the x-ray
+
+specimen has passed the screen, the oversize being rejected, may lead to
+very erroneous results. One phase of the alloy is usually more brittle than
+the other, and that phase will more easily be ground into fine particles; if
+the grinding and screening are interrupted at any point, then the material
+remaining on the screen will contain less of the more brittle phase than the
+original
+
+sample while the undersize
+
+will
+
+contain more, and neither will be
+
+representative.
+
+The
+
+final
+
+rod, 0.5
+
+specimen for the Debye camera should be in the form of a thin
+or less in diameter and about 1 cm long. There are various
+
+mm
+
+ways of preparing such a specimen, one of the simplest being to coat the
+powder on the surface of a fine glass fiber with a small amount of glue or
+petroleum jelly. Other methods consist in packing the powder into a thin-
+
+made of a weakly absorbing substance such as cellophane or
+lithium borate glass, or in extruding a mixture of powder and binder
+through a small hole. Polycrystalline wires may be used directly, but
+since they usually exhibit some preferred orientation, the resulting diffracwalled tube
+
+tion pattern must be interpreted with that fact in mind (Chap. 9). Strongly
+absorbing substances may produce split low-angle lines (see Sec. 4-10);
+if this effect becomes troublesome, it may be eliminated by diluting the
+
+substance involved with some weakly absorbing substance, so that the
+absorption coefficient of the composite specimen is low. Both flour and
+cornstarch have been used for this purpose. The diluent chosen should
+
+not produce any strong diffraction lines of its own and too much of it
+should not be used, or the lines from the substance being examined will
+
+become spotty.
+After the specimen rod is prepared, it is mounted in its holder so that it
+along the axis of the camera when the specimen holder
+
+will lie accurately
+
+

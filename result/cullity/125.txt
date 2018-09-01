@@ -1,0 +1,166 @@
+DIFFRACTION
+
+t20
+If A,
+
+fc,
+
+II
+
+:
+
+THE INTENSITIES OF DIFFRACTED BEAMS
+
+[CHAP. 4
+
+and I are unmixed, then all three sums (h + ft), (h + Z), and (fc
+and each term in the above equation has the value
+
+are even integers,
+
+F =
+F =
+
+for
+
+4f
+
+If
+
+ft,
+
+/c,
+
+and
+
+16/
+
+.
+
+^ *>
+
+are mixed, then the
+
+Z
+
+unmixed
+
+1.
+
+indices;
+
+V;
+
+2
+
+2
+
++
+
+sum
+
+^
+
+<
+
+of the three exponentials
+
+is
+
+1,
+
+odd and one even, or two even and one odd.
+I are even and k is
+that
+h
+and
+for
+odd, e.g., 012. Then
+example,
+Suppose
+=
+F = /(I
+1 -f 1
+and
+no
+occurs.
+reflection
+1)
+0,
+whether two
+
+of the indices are
+
+F =
+
+for
+
+mixed
+
+indices;
+
+F =
+2
+
+Thus, reflections will occur for such planes as (111), (200), and (220) but
+not for the planes (100), (210), (112), etc.
+
+The reader may have noticed in the previous examples that some of the
+information given was not used in the calculations. In (a), for example,
+the cell was said to contain only one atom, but the shape of the cell was
+not specified; in (6) and (c), the cells were described as orthorhombic and
+in (d) as cubic,
+
+calculations.
+
+but this information did not enter into the structure-factor
+
+This illustrates the important point that
+
+the structure factor
+
+independent of the shape and size of the unit cell. For example, any bodycentered cell will have missing reflections for those planes which have
+fc
+(h
+I) equal to an odd number, whether the cell is cubic, tetragonal,
+
+is
+
++ +
+
+or orthorhombic.
+
+The
+
+rules
+
+we have
+
+derived in the above examples are
+
+therefore of wider applicability than would at first appear and demonstrate
+the close connection between the Bravais lattice of a substance and its
+
+summarized in Table 4-1. These rules are
+qualification, since some cells may contain more atoms
+than the ones given in examples (a) through (d), and these atoms may be
+in such positions that reflections normally present are now missing.
+For
+example, diamond has a face-centered cubic lattice, but it contains eight
+diffraction pattern.
+
+subject to
+
+They
+
+are
+
+some
+
+TABLE 4-1
+
+*
+These relations apply to a cell centered on the C face. If reflections are present
+only when h and I are unmixed, or when k and I are unmixed, then the cell is centered on the B or A face, respectively.
+
+

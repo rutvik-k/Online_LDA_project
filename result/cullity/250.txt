@@ -1,0 +1,75 @@
+THE EFFECT OF PLASTIC DEFORMATION
+
+8-6]
+
+245
+
+-SPECIMEN AXIS
+
+AFTER TWIST OF 2
+AFTER TWIST OF 11
+
+FIG. 8-27.
+
+Change in lattice orientation during plastic torsion of a magnesium
+The active slip plane is (0001), the basal plane of the hexagonal lattice.
+Hsu and B. D. Cullity, Trans. A.I.M.E. 200, 305, 1954.)
+
+crystal.
+(S. S.
+
+the lattice reorientation
+
+Some
+
+is
+
+mainly one of rotation about the specimen
+
+lattice distortion also occurs,
+
+that twisting of the lattice planes takes place,
+deformation is the lattice rotation described above.
+plastic elongation of single crystals,
+
+lutely
+
+no
+
+lattice
+
+deformation occurs.
+
+axis.
+
+methods reveal
+but the main feature of the
+
+since special x-ray
+
+Similarly, in the
+
+should not be supposed that absoHere again the main feature is lattice
+
+it
+
+rotation, but sensitive x-ray methods will always show some bending or
+twisting of lattice planes, and in some cases this lattice distortion may be
+
+so severe that ordinary Laue patterns will reveal it.
+good example of severe lattice distortion is afforded
+
+A
+
+by those parts
+
+of
+
+a single-crystal tension specimen immediately adjacent to the grips. As
+mentioned earlier, these portions of the crystal lattice are forced to bend
+
+during elongation of the specimen, and Laue photographs made of these
+sections will accordingly show elongated spots. If the bending is about a
+single axis, the Miller indices of the bending axis can usually be determined
+
+

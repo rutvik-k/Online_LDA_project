@@ -1,0 +1,156 @@
+SEEMANN-BOHLIN CAMERA
+
+6-7]
+
+A
+
+159
+
+is then followed when an "unknown" specimen is
+A
+factor is found which will convert the meascorrection
+examined.
+being
+ured film length of the unknown to the standard length. This factor is
+then applied to each measured U value before finding the corresponding
+
+similar procedure
+
+value from the calibration curve.
+
+more accuracy
+
+If
+
+is
+
+desired than this graphical
+
+calibration data can be handled analytically.
+in the
+
+method can
+
+Equation (6-4)
+
+give, the
+is
+
+written
+
+form
+
+=
+
+K U + K2
+1
+
+,
+
+where KI and K 2 are constants. The values of these constants are then
+determined by the method of least squares (see Sec. 11-6). Once the
+constants are known, this equation can be used to calculate
+and U values can be constructed.
+of corresponding
+
+By
+
+differentiating Eq. (0-4),
+
+0,
+
+or a table
+
+we obtain
+dd
+
+=
+
+dU
+4R
+
+This relation
+
+may
+
+be combined with Eq.
+
+dU
+
+((5-2)
+
+=
+
+dd
+
+Resolving power
+
+The
+
+=
+
+d
+
+M
+
+to give
+
+4R
+tan
+
+6.
+
+d
+
+=
+
+4R
+
+AU
+
+tan
+
+6.
+
+(6-5)
+
+resolving power, or ability to separate diffraction lines from planes
+same spacing, is therefore twice that of a Debye-Scherrer
+
+of almost the
+
+camera
+
+In addition, the exposure time is much shorter,
+larger specimen is used (the arc AB of
+of the order of 1 cm) and diffracted rays from a considerable
+
+of the
+
+same
+
+radius.
+
+because of the fact that a
+Fig. 6-7
+
+is
+
+much
+
+volume of material are all brought to one focus. The Seemann-Bohlin
+camera is, therefore, very useful in studying complex diffraction patterns,
+whether they are due to a single phase or to a mixture of phases such as
+occur in alloy systems.
+
+For metallurgical work, this camera has the further advantage that a
+massive polycrystalline specimen may be used as well as a powder. For
+example, a metallographic specimen, mounted in the usual 1-in. diameter
+bakelite mount for microscopic examination, can be fastened to the circumference of the camera and used directly. When a flat specimen placed
+tangentially to the camera circle is substituted for a curved specimen, the
+focusing action of the camera is slightly decreased but not objectionably
+while the advantage of being able to examine the same area of the
+specimen both with the microscope and with x-rays is obvious. It is
+so,
+
+

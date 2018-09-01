@@ -1,0 +1,102 @@
+ORIENTATION OF SINGLE CRYSTALS
+
+242
+
+turbed the position of the third axis (the vertical WS'-axis).
+
+[CHAP. 8
+
+Whether or
+
+not the stereographic orientations are performed in the correct order makes
+a great difference in the rotation angles found, but once the right angles
+are determined by the correct stereographic procedure, the actual physical
+rotations on the goniometer may be performed in any sequence.
+
+The back-reflection Laue pattern of an aluminum crystal rotated into
+the orientation described above is shown in Fig. 8-24. Note that the
+arrangement of spots has 2-fold rotational symmetry about the primary
+beam, corresponding to the 2-fold rotational symmetry of cubic crystals
+about their (110) axes. (Conversely, the observed symmetry of the Laue
+pattern of a crystal of unknown structure is an indication of the kind of
+symmetry possessed by that crystal. Thus the Laue method can be used
+as an aid in the determination of crystal structure.)
+There is another method of setting a crystal in a standard orientation,
+which does not require either photographic registration of the diffraction
+
+pattern or stereographic manipulation of the data. It depends on the fact
+that the diffracted beams formed in the transmission Laue method are so
+intense, for a crystal of the proper thickness, that the spots they
+
+fluorescent screen are visible in a dark room.
+
+form on a
+
+The observer merely
+
+rotates
+
+the crystal about the various arcs of the goniometer until the pattern corresponding to the required orientation appears on the screen. Obviously,
+he must be able to recognize this pattern when it appears, but a little
+
+study of a few Laue photographs
+
+made
+
+of crystals in standard orientations
+
+necessity for working in a darkened room
+use of a light-tight viewing box, if the job of crystal
+
+will
+
+enable him to do
+
+may
+
+be avoided by
+
+this.
+
+The
+
+setting occurs sufficiently often to justify its construction. This box encloses the fluorescent screen which the observer views through a binocular
+
+eyepiece set in the wall of the box, either directly along the direction of
+the transmitted beam, or indirectly in a direction at right angles by means
+of a mirror or a right-angle prism. For x-ray protection, the optical system
+
+should include lead glass, and the observer's hands should be shielded
+during manipulation of the crystal.
+
+8-6 The effect of plastic deformation. Nowhere have x-ray methods
+The way in
+fruitful than in the study of plastic deformation.
+which a single crystal deforms plastically is markedly anisotropic, and
+
+been more
+almost
+
+all of
+
+our knowledge of this phenomenon has been gained by x-ray
+
+diffraction examination of crystals at various stages during plastic defor-
+
+mation.
+
+At the outset we can
+
+distinguish between
+
+two kinds
+
+of deforma-
+
+tion, that of the crystal lattice itself and that of the crystal as a whole.
+This distinction is worth while because crystal deformation, defined as a
+change in the shape of the crystal due to lattice rotation, can occur with
+
+or without lattice deformation, defined as the bending and/or twisting of
+
+

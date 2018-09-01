@@ -1,0 +1,45 @@
+DIFFRACTION
+
+114
+
+FIG. 4-9.
+
+II
+
+:
+
+THE INTENSITIES OF DIFFRACTED BEAMS
+
+The three-dimensional analogue
+
+[CHAP. 4
+
+of Fig. 4-8.
+
+These two waves may differ, not only in phase, jbut^also in amplitude if
+B and the atonTstr-trre ongih"^l^^d^fferent kinds. In that case,
+v .ie amplitudes of these waves are given, relative to the amplitude of the
+
+atom
+
+wave
+
+scattered by a single electron, by the appropriate values of /, the
+atomic scattering factor.
+We now see that the problem of scattering from a unit cell resolves itself
+into one of adding waves of different phase and amplitude in order to find
+the resultant wave. Waves scattered by all the atoms of the unit cell,
+including the one at the origin, must be added. The most convenient way
+of carrying out this summation is by expressing each wave as & complex
+
+exponential function.
+
++E
+
+FIG. 4-10.
+
+The
+
+addition of sine waves of different phase and amplitude.
+
+

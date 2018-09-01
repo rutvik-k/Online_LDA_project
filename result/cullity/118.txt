@@ -1,0 +1,186 @@
+SCATTERING BY A UNIT CELL
+
+4-4]
+
+From
+
+113
+
+the definition of Miller indices,
+
+a
+
+= AC =
+
+n
+
+How
+
+is
+
+by x-rays scattered in the same direction
+at a distance x from Al Note that only this direction
+
+this reflection affected
+
+by atom B, located
+
+need be considered since only in this direction is the Bragg law satisfied
+AGO reflection. Clearly, the path difference between ra%._ 3' and.
+6
+ray 1', 3 'i>, will be less than X; by simple proportion it is found to be
+
+for the
+
+AC
+
+_
+
+(X)
+
+=
+
+(X).
+
+a/ft
+
+...
+
+Phase differences may be expressed in angular measure as well as in
+wavelength: two rays, differing in path length by one whole wavelength,
+are said to differ in phase by 360, or
+difference jjn_
+6, then the 'phase
+
+=
+The use
+
+of angular
+
+measure
+
+is
+
+-
+
+2?r
+
+radians.
+
+(27T).
+
+If
+
+the path difference
+
+it
+
+makes the expression
+
+is
+
+.
+
+convenient because
+
+of phase differences independent of wavelength, whereas the use of a path
+difference to describe a phase difference is meaningless unless the wave-
+
+length
+
+is
+
+specified.
+
+The phase
+
+difference, then,
+
+that scattered by
+
+atom
+
+A
+
+between the wave scattered by atom
+
+at the origin
+
+is
+
+If the position of
+
+atom
+
+B
+
+is
+
+specified
+
+by
+
+and
+
+given by
+2irhx
+
+5vi'
+
+B
+
+^
+
+its fractional
+
+coordinate
+
+u = -
+
+,
+
+then the phase difference becomes
+
+This reasoning
+
+which atom
+
+B
+
+may
+
+be extended to three dimensions, as in Fig. 4-9,
+
+has actual coordinates x y
+
+z or fractional coordinates
+
+in
+
+xyz
+-a o
+
+c
+
+equal to u v w, respectively. We then arrive at the following important
+relation for the phase difference between the wave scattered by atom B
+and that scattered by atom A at the origin, for the hkl reflection:
+(4-4)
+
+faL^bJm).
+
+This relation
+
+is
+
+general
+
+and applicable to a unit
+
+cell
+
+of
+
+any shape.
+
+

@@ -1,0 +1,142 @@
+DIFFRACTOMETER MEASUREMENTS
+
+196
+
+[CHAP. 7
+
+decreases more slowly to its normal value. All pulses have the
+tude and are spaced at random time intervals.
+
+same ampli-
+
+But if the rate of pulse production is so high that two successive pulses
+occur too closely together, it is found that the second one has less than
+normal amplitude, as indicated in Fig. 7-13(b) on enlarged voltage-time
+scales. If the interval between pulses becomes smaller than that shown in
+(b),
+
+then the amplitude of the second pulse becomes still smaller, as shown
+Figure 7-13(d) sums up a number of curves of this kind; i.e., it is
+
+in (c).
+
+a superposition of a number of curves like (b) and
+
+(c),
+
+and
+
+it
+
+shows the
+
+pulse
+amplitude which any given pulse will have when it
+at the time interval indicated by its position on the time axis. This decrease in pulse height with decrease in pulse spacing has been correlated
+with the phenomena occurring in the counter as follows. When the avafollows the
+
+initial
+
+lanche of electrons hits the anode wire to form the
+
+initial pulse, the voltage
+then
+and
+its
+maximum
+value
+to
+builds
+decays more slowly to
+up
+rapidly
+zero as the charge on the wire leaks away. But, as stated above, the positive ion sheath left behind reduces the field strength between it and the
+
+The field strength increases as the ions move away from the wire,
+time at which the field reaches the threshold value marks theVhid
+the
+and
+of the dead time ,/, during which the counter is absolutely insensitive to
+wire.
+
+entering quanta. The arrival of the ion sheath at the cathode restores the
+Befield to its normal strength and marks the end of the recovery time t r
+tween id and t r the field is above threshold but not yet back to normal;
+.
+
+during this interval entering quanta can cause pulses, but they will not
+The recovfull amplitude characteristic of the applied voltage.
+is
+fixed
+full
+which
+the
+their
+at
+by the
+amplitude,
+pulses
+regain
+ery time,
+
+have the
+
+4
+
+counter design and generally is of the order of 2 X 10~ sec. However,
+the detecting circuit can usually detect pulses smaller than maximum
+amplitude, and we can therefore speak of the resolving time t s of the countercombination, defined ,by the time after the
+following pulse can first be detected.
+circuit
+
+initial
+
+pulse at which a
+
+quanta were absolutely periodic
+in time, the maximum counting rate without losses would be given simply
+by \/t 8 But even if their average rate of arrival is no greater than l/t8
+some successive quanta may be spaced less than t 8 apart because of their
+If the arrival,
+
+and absorption,
+
+of entering
+
+.
+
+,
+
+randomness
+less
+
+in time.
+
+It follows that
+
+than \/t8 and that the losses
+
+counting losses will occur at rates
+
+will increase as the rate increases, as
+
+Here "quanta absorbed per second" are directly
+the
+to
+x-ray
+intensity, so that this curve has an important
+proportional
+diffractometer
+on
+measurements, since it shows the point at which
+bearing
+
+shown
+
+in Fig. 7-14.
+
+the observed counting rate is no longer proportional to the x-ray intensity.
+The straight line shows the ideal response which can be obtained with a
+proportional counter at the rates shown.
+
+

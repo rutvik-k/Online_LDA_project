@@ -1,0 +1,149 @@
+THE TEXTURE OF SHEET (DIFFRACTOMETER METHOD)
+
+9-9]
+
+A
+
+293
+
+is far more accurate than any photoand
+determined
+represents the best description available
+one,
+graphically
+of
+and
+kind
+extent
+of
+the
+preferred orientation. The accuracy obtoday
+is sufficient to allow investigation,
+method
+diffractometer
+with
+the
+tainable
+of
+with some confidence,
+possible asymmetry in sheet textures. In most
+
+units.
+
+pole figure such as this
+
+found
+
+sheet,
+
+no asymmetry
+
+when
+
+sheet is carefully rolled in the
+
+of texture
+
+is
+
+(see Fig. 9-25),
+
+but
+
+it
+
+does occur
+
+direction, i.e., without any
+In such sheet, the texture has only
+
+same
+
+end for end between passes.
+one reflection plane of symmetry, normal to the transverse direction; the
+plane normal to the rolling direction is no longer a symmetry plane.
+reversal
+
+In Fig. 9-25, the solid triangular symbols representing the ideal orientation (110) [lT2] lie approximately in the high-density regions of the pole
+But here again the pole figure itself must be regarded as a far
+figure.
+better description of the texture than any bare statement of an ideal orien-
+
+A quantitative pole figure of this kind has about the same relation
+to an ideal orientation as an accurate contour map of a hill has to a state-
+
+tation.
+
+ment
+
+of the height, width,
+
+and length of the
+
+hill.
+
+Geisler has recently pointed out two sources of error in the diffractometer
+method, both of which can lead to spurious intensity maxima on the pole
+figure if the investigator is not aware of them:
+the counter is set
+(1) When an (AiMi) pole figure is being determined,
+
+at the appropriate angle 26 to receive Ka radiation reflected from the
+there may be another
+(hikili) planes. But at some position of the specimen,
+set of planes, (/^tt), so oriented that they can reflect a
+
+continuous spectrum at the same angle
+
+26.
+
+component of the
+planes have a
+
+If the (hjtj,^)
+
+be taken
+high reflecting power, this reflection may be so strong that it may
+for an fcjJMi reflection of the Ka wavelength. Apparently the only sure
+way of eliminating this possibility is to use balanced filters.
+be such
+(2) The crystal structure of the material being investigated may
+that a set of planes, (h 3 kM, has very nearly the same spacing as the
+The Ka reflections of these two sets will therefore occur
+(hikili) planes.
+at very nearly the same angle 26. If the counter is set to receive the hik^i
+reflection may
+reflection, then there is a possibility that some of the feaMs
+also be received, especially in the transmission method for which a wide
+receiving slit is used. The best way out of this difficulty is to select another
+
+well separated from its neighbors, and construct an
+A4 fc4 /4 pole figure instead of an ftiMi- (It is not advisable to attempt to
+exclude the unwanted hjc^ reflection by narrowing the slits. If this is
+reflection,
+
+A 4 fc 4 /4
+
+,
+
+not receive the entire hik^i diffracted beam,
+not received, Eq. (9-10) will no longer give the
+correct value of R. If a narrow receiving slit must be used, then the variation of R with a must be determined experimentally. This determination
+a specimen of the same material as that under investigation, with
+done, then the counter
+
+and
+
+if all
+
+requires
+
+of this
+
+beam
+
+may
+
+is
+
+

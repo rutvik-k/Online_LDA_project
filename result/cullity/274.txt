@@ -1,0 +1,112 @@
+DEPTH OF X-RAY PENETRATION
+
+9-5|
+
+269
+
+FIG 9-5.
+Back-reflection pinhole
+patterns of coarse-grained lecrystallized copper.
+Vnfiltered coppei radiation
+
+(a)
+
+belt sandei
+in
+
+fiom
+
+,
+
+from surface ground on a
+(h) after removal of 0.003
+
+this suiface
+
+by etching.
+
+made at 300 and 450C which would immediately .suggest that the specimen annealed at 450 O had the coarser grain size, hut this fact is quite
+evident in the pinhole patterns shown in Figs. 9-3 (c) and (d).
+It must always he remembered that a hack-reflection photograph
+
+is
+
+representative of only a thin surface layer of the specimen. For example,
+Fig. 9-5 (a) was obtained from a piece of copper and exhibits unresolved
+
+The unexperienced observer might
+doublets in the high-angle region.
+What the x-ray
+conclude that this material was highly cold worked.
+"sees" is cold worked, but it sees only to a limited depth. Actually, the
+bulk of this specimen is in the annealed condition, but the surface from
+which the x-ray pattern was made had had 0.002 in. removed by grinding
+on a belt sander after annealing. This treatment cold worked the surface
+to a considerable depth. By successive etching treatments and diffraction
+patterns made after each etch, the change in structure of the cold-worked
+Not
+layer could be followed as a function of depth below the surface.
+until a total of 0.003 in.
+
+come
+
+had been removed did the
+
+diffraction pattern be-
+
+characteristic of the bulk of the material; see Fig. 9-5 (b),
+
+sf>otty lines indicate
+
+where the
+
+a coarse-grained, recrystallized structure.
+
+9-6 Depth of x-ray penetration. Observations of this kind suggest that
+might be well to consider in some detail the general problem of x-ray
+Most metallurgical specimens strongly absorb x-rays, and
+penetration.
+
+it
+
+the intensity of the incident beam is reduced almost to zero in a very short
+The diffracted beams therefore originate
+distance below the surface.
+chiefly in a thin surface layer
+
+to a transmission technique,*
+*
+
+Not even
+
+in transmission
+
+whenever a
+is
+
+used,
+
+i.e.,
+
+reflection technique, as
+
+whenever a
+
+methods, however,
+
+is
+
+opposed
+
+diffraction pattern
+
+the information on a diffrac-
+
+tion pattern truly representative of the entire cross section of the specimen. Calculations such as those given in this section show that a greater proportion of the
+total diffracted energy originates in a layer of given thickness on the back side of
+
+the specimen (the side from which the transmitted beam leaves) than in a layer
+of equal thickness on the front side. If the specimen is highly absorbing, a transmission method can be just as non-representative of the entire specimen as a backreflection method, in that most of the diffracted energy will originate in a thin
+surface layer.* See Prob. 9-5.
+
+

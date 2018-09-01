@@ -1,0 +1,166 @@
+[CHAP. 6
+
+POWDER PHOTOGRAPHS
+
+170
+
+be reflected by the crystal. Moreover, since the diffracted rays all
+source S, they will converge to a
+originate on a circle passing through the
+S
+and at the same distance from
+as
+circle
+same
+the
+on
+focus at F, located
+in
+the
+as
+focusing cameras previously discussed.
+C, in much the same way
+and then cut as described above, but
+bent
+not
+is
+the
+In
+
+will
+
+crystal
+
+practice
+
+the unbent crystal, usually of quartz, is first cut to a radius of 2R and then
+bent against a circular form of radius R. This procedure will produce the
+same net result. The value of 6 required for the diffraction of a particular
+X from planes of spacing d is given by the Bragg law:
+
+wavelength
+
+=
+
+X
+
+(0-12)
+
+dissource-to-crystal distance 8C, which equals the crystal-to-focus
+
+The
+
+tance CF,
+
+is
+
+given by
+
+SC =
+By
+
+2rfsin0.
+
+2fl cos
+
+(-
+
+- 0V
+
+(0-13)
+
+combining Eqs. (6-12) and (0-13), we obtain
+
+SC = R--
+
+(0-M)
+
+d
+
+For
+
+Cu Ka radiation from the (10-1)
+14.2 cm for a value of K of 30 em.
+
+reflection of
+
+distance
+
+The
+
+SC
+
+is
+
+chief value of the focusing
+
+monochromator
+
+planes of quartz, the
+
+lies in
+
+the fact that
+
+all
+
+the monochromatic rays in the incident beam are utilized and the diffracted
+are all brought to a
+rays from a considerable area of the crystal surface
+of
+concentration
+a
+to
+This
+leads
+focus.
+energy and a considerable
+large
+reduction in exposure time compared to the unbent-crystal monochromator
+first described.
+However, the latter does produce a semiparallel beam of
+a beam is reradiation, and, even though it is of very low intensity, such
+
+quired in some experiments.
+If the monochromating crystal
+
+bent but not cut, some concentration
+of energy will be achieved inasmuch p,s the reflected beam will be convergent, but it will not converge to a perfect focus.
+The focusing monochromator is best used with powder cameras especially
+made to take advantage of the particular property of the reflected beam,
+namely its focusing action. Figure 0-10(a) shows the best arrangement.
+A cylindrical camera is used with the specimen and film arranged on the
+is
+
+surface of the cylinder. Low-angle reflections are registered with the cammust be thin enough
+era placed in position C, in which case the specimen
+
+D
+
+to be examined in transmission.
+
+back
+
+reflection
+
+specimen at
+
+D
+
+1
+.
+
+High-angle reflections are obtained
+
+by
+
+with the camera in position C", shown dotted, and the
+In the latter case, the geometry of the camera is exactly
+
+similar to that of the Seemann-Bohlin camera, the focal point
+
+F
+
+of the
+
+

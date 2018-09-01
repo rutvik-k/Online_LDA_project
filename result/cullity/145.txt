@@ -1,0 +1,150 @@
+LAUE PHOTOGRAPHS
+
+140
+
+small copper disk, about 0.5
+
+mm thick,
+
+[CHAP. 5
+
+cemented on the paper film cover
+
+stops all but a small fraction of the
+the
+transmitted
+beam
+crystal, while this small fraction serves to
+through
+on the film. The shadow of a beam stop
+beam
+this
+of
+record the position
+
+serves very well for this purpose:
+
+it
+
+of this kind can be seen in Fig. 3-6(a).
+
+angle corresponding to any transmission Laue spot
+very simply from the relation
+
+The Bragg
+
+tan 20
+
+= ->
+
+is
+
+found
+
+(5-1)
+
+D
+
+=
+
+distance of spot from center of film (point of incidence of trans= specimen-to-film distance (usually 5 cm). Adjustmitted beam) and
+ment of the specimen-to-film distance is best made by using a feeler gauge
+
+where
+
+r\
+
+D
+
+of the correct length.
+
+to the x-ray tube has a decided effect on the appearance of a transmission Laue pattern. It is of course true that the higher
+the tube voltage, the more intense the spots, other variables, such as tube
+current and exposure time, being held constant. But there is still another
+
+The voltage applied
+
+effect
+
+due to the fact that the continuous spectrum
+
+is
+
+cut
+
+off
+
+sharply on
+
+the short-wavelength side at a value of the wavelength which varies innear the center of a
+versely as the tube voltage [Eq. (1-4)]. Laue spots
+from planes inreflections
+first-order
+caused
+transmission pattern are
+by
+beam.
+incident
+the
+to
+Only short-waveclined at very small Bragg angles
+
+but if the tube
+length radiation can satisfy the Bragg law for such planes,
+voltage is too low to produce the wavelength required, the corresponding
+Laue spot will not appear on the pattern. It therefore follows that there
+a region near the center of the pattern which is devoid of Laue spots and
+that the size of this region increases as the tube voltage decreases. The
+tube voltage therefore affects not only the intensity of each spot, but also
+the number of spots. This is true also of spots far removed from the center
+is
+
+of the pattern;
+
+some
+
+of these are
+
+due to planes so oriented and of such a
+wavelength close to the short-wave-
+
+reflect radiation of
+
+spacing that they
+length limit, and such spots will be eliminated
+no matter how long the exposure.
+
+A
+
+back-reflection
+
+camera
+
+is
+
+by a decrease
+
+illustrated in Figs. 5-3
+
+in tube voltage
+
+and 5-4.. Here the
+
+and the collimator. The latter has a reduced section at one end which screws into the back plate of the cassette
+and projects a short distance in front of the cassette through holes punched
+in the film and its paper cover.
+The Bragg angle for any spot on a back-reflection pattern may be
+found from the relation
+cassette supports both the film
+
+tan (180
+
+-
+
+20)
+
+= ->
+
+(5-2)
+
+

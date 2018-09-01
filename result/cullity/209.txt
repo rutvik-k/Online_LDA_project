@@ -1,0 +1,149 @@
+DIFFRACTOMETER MEASUREMENTS
+
+204
+
+[CHAP. 7
+
+even though the counter and sealer are functioning perfectly.
+Clearly, the accuracy of a rate measurement of this kind improves as the
+time of counting is prolonged, and it is therefore important to know how
+long to count in order to attain a specified degree of accuracy. The probable error* in a single count of
+pulses, relative to an average value
+
+pulses,
+
+N
+
+obtained by a great
+
+many
+
+repetitions of the
+
+same counting operation,
+
+is
+
+given by
+
+EN =
+
+N
+
+so long as
+
+is
+
+67
+
+= percent,
+
+For some
+
+fairly large.
+
+(7-6)
+
+of the total counts obtainable
+
+from
+
+a binary sealer, this expression gives the following errors:
+
+error depends only on the
+
+number
+
+of pulses counted and not
+and
+low
+rates can be measured
+on their rate, which means that high rates
+with the same accuracy, if the counting times are chosen to produce the
+same total number of counts in each measurement. It also follows that
+the second scaling method outlined above, in which the time is measured
+
+Note that the
+
+number
+
+for a fixed
+
+permits intensity
+
+of counts,
+
+is
+
+measurements
+
+generally preferable to the
+of the
+
+same
+
+first,
+
+since
+
+precision of both high-
+
+it
+
+and
+
+low-intensity beams.
+
+Equation (7-6) is valid only when the counting rate due to the radiation
+being measured is large relative to the background. (Here "background"
+means the unavoidable background counting rate measured with the x-ray
+tube shut
+
+off,
+
+due to any
+radiation
+
+and not the
+
+of the several causes listed
+
+is
+
+background" at non-Bragg angles
+in Sec. 6-11 and of which fluorescent
+
+"diffraction
+
+usually the most important.
+
+due to cosmic rays and
+
+may
+
+The unavoidable background is
+in some laboratories, by stray
+
+be augmented,
+
+*
+
+The probable error is that which is just as likely to be exceeded as not. Three
+times the probable error is a somewhat more useful figure, as the probability that
+this will be exceeded is only 0.04. Thus, if a single measurement gives 1000 counts,
+= 2.1 percent or 21 counts. Then the probthen the probable error is
+67/^/1000
+t is the true number
+ability is 0.5 that this count lies in the range Nt
+21, where
+of counts, while the probability is 0.96 that the measured value lies in the range
+
+N
+
+N
+
+t
+
+63.
+
+

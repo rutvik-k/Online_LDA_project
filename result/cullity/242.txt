@@ -1,0 +1,169 @@
+DIFFRACTOMETER METHOD
+
+8-4]
+
+237
+
+Still another method of determining crysthe use of the diffractometer and a procedure radiWith the essentially
+cally different from that of either Laue method.
+monochromatic radiation used in the diffractometer, a single crystal will
+
+8-4 Diffractometer method.
+
+tal orientation involves
+
+produce a reflection only when
+reflecting planes
+
+is
+
+its
+
+is
+
+such that a certain set of
+
+beam
+
+at an angle 6 which satischaracteristic radiation
+
+orientation
+
+inclined to the incident
+
+planes and the
+
+the Bragg law for that set of
+But when the counter, fixed in position at the corresponding
+angle 20, discloses that a reflection is produced, then the inclination of the
+fies
+
+employed.
+
+any chosen
+
+reflecting planes to
+
+(1)
+
+line or plane
+
+on the crystal surface
+
+is
+
+known
+
+Two
+
+kinds of operation are required:
+rotation of the crystal about various axes until a position is found
+
+from the position
+
+of the crystal.
+
+which
+
+reflection occurs,
+of the pole of the reflecting plane on a stereographic projeclocation
+(2)
+tion from the known angles of rotation.
+The diffractometer method has many variations, depending on the par-
+
+for
+
+ticular kind of goniometer
+
+used to hold and rotate the specimen.
+
+Only one
+
+of these variations will be described here, that involving the goniometer
+used in the reflection method of determining preferred orientation, since
+
+the kind most generally available in metallurgical laboratories.
+This specimen holder, to be described in detail in Sec. 9-9, needs very
+that
+
+is
+
+little
+
+modification for use with single crystals, the chief one being an in-
+
+crease in the width of the primary beam slits in a direction parallel to the
+diffractometer axis in order to increase the diffracted intensity. This type
+of holder provides the three possible rotation axes shown in Fig. 8-21 one
+coincides with the diffractometer axis, the second (A A') lies in the plane
+and tangent to the specimen
+of the incident beam / and diffracted beam
+r
+the
+third
+while
+flat
+shown
+as
+a
+here
+(BB ) is normal to the
+plate,
+surface,
+:
+
+D
+
+specimen surface.
+Suppose the orientation of a cubic crystal is to be determined. For such
+crystals it is convenient to use the {111) planes as reflectors; there are
+four sets of these and their reflecting power is usually high. First, the 26
+value for the 111 reflection (or, if desired, the 222 reflection) is computed
+
+from the known spacing of the {111} planes and the known wavelength of
+
+The counter
+
+the radiation used.
+
+specimen holder
+
+is
+
+now
+
+is
+
+The
+
+then fixed in this 28 position.
+
+rotated about the diffractometer axis until
+
+its sur-
+
+and the rotation axis A A', is equally inclined to the incident beam
+and the diffracted beam, or rather, to the line from crystal to counter with
+which the diffracted beam, when formed, will coincide. The specimen
+holder is then fixed in this position, no further rotation about the diffractometer axis being required. Then, by rotation about the axis BB one
+edge of the specimen or a line drawn on it is made parallel to the diffracface,
+
+f
+
+,
+
+tometer
+
+axis.
+
+This
+
+is
+
+the
+
+initial position illustrated in Fig.
+
+8-21.
+
+

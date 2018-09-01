@@ -1,0 +1,151 @@
+[CHAP. 6
+
+POWDER PHOTOGRAPHS
+
+166
+
+The
+
+characteristic radiations usually
+
+employed
+
+in x-ray diffraction are
+
+the following:
+
+MoKa:
+
+0.711A
+
+CuKa:
+CoKa:
+
+1.542
+
+1.790
+
+YeKa:
+CrKa:
+In each case, the appropriate
+of the radiation.
+
+All in
+
+all,
+
+1.937
+2.291
+
+filter is
+
+Cu
+
+used to suppress the K/3 component
+
+Ka radiation
+
+is
+
+generally the
+
+most
+
+useful.
+
+cause
+It cannot be employed with ferrous materials, however, since it will
+Fe
+Ka
+Co
+the
+in
+iron
+the
+Ka,
+specimen; instead,
+fluorescent radiation from
+or Cr Ka radiation should be used.
+Precise lattice-parameter measurements require that there be a number of lines in the back-reflection region, while some specimens may yield
+unfiltered radiaonly one or two. This difficulty may be avoided by using
+
+have Kfi as well as Ka lines present, and by using an alloy
+atomic percent Fe-Co alloy is used as a tartarget. For example, if a 50
+in the x-ray beam, the radiation will contain the
+get, and no filter is used
+Fe Ka, Fe K0, Co Ka, and Co K/3 wavelengths, since each element will
+emit its characteristic radiation independently. Of course, special targets
+can be used only with demountable x-ray tubes.
+tion, in order to
+
+A
+
+good powder photograph has sharp intense lines superimposed on a background of minimum intensity. Howin intensity, because of the strucever, the diffraction lines themselves vary
+ture of the crystal itself, and an appreciable background intensity may
+
+Background
+
+radiation.
+
+due to a number of causes. The two effects together may cause the
+weakest diffraction line to be almost invisible in relation to the background.
+This background intensity is due to the following causes:
+It cannot be too
+emitted by the specimen.
+(1) Fluorescent radiation
+characteristic
+the
+wavelength used should be
+strongly emphasized that
+of
+the
+specimen, in order to prevent
+absorption edge
+longer than the
+
+exist,
+
+K
+
+the emission of fluorescent radiation. Incident radiation so chosen, howsince the short-wavelength
+ever, will not completely eliminate fluorescence,
+radiation in the
+will also excite
+of the continuous
+
+K
+
+spectrum
+a copper specimen is being examined
+For
+suppose
+example,
+specimen.
+with CuKa radiation of wavelength 1.542A from a tube operated at
+
+components
+
+Under these conditions the short-wavelength limit is 0.413A. The
+of the
+absorption edge of copper is at 1.380A. The Ka component
+
+30 kv.
+
+K
+
+incident radiation will not cause fluorescence, but all wavelengths between
+0.413 and 1.380A will. If a nickel filter is used to suppress the K/3 com-
+
+ponent of the incident beam,
+
+it will
+
+also
+
+have the desirable
+
+effect of
+
+reducing
+
+

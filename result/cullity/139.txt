@@ -1,0 +1,221 @@
+DIFFRACTION
+
+134
+
+Column
+Column
+Column
+
+II
+
+:
+
+THE INTENSITIES OF DIFFRACTED BEAMS
+
+[CHAP. 4
+
+11: Obtained from Appendix 10.
+11.
+12: These values are the product of the values in columns 9, 10, and
+line
+an
+first
+the
+to
+arbitrary
+give
+13: Values from column 12 recalculated
+
+intensity of 10.
+
+Column
+
+14:
+
+These entries give the observed intensities, visually estimated acfrom the pattern shown in Fig. 3-1 3(a)
+
+cording to the following simple scale,
+(vs
+
+=
+
+very strong,
+
+s
+
+=
+
+strong,
+
+m
+
+= medium, w =
+
+weak).
+
+The agreement obtained here between observed and
+is
+
+For example,
+
+satisfactory.
+
+lines
+
+1
+
+calculated intensities
+
+and 2 are observed to be of strong
+
+10
+intensity, their respective calculated intensities being
+of
+intensities
+the
+Similar agreement can be found by comparing
+
+and medium
+4.0.
+
+and
+any
+
+in the pattern.
+Note, however, that the compair of neighboring lines
+must be made between lines which are not too far apart: for exam-
+
+parison
+the calculated intensity of line 2
+
+ple,
+
+is
+
+whereas
+greater than that of line 4,
+
+Similarly, the strongest lines
+line 4 is observed to be stronger than line 2.
+show line 1 to
+calculations
+while
+7
+and
+lines
+are
+8,
+on the pattern
+the absorption
+of
+omission
+the
+from
+arise
+kind
+this
+of
+be strongest. Errors
+
+and temperature factors from the calculation.
+A more complicated structure may now be considered, namely that
+of ZnS
+the zinc-blende form of ZnS, shown in Fig. 2-19(b). This form
+
+We
+
+will calculate
+
+of
+is
+
+the relative
+
+cubic and has a lattice parameter of 5.41A.
+radiation.
+intensities of the first six lines on a pattern made with Cu Ka
+As always, the first step is to work out the structure factor. ZnS has
+four zinc
+
+and four
+
+sulfur
+
+atoms per unit
+
+cell,
+
+located in the following posi-
+
+tions:
+
+'Zn:
+
+\ \ \
+
++
+
+S:
+
+Since the structure
+
+is
+
++
+
+face-centering translations,
+
+face-centering translations.
+
+face-centered,
+
+we know
+
+that the structure factor
+
+know, from example (e)
+be zero for planes of mixed indices. We
+of Sec. 4-6, that the terms in the structure-factor equation corresponding
+to the face-centering translations can be factored out and the equation for
+unmixed indices written do\vn at once:
+also
+
+will
+
+2
+
+|F|
+
+is
+
+obtained by multiplication of the above by
+
+its
+
+complex conjugate:
+
+This equation reduces to the following form:
+2
+
+|F|
+
+=
+
+16
+
+2
+
+I/!,
+
++ /Zn2 +
+
+2/s/Zn cos
+
+*-
+
+(h
+
++k+
+J
+
+

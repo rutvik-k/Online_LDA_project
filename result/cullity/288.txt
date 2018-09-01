@@ -1,0 +1,119 @@
+THE TEXTURE OF 6HEET (PHOTOGRAPHIC METHOD)
+
+9-8]
+
+283
+
+to the right along latitude lines and drawing circle arcs, centered on the
+equator or its extension, through these points. This new position of the
+reflection circle
+
+is
+
+indicated
+
+by the arcs
+
+ABCDA
+
+in Fig. 9-14; since in this
+
+exceeds 0, part of the reflection circle, namely CD A, lies in the
+example
+back hemisphere. The arcs in Fig. 9-13 are first plotted on the
+reflection circle, as though the projection plane were still perpendicular to the
+incident beam, and then rotated to the right along latitude circles onto
+the 40 reflection circle. Thus, arc M\N\ in Fig. 9-13 becomes
+2 A^2 and
+then, finally,
+
+M 7V
+3
+
+M
+
+3
+
+in Fig. 9-14.
+
+Similarly,
+
+arc
+
+Debye
+
+U\Vi
+
+is
+
+plotted as
+
+U^Vz, lying on the back hemisphere.
+The texture of sheet is normally such that two planes of symmetry exist,
+one normal to the rolling direction (R.D.) and one normal to the transFor this reason, arc -M 3 3 may be reflected in
+verse direction (T.D.).
+the latter plane to give the arc M^N^ thus helping to fill out the pole
+These symmetry elements are also the justification for plotting
+figure.
+T
+the arc t 3 F 3 as though it were situated on the front hemisphere, since
+reflection in the center of the projection (to bring it to the front hemi-
+
+W
+
+sphere) and successive reflections in the two symmetry planes will bring it
+If the diffraction patterns indicate that these
+to this position anyway.
+symmetry planes are not present, then these short cuts in plotting may
+
+not be used.
+
+By
+
+successive changes in 0, the reflection circle can be
+
+made
+
+to
+
+move
+
+across the projection and so disclose the positions of reflecting poles. With
+the procedure described, however, the regions near the
+and S poles of
+
+N
+
+To explore these
+the projection will never be cut by a reflection circle.
+in
+its
+own
+must
+rotate
+the
+we
+90
+specimen
+plane, so that the
+regions,
+transverse direction is vertical, and take a photograph with @ ~ 5.
+Figure 9-15 shows what might result from a pole figure determination
+= 0, 20, 40, 60, and 80 (R.D. vertical) and
+involving measurements at
+
+R.D
+
+R.D
+
+T.D.
+
+T.D.
+FIG. 9-15.
+
+Plotting a pole figure.
+
+FIG. 9-16. Hypothetical pole figure
+derived from Fig. 9-15.
+
+

@@ -1,0 +1,105 @@
+SCATTERING BY AN ELECTRON
+
+4-2]
+
+r
+
+105
+
+i
+
+3
+
+(b)
+
+(a)
+
+FIG. 4-2.
+Diffraction from the (001) planes of
+centered orthorhombir lattices.
+
+We
+
+(a)
+
+base-centered and (b) body-
+
+apply these results to the powder method
+of x-ray diffraction only, and, to obtain an expression for the intensity of a
+
+atoms
+
+in the unit cell.
+
+powder pattern
+
+line,
+
+we
+
+which
+
+way
+
+in
+
+affect the
+
+will
+
+will have to consider a number of other factors
+which a crystalline powder diffracts x-rays.
+
+4-2 Scattering by an electron. We have seen in Chap. 1 that aq| x-ray
+is an electromagnetic wave characterized by an electric field whose
+strength varies sinusoidally with time at any one point in the beam., Sipce
+
+beam
+
+anVlectric field exerts a force on a Charged particle such as an electron^lhe
+oscillating electric field of an x-ray beam will set any electron it encounters
+into oscillatory motion about its mean
+position.}
+an accelerating or decelerating electron emits an electromagnetic
+the x-ray
+have already seen an example of this
+wave.
+
+Wow
+
+We
+
+phenoinejionjn
+
+tube, where x-rays are emitted because of the rapid deceleration of the
+electrons striking the target.
+Similarly, an electron which has been set
+into oscillation by an x-ray beam is continuously accelerating and decelerating during its motion and therefore emits an electromagnetic, .wjave.
+In this sense, an electron is said to scatter x-rays, the scattered beam being
+simply ITie beam radiated by the electron under the action of the incident
+beam. The scattered beam has the same wavelength and frequency as
+the incident beam and is said to be coherent with it, since there is a definite
+relationship T>etwee7fT1ie "phase of lite scattereHbeam anJTEat of the inci"""'
+denFfieam which produced it. \
+Although x-rays are scattered in all directions by an electron, the intensity of the scattered beam depends on the angle of scattering, in a way
+which was first worked out by J. J. Thomson. He found that the intensity
+/ of the beam scattered by a single electron of charge e and mass m, at a
+
+^stance
+
+r
+
+from the electron,
+
+is
+
+given by
+sin
+
+2
+
+a,
+
+(4-1)
+
+

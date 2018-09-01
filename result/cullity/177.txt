@@ -1,0 +1,118 @@
+POWDER PHOTOGRAPHS
+
+172
+
+[CHAP. 6
+
+focusing
+circle
+
+FIG. 6-17.
+
+Focusing monoohromator (transmission type).
+
+D, C, and K. Under these conditions the reflected rays from all parts of
+the crystal do not converge to a perfect focus at F. Nevertheless there is
+sufficient concentration of diffracted energy in a very narrow region near
+F to make this device a quite efficient and usable monochromator. The
+crystal-to-focus distance
+
+CF
+
+given by
+
+is
+
+CF = 2R
+Combination of
+
+cos
+
+this equation with the
+
+(0-15)
+
+0.
+
+Bragg law
+
+will give
+
+the bending
+
+radius required for specific applications.
+
+The use of a monochromator produces a change in the relative intensities
+beams diffracted by the specimen. Equation (4-12), for example,
+was derived for the completely unpolarized incident beam obtained from
+the x-ray tube. Any beam diffracted by a crystal, however, becomes partially polarized by the diffraction process itself, which means that the
+beam from a crystal monochromator is partially polarized before it reaches
+the specimen. Under these circumstances, the usual polarization factor
+2
+(1 + cos 20)/2, which is included in Eq. (4-12), must be replaced by the
+of the
+
+factor
+
+(I
+
++
+
+angle in the
+
+2
+
+cos 2
+
+2
+
+cos 20)/(l
+
+monochromator
+
++
+
+2
+
+cos 2a),
+
+[Fig.
+
+where 2a
+
+6-16(b)].
+
+is
+
+the diffraction
+
+Since the denominator in
+
+independent of 0, it may be omitted; the combined
+Lorentz-polarization factor for a Debye-Scherrer camera and crystal-
+
+this expression
+
+is
+
+monochromated radiation
+
+is
+
+therefore (1
+
++
+
+2
+
+2
+
+cos 2a cos 20) /sin
+
+2
+
+cos
+
+6.
+
+

@@ -1,0 +1,116 @@
+DIFFRACTOMETBR MEASUREMENTS
+
+210
+
+[CHAP. 7
+
+mind, and the time constant should be chosen large enough to smooth out
+most of the statistical fluctuations and yet small enough to give a reasonably short response time.
+Most commercial ratemeters have several scales available to cover various ranges of x-ray intensity (100, 1000, and 10,000 cps for full-scale
+deflection of the recorder pen, for example). Smaller time constants are
+
+used with the higher scales, just as short counting times are used with a
+sealer when the counting rate is high. In some instruments, the time constant appropriate to each scale is fixed by the manufacturer, and in others
+the operator can select any one of several time constants, ranging from
+about 0.5 to 15 sec, by switches which insert the proper capacitance in the
+circuit. The proper time constant to use is, of course, not unrelated to the
+scanning speed, for a fast scan demands a fast response from the ratemeter
+
+and therefore a short time constant.
+
+A
+
+time constant which
+
+is
+
+too large
+
+for the scanning speed used will slightly shift the peaks of diffraction lines
+in the direction of the scan and lower their maximum intensity and, be-
+
+excessive smoothing action, may actually obliterate weak difand cause them to go unnoticed. In choosing a time constant,
+therefore better to err on the short side. A good rule to follow is to
+
+cause of
+
+its
+
+fraction lines
+it is
+
+the time constant less than half the time width of the receiving slit,
+where the time width is defined as the time required for the slit to travel
+
+make
+
+own width. For example,
+2/min, then the time width
+
+its
+
+if
+
+a 0.2
+
+of the
+
+slit is
+slit is
+
+used at a scanning speed of
+
+(0.2/2) (60)
+
+=
+
+6 sec, and the
+
+time constant should therefore be less than 3 sec. The same rule can be
+used to find the proper slit width for a given scanning speed when the time
+constant is fixed.
+The relation between the x-ray intensity, i.e., the average counting rate,
+
+and the deflection of the indicating meter needle or recorder pen is linear
+for some ratemeters and logarithmic for others. The exact relation may
+be found by a calibration procedure similar to that used for the Geiger
+counter and sealer, as outlined in Sec. 7-8. A number of identical metal
+foils are placed in a strong diffracted beam entering the counter and these
+are withdrawn one by one, with the counter in a fixed position. After
+each withdrawal, the counting rate is measured accurately with a sealer,
+for a time at least equal to the scaling time,
+the recording chart speed being selected to give a trace of reasonable
+
+and the ratemeter operated
+
+way
+
+as to
+
+possible.
+
+way.)
+
+average straight line is then drawn through each trace, in such
+the positive and negative fluctuations as nearly equal as
+(Figure 7-23 shows a portion of a calibration run made in this
+
+An
+
+length.
+
+a
+
+make
+
+Finally, the distances of these straight lines
+
+from the chart zero are
+
+plotted against the corresponding average counting rates as determined by
+the sealer, and the calibration curve so obtained is used as a basis for* future
+intensity
+
+measurements with the ratemeter-recorder combination.
+
+

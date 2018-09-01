@@ -1,0 +1,126 @@
+TEMPERATURE FACTOR
+
+4-11]
+
+131
+
+angles; however, if the comparison of line intensities is restricted to lines
+not differing too greatly in 6 values, the absorption and temperature effects
+can be safely ignored. This is. a fortunate circumstance, since both of
+
+these effects are rather difficult to calculate exactly.
+It should be noted here that thermal vibration of the atoms of a crystal
+does not cause any broadening of the diffraction lines; they remain sharp
+point, but their maximum intensity gradually deworth noting that the mean amplitude of atomic vibration is not a function of the temperature alone but depends also on the
+elastic constants of the crystal. At any given temperature, the less "stiff"
+the crystal, the greater the vibration amplitude u. This means that u
+is much greater at any one temperature for a soft, low-melting-point metal
+Substances with low melting points
+like lead than it is for, say, tungsten.
+
+up to the melting
+
+right
+
+It is also
+
+creases.
+
+have quite large values of u even at room temperature and therefore yield
+rather poor back-reflection photographs.
+The thermal vibration of atoms has another effect on diffraction patBesides decreasing the intensity of diffraction lines, it causes some
+This is called temperaturegeneral coherent scattering in all directions.
+it
+to
+the
+contributes
+only
+diffuse scattering;
+general background of the
+terns.
+
+pattern and
+lines
+
+its
+
+intensity gradually increases with 26.
+
+and background naturally
+
+suffers, so this effect
+
+is
+
+Contrast between
+
+a very undesirable
+
+one, leading in extreme cases to diffraction lines in the back-reflection
+region scarcely distinguishable from the background.
+In the phenomenon of temperature-diffuse scattering we have another
+
+example, beyond those alluded to in Sec. 3-7, of scattering at non-Bragg
+Here again it is not surprising that such scattering should occur,
+
+angles.
+
+since the displacement of
+
+atoms from
+
+their
+
+mean
+
+positions constitutes a
+
+kind of crystal imperfection and leads to a partial breakdown of the conditions necessary for perfect destructive interference
+
+tered at non-Bragg angles.
+The effect of thermal vibration also illustrates
+
+between rays scat-
+
+what has been
+
+called
+
+"
+
+This law
+"the approximate law of conservation of diffracted energy.
+a
+under
+the
+diffracted
+states that
+total energy
+by particular specimen
+particular experimental conditions is roughly constant.
+
+Therefore, anything
+specimen does not alter the total
+distribution in space. This "law"
+
+done to
+
+alter the physical condition of the
+
+amount
+
+of diffracted energy but only its
+
+all rigorous, but it does prove helpful in considering many diffracphenomena. For example, at low temperatures there is very little
+background scattering due to thermal agitation and the diffraction lines
+is
+
+not at
+
+tion
+
+are relatively intense; if the specimen is now heated to a high temperature,
+the lines will become quite weak and the energy which is lost from
+the lines will appear in a spread-out form as temperature-diffuse scattering.
+
+

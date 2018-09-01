@@ -1,0 +1,126 @@
+LORENTZ FACTOR
+
+4-9]
+
+125
+
+DIFFRACTION ANGLE
+FIG. 4-13.
+
+Diffraction
+
+by a
+
+crystal rotated through the
+
+characteristic of the specimen while the latter
+
+ments
+
+26
+
+(b)
+
+(a)
+
+of the experimental apparatus.
+
+is
+
+Bragg angle.
+
+influenced by slight adjust-
+
+Moreover, in the visual comparison
+
+it is the integrated intensity of the
+intensity which the eye evaluates.
+
+of the intensities of diffraction lines,
+line rather
+
+The
+
+than the
+
+maximum
+
+integrated intensity of a reflection depends on the particular value
+even though all other variables are held constant.
+can
+
+We
+
+of BB involved,
+
+find this
+
+dependence by considering, separately,
+
+maximum
+
+tion curve: the
+
+intensity
+
+two aspects
+
+and the breadth.
+
+When
+
+of the diffrac-
+
+the reflecting
+
+make an
+
+angle BB with the incident beam, the Bragg law is exactly
+planes
+satisfied and the intensity diffracted in the direction 26s is a maximum.
+
+But some energy
+dence
+
+is still
+
+differs slightly
+
+when the angle of incithe total energy diffracted in the direcrotated through the Bragg angle is given by the
+
+diffracted in this direction
+
+from
+
+tion 20# as the crystal
+
+is
+
+fe, (and
+
+value of / m ax of the curve of Fig. 4-13(b). ^The value of / ma x therefore
+depends on the angular range of crystal rotation over which the energy
+diffracted in the direction 20
+lines
+
+show the
+
+is
+
+appreciable.) In Fig. 4-14(a), the dashed
+
+position of the crystal after rotation through a small angle
+2,
+2'
+
+(a)
+
+FIG. 4-14.
+
+Scattering in
+
+(b)
+
+a fixed direction during crystal rotation.
+
+

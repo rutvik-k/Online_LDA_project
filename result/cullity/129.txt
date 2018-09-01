@@ -1,0 +1,120 @@
+124
+
+DIFFRACTION
+
+II
+
+THE INTENSITIES OF DIFFRACTED BEAMS
+
+:
+
+[CHAP. 4
+
+4-8 Multiplicity factor. Consider the 100 reflection from a cubic latIn the powder specimen, some of the crystals will be so oriented that
+Other crystals of different
+reflection can occur from their (100) planes.
+can occur from their
+reflection
+that
+a
+in
+such
+be
+orientation may
+position
+same spacing, the
+the
+have
+all
+these
+Since
+planes
+(010) or (001) planes.
+
+tice.
+
+by them all form part of the same cone. Now consider
+the 111 reflection. There are four sets of planes of the form {111) which
+have the same spacing but different orientation, namely, (111), (111),
+the form (100).
+(111), and (ill), whereas there are only three sets of
+
+beams
+
+diffracted
+
+Therefore, the probability that {111 } planes will be correctly oriented for
+reflection is f the probability that {100} planes will be correctly oriented.
+It follows that the intensity of the 1 11 reflection will be f that of the 100
+
+other things being equal.
+This relative proportion of planes contributing to the same reflection
+enters the intensity equation as the quantity p, the multiplicity factor,
+which may be defined as the number of different planes in a form having
+reflection,
+
+the same spacing. Parallel planes with different Miller indices, such as
+num(100) and (TOO), are counted separately as different planes, yielding
+the
+Thus
+in
+the
+bers which are double those given
+preceding paragraph.
+multiplicity factor for the {100} planes of a cubic crystal
+
+{111} planes
+
+is
+
+6 and for the
+
+8.
+
+The value of p depends on the crystal system: in a tegragonal crystal,
+the (100) and (001) planes do not have the same spacing, so that the value
+of p for {100} planes is reduced to 4 and the value for {001} planes to 2.
+Values of the multiplicity factor as a function of hkl and crystal system
+are given in
+
+Appendix
+
+9.
+
+4-9 Lorentz factor. We must now consider certain trigonometrical factors which influence the intensity of the reflected beam. Suppose there is
+incident on a crystal [Fig. 4-13 (a)] a narrow beam of parallel monochromatic rays, and let the" crystal be rotated at a uniform angular velocity
+about an axis through
+set of reflecting planes,
+tal surface, passes
+satisfied.
+
+and normal to the drawing, so that a particular
+assumed for convenience to be parallel to the crys-
+
+through the angle
+
+As mentioned
+
+fe, at
+
+which the Bragg law
+
+in Sec. 3-7, the intensity of reflection
+
+is
+is
+
+exactly
+greatest
+
+at the exact Bragg angle but still appreciable at angles deviating slightly
+from the Bragg angle, so that a curve of intensity vs. 20 is of the form
+shown in Fig. 4-13 (b). If all the diffracted beams sent out by the crystal
+as it rotates through the Bragg angle are received on a photographic film
+or in a counter, the total energy of the diffracted beam can be measured.
+
+This energy is called the integrated intensity of the reflection and is given
+by the area under the curve of Fig. 4-13 (b). The integrated intensity is
+of much more interest than the maximum intensity, since the former is
+
+

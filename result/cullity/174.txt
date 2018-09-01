@@ -1,0 +1,123 @@
+CRYSTAL MONOCHROMATORS
+
+6-12]
+
+result that the reflected
+
+beam
+
+very low intensity although
+
+169
+
+of
+
+is
+
+it is itself
+
+perfectly parallel, at least in the plane
+of the drawing. In a plane at right
+angles, the reflected beam may contain both convergent
+radiation.
+
+and divergent
+
+A large gain in intensity may be
+obtained by using a bent and cut crystal, which operates on the focusing
+
+Monochromatic
+
+FIG. 6-14.
+tion
+
+when the
+
+incident
+
+reflecis
+
+non-
+
+S
+
+per-
+
+parallel.
+
+principle illustrated in Fig. 6-15.
+
+A
+
+line source of x-rays, the focal line
+
+on the tube target,
+
+pendicular to the plane of the drawing.
+
+beam
+
+The
+
+crystal
+
+is
+
+AB
+
+located at
+
+is
+
+in the
+
+form of a
+
+rectangular plate and has a set of reflecting planes parallel to its surface.
+It is elastically bent into a circular form so that the radius of curvature of
+
+the plane through C is 2R = CM; in this way, all the plane normals are
+made to pass through M, which is located on the same circle, of radius J?,
+as the source S.
+
+If
+
+the face of the crystal is then cut away behind the
+72, then all rays diverging from the source S will
+
+dotted line to a radius of
+
+encounter the lattice planes at the same Bragg angle, since the angles
+and
+are all equal to one another, being inscribed on the
+
+SDM, SCM,
+same
+
+arc
+
+SEM
+
+SM, and have
+
+the value
+
+(ir/2
+
+8).
+
+When
+
+Ka
+
+the Bragg angle is adjusted to that required for reflection of the
+component of the incident beam, then a strong monochromatic beam
+
+focusing
+circle
+
+FIG. 6-15.
+
+Focusing monochromator (reflection type).
+
+

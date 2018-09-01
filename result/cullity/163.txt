@@ -1,0 +1,93 @@
+POWDER PHOTOGEAPHS
+
+158
+
+A
+
+[CHAP. 6
+
+B
+
+N
+
+film
+
+FIG. 6-7.
+
+Seemann-Bohlin focusing camera.
+
+ticular value of 6 involved.
+
+Only one hkl
+
+reflection is
+
+shown.
+
+Figure 0-8 shows a typical powder pattern
+
+made with this camera.
+The ends of the film
+
+M
+
+and N, which
+strip are covered by knife-edges
+shadows on the film. The value of 6 for any diffraction line
+may be found from the distance U, measured on the film, from the line to
+the shadow of the low-angle knife-edge N, by use of the relation
+cast reference
+
+46R
+
+*rcSABN.
+
+(6-4)
+
+found by calibrating the camera with a standard subparameter, such as NaCl, rather than by the use
+of Eq. (6-4).
+Several patterns are prepared of the same standard with
+radiations of different wavelength, in order to obtain diffraction lines at a
+Line positions are measured on each film,
+large number of 26 positions.
+as well as the total length of the film between the knife-edge shadows
+and N. Because of variable film shrinkage, these films will generally have
+unequal lengths. The length of one is taken as a standard, and a multiplying factor is found for each of the other films which will make its length
+equal to the standard length. This factor is then applied to the U value
+of each diffraction line. The corrected values of U are then plotted against
+calculated values of 6 to obtain a calibration curve for the camera.
+In practice,
+
+stance of
+
+known
+
+is
+
+lattice
+
+M
+
+FIG. 6-8.
+
+cm
+
+Powder pattern of tungsten, made
+This camera covers a 28 range
+
+in diameter.
+
+film at
+
+left.
+
+Filtered copper radiation.
+
+Seemann-Bohlin camera, 8.4
+166. High-angle end of
+(Courtesy of John T. Norton.)
+in a
+
+of 92 to
+
+

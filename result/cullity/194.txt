@@ -1,0 +1,199 @@
+INTENSITY CALCULATIONS
+
+7-4]
+
+have a path length
+
+beam
+given by
+
+the diffracted
+therefore
+
+189
+
+BC in the specimen. The energy flux per second in
+outside the specimen, i.e., the integrated intensity, is
+
+of
+
+dID
+
+ablI c- (AB+BC}
+
+=
+
+dx
+
+(7-1)
+
+(ergs/sec).
+
+But
+sin
+
+x
+
+x
+
+1
+
+a
+
+sin
+
+a
+
+sin
+
+ft
+
+Therefore,
+in
+
+sn
+
+a
+
+/J)
+
+dj
+
+(7_ 2 )
+
+in
+
+the diffractometer,
+
+a.
+
+For the particular specimen arrangement used
+becomes
+^
+0, and the above equation
+
+=
+
+m
+
+9
+
+_
+
+dx
+
+(7 3)
+
+sin 6
+
+The
+
+total diffracted intensity
+
+thick specimen
+
+x
+
+:
+
+ID
+
+Here 7
+
+,
+
+=
+
+and M are constant
+
+6,
+
+obtained by integrating over an infinitely
+
+is
+
+for all reflections (independent of 8)
+
+and we
+
+may also regard a as constant. Actually, a varies with 0, but this variation
+is already taken care of by the cos0 portion of the Lorentz factor (see
+Sec. 4-9) and need not concern us here. We conclude that the absorption
+for a flat specimen making equal angles
+independent of
+with the incident and diffracted beams, provided the specimen fills the
+*
+This
+incident beam at all angles and is effectively of infinite thickness.
+factor, l/2/i, is
+
+adopted for "infinite thickness" depends on the sensitivity of pur
+or on what we regard as negligible diffracted intensity.
+measurements
+intensity
+For example, we might arbitrarily but quite reasonably define infinite thickness as
+that thickness t which a specimen must have in order that the intensity diffracted
+a thin layer
+by a thin layer on the back side be T ^Vo f tne intensity diffracted by
+on the front side. Then, from Eq. (7-3) we have
+*
+
+1
+
+'
+
+The
+
+criterion
+
+dip
+d!D
+
+(at x
+
+(at
+
+=
+
+0)
+
+x -=
+
+=
+
+^
+
+from which
+
+t/Bm
+
+e
+
+=
+
+]0()0
+
+.
+
+_
+
+3. 45 sin 8
+
+M
+This expression shows that "infinite thickness," for a metal specimen, is very
+small indeed. For example, suppose a specimen of nickel powder is being examined with Cu KOL radiation at 8 values approaching 90. The density of the
+of bulk nickel, which is
+powder compact may be taken as about 0.6 the density
+3
+The value of t
+8.9 gm/cm leading to a value of M for the compact of 263 cm"
+~2
+is therefore 1.31 X 10
+cm, or about five thousandths of an inch.
+1
+
+.
+
+,
+
+

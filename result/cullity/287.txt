@@ -1,0 +1,119 @@
+THE STRUCTURE OF POLYCRYSTALLINE AGGREGATES
+
+282
+
+[CHAP. 9
+
+R.D.
+
+==i TD.
+
++
+
+T.D.
+
+FIG. 9-14.
+ft.
+
+Drawn
+
+Method
+
+for 6
+
+=
+
+10
+
+of plotting reflecting pole positions for nonzero values of
+
+and
+
+ft
+
+= 40.
+
+The procedure for plotting the
+ring on each photograph.
+will
+be
+from
+these
+measurements
+illustrated here for an idealized
+pole figure
+case like that shown in Fig. 9-13, where the intensity of the Debye ring is
+constant over certain angular ranges and zero between them. The range
+
+ticular
+
+Debye
+
+of blackening of the
+
+is plotted stereographically as a range of
+the
+reflection circle, the azimuthal angle a
+reflecting pole positions along
+on the film equal to the azimuthal angle a on the projection. Although
+
+Debye
+
+arcs
+
+SCN
+
+is fixed in space (see Fig. 9-8 where
+is now the
+the
+direction
+its
+on
+of
+the
+sheet
+rolling
+position
+specimen),
+projection
+varies with the rotational position
+of the specimen, since the projection
+
+the reflection circle
+
+plane
+
+is
+
+When
+
+parallel to the surface of the sheet
+ft
+
+= 0,
+
+the reflection circle
+
+the projection and
+
+is
+
+and rotates with
+
+it.
+
+concentric with the basic circle of
+
+degrees inside it, as shown in Fig. 9-14, which is
+10. When the specimen is then rotated, for example by
+40 in the sense shown in Fig. 9-12, the new position of the reflection circle
+is found by rotating two or three points on the
+.reflection circle bv 40
+
+drawn
+
+for
+
+=
+
+

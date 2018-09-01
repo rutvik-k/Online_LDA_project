@@ -1,0 +1,119 @@
+SPECIMEN HOLDERS
+
+5-3]
+
+143
+
+they would ordinarily bo. Each particle of the screen which is struck by
+x-rays emits light in all directions and therefore blackens the film outside
+the region blackened by the diffracted beam itself, as suggested in Fig. 5-5.
+This effect is aggravated by the fact that most x-ray film is double-coated,
+the two layers of emulsion being separated by an appreciable thickness of
+
+Even when an
+
+film base.
+
+intensifying screen
+
+is
+
+not used, double-coated
+
+formed by an obliquely incident
+beam to be larger than the cross section of the beam itself; in extreme
+cases, an apparent doubling of the diffraction spot results, as shown in
+film causes the size of a diffraction spot
+
+Fig. 5-0.
+
+5-3 Specimen holders.
+
+Before going into the question of specimen
+
+holders, we might consider the specimen itself
+Obviously, a specimen for
+the transmission method must have low enough absorption to transmit the
+diffracted beams; in practice, this means that relatively thick specimens
+of a light element like aluminum may be used but that the thickness of a
+fairly
+
+heavy element
+
+like
+
+copper must be reduced, by etching, for example,
+
+On the other hand, the specimen must
+not be too thin or the diffracted intensity will be too low, since the intensity
+of a diffracted beam is proportional to the volume of diffracting material.
+to a few thousandths of an inch
+
+In the back-reflection method, there is no restriction on the specimen
+thickness and quite massive specimens may be examined, since the diffracted beams originate in only a thin surface layer of the specimen. This
+
+one which
+
+between the two methods may be stated in another way and
+is well worth remembering: any information about a thick
+
+specimen
+
+obtained by the back-reflection method applies only to a
+
+difference
+
+thin surface layer of that specimen,
+
+whereas information recorded on a
+transmission pattern is represent at ive
+of the complete thickness of the speci-
+
+men, simply because the transmission
+specimen must necessarily be thin
+enough to transmit diffracted beams
+from all parts of its cross section.*
+There is a large variety of specimen
+holders in use, each suited to some
+particular
+
+purpose.
+
+The
+
+consists of a fixed post to
+
+specimen
+plasticine.
+
+'
+
+attached with
+
+wax
+
+or
+
+A more elaborate holder is
+
+when it is necessary to set a
+in some particular orientation
+
+required
+crystal
+
+is
+
+simplest
+
+which the
+
+FIG* 5-7. Goniometer with
+rotation axes,
+(Courtesy of
+
+Supper Co,)
+
+See Sec. 9-5 for further discussion of this point.
+
+

@@ -1,0 +1,68 @@
+RELATIVE ORIENTATION OF TWINNED CRYSTALS
+
+8-7]
+
+251
+
+trace of
+
+composition
+plane
+
+(a)
+
+FIG. 8-34.
+
+Projection of the trace of a plane in a surface.
+
+N
+
+and S, represent the trace. Note that the diameter ACB does not
+represent the trace; ACB represents a plane perpendicular to the plane of
+polish which could have caused the observed trace, but so could the infrom
+
+clined planes ADB, AFB, and AGB.
+Evidently any number of planes
+could have caused the observed trace, and all we can say with certainty is
+that the pole of the composition plane lies somewhere on the diameter HK,
+
+where
+
+H and K are 90
+
+from the trace direction
+
+A ,B.
+
+HK
+
+is
+
+called a trace
+
+normal.
+
+To
+
+fix
+
+the orientation of the composition plane requires additional infor-
+
+mation which can be obtained by sectioning the twinned grain by another
+
+AT
+^^-
+
+direction A,
+
+(a)
+
+FIG. 8-35.
+
+H
+
+(b)
+
+Projection of the trace of a plane in two surfaces.
+
+

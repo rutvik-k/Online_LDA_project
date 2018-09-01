@@ -1,0 +1,172 @@
+8CALER8
+
+7-8]
+
+203
+
+must have been
+AT
+
+where a
+the
+
+is
+
+=
+
+N
+
+an integer ranging from
+
+number
+
+of pulses
+
+n
+
+(2
+
+)
+
++
+
+(7-5)
+
+a,
+
+n
+
+The integer a gives
+up to (2
+1).
+when the input pulses were shut
+
+"in the circuit"
+
+still
+
+off, and its value is found by noting which of several neon interpolation
+lamps connected to the several stages are still on. As indicated in Fig.
+7-19 for a scale-of-16 circuit, there is a neon lamp connected to each stage
+~
+and the number opposite each lamp is 2 n 1 where n is the number of the
+stage. The initial pulse entering a stage turns the lamp on and the second
+
+pulse turns
+
+it off.
+Since the second entering pulse causes a pulse to be
+transmitted to the next stage, the lamp on that stage goes on at the same
+time that the lamp on the preceding stage goes out. The integer a is
+therefore given by the sum of the numbers opposite
+lighted neon lamps.
+
+The
+
+=
+
+rate
+
+shown in Fig. 7-19, for example, is N = 18(16) + (2 + 4)
+Once the total number of counts is known, the average counting
+
+total count
+
+294.
+
+given simply by N/t.
+In the second method of scaling (counting a fixed number of pulses),
+the mechanical counter is replaced by an electric timer. The timer is conis
+
+nected to the circuit in such a
+
+way
+
+and stops at the instant a pulse
+
+that
+
+it
+
+starts
+
+when
+
+the sealer
+
+is
+
+started
+
+transmitted from the last stage. For
+example, if the timer is connected to a 10-stage sealer, it will stop when
+10
+exactly 1024 (= 2 ) pulses have entered the first stage, because at that
+instant the tenth stage will transmit its first pulse; the average
+counting
+is
+
+then given by the quotient of 1024 and the time shown on the timer.
+circuit requires no interpolation since no counts remain in the circuit
+at the instant the final stage transmits its pulse to the timer;
+i.e., all the
+rate
+
+is
+
+Such a
+
+neon
+
+lights are
+
+The
+
+any desired
+
+stage,
+
+number
+
+of counts, which must be a power
+by a switch which connects the timer to
+thus making that stage the final stage and short-circuit-
+
+off.
+
+of 2 in a binary sealer,
+
+is
+
+total
+
+selected
+
+ing the remainder.
+Because the arrival of x-ray quanta in the counter is random in time,
+the accuracy of a counting rate measurement is governed by the laws of
+
+Two counts of the same x-ray beam for identical periods of
+not be precisely the same because of the random spacing between
+
+probability.
+
+time
+
+will
+
+interpolation
+
+x
+
+v
+
+numbers ~~^ \i)
+mechanical
+counter
+
+FIG. 7-19.
+
+Determination of sealer counts.
+
+

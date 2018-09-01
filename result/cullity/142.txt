@@ -1,0 +1,120 @@
+PROBLEMS
+
+137
+
+Note that these positions involve a common translation, which may be factored
+out of the structure-factor equation.
+4-6. In Sec. 4-9, in the part devoted to scattering when the incident and scattered beams make unequal angles witli the reflecting planes, it is stated that
+"rays scattered by all other planes are in phase with the corresponding rays scat-
+
+by the first plane." Prove this.
+4-7. Calculate the position (in terms of 6) and the integrated intensity (in relative units) of the first five lines on the Debye pattern of silver made with Cu Ka
+tered
+
+Ignore the temperature and absorption factors.
+Debye-Scherrer pattern of tungsten (BCC) is made with Cu Ka radiaThe first four lines on this pattern were observed to have the following 8
+
+radiation.
+4-^8.
+
+tion.
+
+A
+
+values:
+
+Line
+
+6
+
+20.3
+29.2
+36.7
+43.6
+
+1
+
+2
+3
+4
+
+Index these
+
+lines
+
+(i.e.,
+
+determine the Miller indices of each reflection by the use
+
+of Eq. (3-10) and Appendix 6) and calculate their relative integrated intensities.
+4-9.
+Debye-Scherrer pattern is made of gray tin, which has the same struc-
+
+A
+
+ture as diamond, with Cu
+on the pattern, and what
+
+Ka
+is
+
+What
+
+radiation.
+
+are the indices of the
+
+first
+
+the ratio of the integrated intensity of the
+
+two
+
+first
+
+lines
+
+to that
+
+of the second?
+
+A
+
+Debye-Scherrer pattern is made of the intermediate phase InSb with
+This phase has the zinc-blende structure and a lattice parameter
+of 6.46A. What are the indices of the first two lines on the pattern, and what is
+the ratio of the integrated intensity of the first to the second?
+4-11. Calculate the relative integrated intensities of the first six lines of the
+Debye-Scherrer pattern of zinc, made with Cu Ka radiation. The indices and ob4-10.
+
+Cu Ka
+
+radiation.
+
+served 6 values of these lines are:
+
+Line
+
+(Line 5
+
+is
+
+made up
+
+of
+
+hkl
+
+two unresolved
+
+lines
+
+6
+
+from planes of very nearly the same
+
+spacing.)
+Compare your results with the intensities observed in the pattern
+shown in Fig. 3-13(b).
+
+

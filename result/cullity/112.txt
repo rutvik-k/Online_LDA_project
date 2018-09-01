@@ -1,0 +1,155 @@
+SCATTERING BY AN ELECTRON
+
+4-2]
+
+107
+\
+
+before impact
+
+after impart
+
+Coherent scattering
+
+FIG. 4-3.
+
+FIG. 4-4.
+
+of x-
+
+This
+
+the
+
+is
+
+Thomson equation
+
+single electron.
+
+Elastic collision of photon
+
+and electron (Compton
+
+rays by a single electron.
+
+for the scattering of
+
+If the values of the constants
+
+e, r,
+
+effect).
+
+an x-ray beam by a
+m, and c are inserted
+
+into this equation, it will be found that the intensity of the scattered beam
+The equais only a minute fraction of the intensity of the incident beam.
+tion also shows that the scattered intensity decreases as the inverse square
+
+from the scattering atom, as one \vould expect, and that
+is stronger in forward or backward directions than in a
+direction at right angles to the incident beam.
+
+of the distance
+
+the scattered
+
+beam
+
+The Thomson equation gives the absolute intensity (in ergs/sq cm/sec)
+beam in terms of the absolute intensity of the incident
+
+of the scattered
+
+These absolute
+
+beam.
+
+to calculate, so
+
+it
+
+is
+
+intensities are
+
+both
+
+difficult to
+
+measure and
+
+difficult
+
+fortunate that relative values are sufficient for our
+
+purposes in practically all diffraction problems. In most cases, all factors
+in Eq. (4-2) except the last are constant during the experiment and can
+
++
+
+2
+
+cos 26), is called the polamation
+be omitted.* This last factor, ^(1
+term
+because, as we have just seen, this
+factor; this is a rather unfortunate
+factor enters the equation simply because the incident beam is unpolarized.
+The polarization factor is common to all intensity calculations, and we
+will
+
+use
+
+it
+
+later in our equation for the intensity of a
+
+beam
+
+diffracted
+
+by a
+
+crystalline powder.
+
+another and quite different way in which an electron can scatter
+This effect, discovered
+is manifested in the Compton effect.
+by A. H. Compton in 1923, occurs whenever x-rays encounter loosely
+bound or free electrons and can be best understood by considering the
+
+There
+
+x-rays,
+
+is
+
+and that
+
+wave motion, but as a stream of x-ray quanta or
+When such a photon strikes a loosely bound
+of
+each
+hvi.
+energy
+photons,
+one like that of two billiard balls (Fig.
+is
+an
+elastic
+collision
+the
+electron,
+\ The electron is knocked aside and the photon is deviated through
+Since some of the energy of the incident photon is used in
+Jigle 26.
+incident beam, not as a
+
+/iding kinetic energy for the electron, the energy hv 2 of the
+
+photon
+
+

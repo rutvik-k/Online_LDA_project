@@ -1,0 +1,178 @@
+DIFFRACTION
+
+96
+spacing.
+2
+
+(h
+
++
+
+k
+
+2
+
+THE DIRECTIONS OF DIFFRACTED BEAMS
+
+i:
+
+[CHAP. 3
+
+In the cubic system, for example, d is a maximum when
+2
+I ) is a minimum, and the minimum v#lue of this term is 1,
+
++
+
+corresponding to (hkl) equal to (100). The 100 reflection is accordingly
+the one of lowest 20 value. The next reflection will have indices hkl corre2
+sponding to the next highest value of (h
+
++
+
+k
+
+2
+
++
+
+2
+/
+
+),
+
+namely
+
+case (hkl) equals (110), and so on.
+The Debye-Scherrer and other variations of the powder
+
+2, in
+
+method
+
+which
+
+are very
+
+widely used, especially in metallurgy. The powder method is, of course,
+the only method that can be employed when a single crystal specimen is
+
+not available, and this is the case more often than not in metallurgical
+work. The method is especially suited for determining lattice parameters
+with high precision and for the identification of phases, whetrier they occur
+alone or in mixtures such as polyphase alloys, corrosion products, refractories,
+
+and
+
+rocks.
+
+These and other uses
+
+of the
+
+powder method
+
+be fully
+
+will
+
+described in later chapters.
+Finally, the x-ray spectrometer can be used as a tool in diffraction anal-
+
+This instrument
+
+ysis.
+
+is
+
+known
+
+as a diffractometer
+
+when
+
+it is
+
+used with
+
+known wavelength to determine the unknown spacing of crystal
+and
+as a spectrometer in the reverse case, when crystal planes of
+planes,
+known spacing are used to determine unknown wavelengths. The diffractometer is always used with monochromatic radiation and measurements
+x-rays of
+
+may
+
+be
+
+made on
+
+either single crystals or polycry stalline specimens
+
+much
+
+;
+
+in the
+
+a Debye-Scherrer camera in that the
+counter intercepts and measures only a short arc of any one cone of dif-
+
+latter case,
+
+it
+
+functions
+
+like
+
+fracted rays.
+
+3-7 Diffraction under nonideal conditions.
+
+Before going any further,
+and consider with some care the derivation of the
+Bragg law given in Sec. 3-2 in order to understand precisely under what
+conditions it is strictly valid. In our derivation we assumed certain ideal
+conditions, namely a perfect crystal and an incident beam composed of
+perfectly parallel and strictly monochromatic radiation. These conditions
+never actually exist, so we must determine the effect on diffraction of various kinds of departure from the ideal.
+In particular, the way in which destructive interference is produced in
+all directions except those of the diffracted beams is worth
+considering in
+some detail, both because it is fundamental to the theory of diffraction
+and because it will lead us to a method for estimating the size of very small
+it is
+
+important to stop
+
+We will find that only the infinite crystal is really perfect and
+that small size alone, of an otherwise perfect crystal, can be considered a
+crystals.
+
+crystal imperfection.
+
+The
+
+condition for reinforcement used in Sec. 3-2
+
+volved must
+
+differ in
+
+path length, that
+
+is,
+
+in phase,
+
+is
+
+that the waves in-
+
+by exactly an
+
+integral
+
+
